@@ -1,0 +1,28 @@
+{
+  "version": "1.4.0",
+  "additions": {
+    "VOCAB": 56,
+    "GRAMMAR": 20,
+    "KANJI": 0,
+    "FOUNDATION": 0,
+    "READINGS": 10,
+    "BLANKS": 0,
+    "ORDERS": 0,
+    "WRITING": 0,
+    "TOPICS": 5,
+    "USAGE": 5
+  },
+  "metadata": {
+    "version": "1.4.0",
+    "vocabAdded": 56,
+    "grammarAdded": 20,
+    "grammarEnriched": 0,
+    "topicsAdded": 5
+  },
+  "readingQuestions": 28,
+  "n1Lengths": [
+    759,
+    766
+  ],
+  "oldEntriesPreserved": 13963
+}

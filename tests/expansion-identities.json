@@ -1,0 +1,1866 @@
+{
+  "p12-00": {
+    "category": "vocab",
+    "identity": "お世話になります"
+  },
+  "p12-01": {
+    "category": "vocab",
+    "identity": "よろしくお願いします"
+  },
+  "p12-02": {
+    "category": "vocab",
+    "identity": "気をつけて"
+  },
+  "p12-03": {
+    "category": "vocab",
+    "identity": "道に迷う"
+  },
+  "p12-04": {
+    "category": "vocab",
+    "identity": "お腹がすく"
+  },
+  "p12-05": {
+    "category": "vocab",
+    "identity": "喉が渇く"
+  },
+  "p12-06": {
+    "category": "vocab",
+    "identity": "写真を撮る"
+  },
+  "p12-07": {
+    "category": "vocab",
+    "identity": "電話をかける"
+  },
+  "p12-08": {
+    "category": "vocab",
+    "identity": "時間がかかる"
+  },
+  "p12-09": {
+    "category": "vocab",
+    "identity": "お風呂に入る"
+  },
+  "p12-10": {
+    "category": "vocab",
+    "identity": "相談に乗る"
+  },
+  "p12-11": {
+    "category": "vocab",
+    "identity": "都合がつく"
+  },
+  "p12-12": {
+    "category": "vocab",
+    "identity": "予定を立てる"
+  },
+  "p12-13": {
+    "category": "vocab",
+    "identity": "約束を守る"
+  },
+  "p12-14": {
+    "category": "vocab",
+    "identity": "気が進まない"
+  },
+  "p12-15": {
+    "category": "vocab",
+    "identity": "気が散る"
+  },
+  "p12-16": {
+    "category": "vocab",
+    "identity": "手が空く"
+  },
+  "p12-17": {
+    "category": "vocab",
+    "identity": "席を外す"
+  },
+  "p12-18": {
+    "category": "vocab",
+    "identity": "忘れ物をする"
+  },
+  "p12-19": {
+    "category": "vocab",
+    "identity": "申し込みをする"
+  },
+  "p12-20": {
+    "category": "vocab",
+    "identity": "気を配る"
+  },
+  "p12-21": {
+    "category": "vocab",
+    "identity": "気を取り直す"
+  },
+  "p12-22": {
+    "category": "vocab",
+    "identity": "足を運ぶ"
+  },
+  "p12-23": {
+    "category": "vocab",
+    "identity": "目を通す"
+  },
+  "p12-24": {
+    "category": "vocab",
+    "identity": "耳を傾ける"
+  },
+  "p12-25": {
+    "category": "vocab",
+    "identity": "手を抜く"
+  },
+  "p12-26": {
+    "category": "vocab",
+    "identity": "力を入れる"
+  },
+  "p12-27": {
+    "category": "vocab",
+    "identity": "見当がつく"
+  },
+  "p12-28": {
+    "category": "vocab",
+    "identity": "話が合う"
+  },
+  "p12-29": {
+    "category": "vocab",
+    "identity": "間に合わせる"
+  },
+  "p12-30": {
+    "category": "vocab",
+    "identity": "見通しが立つ"
+  },
+  "p12-31": {
+    "category": "vocab",
+    "identity": "折り合いをつける"
+  },
+  "p12-32": {
+    "category": "vocab",
+    "identity": "筋が通る"
+  },
+  "p12-33": {
+    "category": "vocab",
+    "identity": "裏付けを取る"
+  },
+  "p12-34": {
+    "category": "vocab",
+    "identity": "余地がある"
+  },
+  "p12-35": {
+    "category": "vocab",
+    "identity": "水を差す"
+  },
+  "p12-36": {
+    "category": "vocab",
+    "identity": "歯止めをかける"
+  },
+  "p12-37": {
+    "category": "vocab",
+    "identity": "目途が立つ"
+  },
+  "p12-38": {
+    "category": "vocab",
+    "identity": "一概に言えない"
+  },
+  "p12-39": {
+    "category": "vocab",
+    "identity": "念を押す"
+  },
+  "p12-40": {
+    "category": "vocab",
+    "identity": "一線を画する"
+  },
+  "p12-41": {
+    "category": "vocab",
+    "identity": "本末転倒"
+  },
+  "p12-42": {
+    "category": "vocab",
+    "identity": "暗黙の了解"
+  },
+  "p12-43": {
+    "category": "vocab",
+    "identity": "異議を唱える"
+  },
+  "p12-44": {
+    "category": "vocab",
+    "identity": "一石を投じる"
+  },
+  "p12-45": {
+    "category": "vocab",
+    "identity": "一翼を担う"
+  },
+  "p12-46": {
+    "category": "vocab",
+    "identity": "余念がない"
+  },
+  "p12-47": {
+    "category": "vocab",
+    "identity": "枚挙にいとまがない"
+  },
+  "p12-48": {
+    "category": "vocab",
+    "identity": "看過できない"
+  },
+  "p12-49": {
+    "category": "vocab",
+    "identity": "推して知るべし"
+  },
+  "g12-000": {
+    "category": "grammar",
+    "identity": "何／誰／どこ／いつ"
+  },
+  "g12-001": {
+    "category": "grammar",
+    "identity": "どんな"
+  },
+  "g12-002": {
+    "category": "grammar",
+    "identity": "どう／いかが"
+  },
+  "g12-003": {
+    "category": "grammar",
+    "identity": "いくら／いくつ"
+  },
+  "g12-004": {
+    "category": "grammar",
+    "identity": "AはBが形容词"
+  },
+  "g12-005": {
+    "category": "grammar",
+    "identity": "名词＋にする"
+  },
+  "g12-006": {
+    "category": "grammar",
+    "identity": "になる／くなる"
+  },
+  "g12-007": {
+    "category": "grammar",
+    "identity": "にする／くする"
+  },
+  "g12-008": {
+    "category": "grammar",
+    "identity": "てから"
+  },
+  "g12-009": {
+    "category": "grammar",
+    "identity": "くて／で"
+  },
+  "g12-010": {
+    "category": "grammar",
+    "identity": "名词＋がほしい"
+  },
+  "g12-011": {
+    "category": "grammar",
+    "identity": "数量＋も"
+  },
+  "g12-012": {
+    "category": "grammar",
+    "identity": "数量＋で"
+  },
+  "g12-013": {
+    "category": "grammar",
+    "identity": "ずつ"
+  },
+  "g12-014": {
+    "category": "grammar",
+    "identity": "ごろ／ぐらい"
+  },
+  "g12-015": {
+    "category": "grammar",
+    "identity": "どうして／なぜ"
+  },
+  "g12-016": {
+    "category": "grammar",
+    "identity": "疑问词＋か"
+  },
+  "g12-017": {
+    "category": "grammar",
+    "identity": "疑问词＋でも"
+  },
+  "g12-018": {
+    "category": "grammar",
+    "identity": "ませんでしたか"
+  },
+  "g12-019": {
+    "category": "grammar",
+    "identity": "よく／あまり／全然"
+  },
+  "g12-020": {
+    "category": "grammar",
+    "identity": "んです／のです"
+  },
+  "g12-021": {
+    "category": "grammar",
+    "identity": "てもらえませんか"
+  },
+  "g12-022": {
+    "category": "grammar",
+    "identity": "ていただけませんか"
+  },
+  "g12-023": {
+    "category": "grammar",
+    "identity": "お～ください"
+  },
+  "g12-024": {
+    "category": "grammar",
+    "identity": "お～になる"
+  },
+  "g12-025": {
+    "category": "grammar",
+    "identity": "お／ご～する"
+  },
+  "g12-026": {
+    "category": "grammar",
+    "identity": "ているところに"
+  },
+  "g12-027": {
+    "category": "grammar",
+    "identity": "ように見える"
+  },
+  "g12-028": {
+    "category": "grammar",
+    "identity": "られる（尊敬）"
+  },
+  "g12-029": {
+    "category": "grammar",
+    "identity": "てほしい"
+  },
+  "g12-030": {
+    "category": "grammar",
+    "identity": "たがる"
+  },
+  "g12-031": {
+    "category": "grammar",
+    "identity": "がる"
+  },
+  "g12-032": {
+    "category": "grammar",
+    "identity": "のでしょうか"
+  },
+  "g12-033": {
+    "category": "grammar",
+    "identity": "必要がある"
+  },
+  "g12-034": {
+    "category": "grammar",
+    "identity": "なくなる"
+  },
+  "g12-035": {
+    "category": "grammar",
+    "identity": "始める／終わる／続ける"
+  },
+  "g12-036": {
+    "category": "grammar",
+    "identity": "出す（起始）"
+  },
+  "g12-037": {
+    "category": "grammar",
+    "identity": "だけしか～ない"
+  },
+  "g12-038": {
+    "category": "grammar",
+    "identity": "か～か"
+  },
+  "g12-039": {
+    "category": "grammar",
+    "identity": "かた"
+  },
+  "g12-040": {
+    "category": "grammar",
+    "identity": "さ／み"
+  },
+  "g12-041": {
+    "category": "grammar",
+    "identity": "のは～だ"
+  },
+  "g12-042": {
+    "category": "grammar",
+    "identity": "ならいい"
+  },
+  "g12-043": {
+    "category": "grammar",
+    "identity": "といい"
+  },
+  "g12-044": {
+    "category": "grammar",
+    "identity": "ている間"
+  },
+  "g12-045": {
+    "category": "grammar",
+    "identity": "ように（举例）"
+  },
+  "g12-046": {
+    "category": "grammar",
+    "identity": "といえば"
+  },
+  "g12-047": {
+    "category": "grammar",
+    "identity": "というと"
+  },
+  "g12-048": {
+    "category": "grammar",
+    "identity": "といっても"
+  },
+  "g12-049": {
+    "category": "grammar",
+    "identity": "というのは"
+  },
+  "g12-050": {
+    "category": "grammar",
+    "identity": "ということだ"
+  },
+  "g12-051": {
+    "category": "grammar",
+    "identity": "に違いない／はず（辨析）"
+  },
+  "g12-052": {
+    "category": "grammar",
+    "identity": "つもりだった"
+  },
+  "g12-053": {
+    "category": "grammar",
+    "identity": "つもりで"
+  },
+  "g12-054": {
+    "category": "grammar",
+    "identity": "予定では"
+  },
+  "g12-055": {
+    "category": "grammar",
+    "identity": "ものだから"
+  },
+  "g12-056": {
+    "category": "grammar",
+    "identity": "もの／もん"
+  },
+  "g12-057": {
+    "category": "grammar",
+    "identity": "なんだか"
+  },
+  "g12-058": {
+    "category": "grammar",
+    "identity": "せっかく"
+  },
+  "g12-059": {
+    "category": "grammar",
+    "identity": "わざわざ"
+  },
+  "g12-060": {
+    "category": "grammar",
+    "identity": "つい"
+  },
+  "g12-061": {
+    "category": "grammar",
+    "identity": "うっかり"
+  },
+  "g12-062": {
+    "category": "grammar",
+    "identity": "たところ（发现）"
+  },
+  "g12-063": {
+    "category": "grammar",
+    "identity": "としても"
+  },
+  "g12-064": {
+    "category": "grammar",
+    "identity": "にしても"
+  },
+  "g12-065": {
+    "category": "grammar",
+    "identity": "にしては"
+  },
+  "g12-066": {
+    "category": "grammar",
+    "identity": "わりに"
+  },
+  "g12-067": {
+    "category": "grammar",
+    "identity": "くせに"
+  },
+  "g12-068": {
+    "category": "grammar",
+    "identity": "ことに"
+  },
+  "g12-069": {
+    "category": "grammar",
+    "identity": "ことだから"
+  },
+  "g12-070": {
+    "category": "grammar",
+    "identity": "ないと"
+  },
+  "g12-071": {
+    "category": "grammar",
+    "identity": "なきゃ／なくちゃ"
+  },
+  "g12-072": {
+    "category": "grammar",
+    "identity": "てしょうがない"
+  },
+  "g12-073": {
+    "category": "grammar",
+    "identity": "てたまらない"
+  },
+  "g12-074": {
+    "category": "grammar",
+    "identity": "てならない"
+  },
+  "g12-075": {
+    "category": "grammar",
+    "identity": "ほどの"
+  },
+  "g12-076": {
+    "category": "grammar",
+    "identity": "くらいなら"
+  },
+  "g12-077": {
+    "category": "grammar",
+    "identity": "しかない"
+  },
+  "g12-078": {
+    "category": "grammar",
+    "identity": "しかたがない"
+  },
+  "g12-079": {
+    "category": "grammar",
+    "identity": "おきに"
+  },
+  "g12-080": {
+    "category": "grammar",
+    "identity": "ごとに"
+  },
+  "g12-081": {
+    "category": "grammar",
+    "identity": "に加えて"
+  },
+  "g12-082": {
+    "category": "grammar",
+    "identity": "に反して"
+  },
+  "g12-083": {
+    "category": "grammar",
+    "identity": "に代わって"
+  },
+  "g12-084": {
+    "category": "grammar",
+    "identity": "において"
+  },
+  "g12-085": {
+    "category": "grammar",
+    "identity": "にかけて"
+  },
+  "g12-086": {
+    "category": "grammar",
+    "identity": "にかけては"
+  },
+  "g12-087": {
+    "category": "grammar",
+    "identity": "から見ると"
+  },
+  "g12-088": {
+    "category": "grammar",
+    "identity": "からすると"
+  },
+  "g12-089": {
+    "category": "grammar",
+    "identity": "からして"
+  },
+  "g12-090": {
+    "category": "grammar",
+    "identity": "にしたら"
+  },
+  "g12-091": {
+    "category": "grammar",
+    "identity": "としては"
+  },
+  "g12-092": {
+    "category": "grammar",
+    "identity": "を中心に"
+  },
+  "g12-093": {
+    "category": "grammar",
+    "identity": "を込めて"
+  },
+  "g12-094": {
+    "category": "grammar",
+    "identity": "抜きで"
+  },
+  "g12-095": {
+    "category": "grammar",
+    "identity": "ばかりだ（剩余）"
+  },
+  "g12-096": {
+    "category": "grammar",
+    "identity": "ところだった"
+  },
+  "g12-097": {
+    "category": "grammar",
+    "identity": "て以来"
+  },
+  "g12-098": {
+    "category": "grammar",
+    "identity": "てはじめて"
+  },
+  "g12-099": {
+    "category": "grammar",
+    "identity": "てからでないと"
+  },
+  "g12-100": {
+    "category": "grammar",
+    "identity": "ない限り"
+  },
+  "g12-101": {
+    "category": "grammar",
+    "identity": "限りでは"
+  },
+  "g12-102": {
+    "category": "grammar",
+    "identity": "に限ったことではない"
+  },
+  "g12-103": {
+    "category": "grammar",
+    "identity": "とは"
+  },
+  "g12-104": {
+    "category": "grammar",
+    "identity": "というより"
+  },
+  "g12-105": {
+    "category": "grammar",
+    "identity": "どちらかというと"
+  },
+  "g12-106": {
+    "category": "grammar",
+    "identity": "のみならず"
+  },
+  "g12-107": {
+    "category": "grammar",
+    "identity": "はもちろん"
+  },
+  "g12-108": {
+    "category": "grammar",
+    "identity": "はともかく"
+  },
+  "g12-109": {
+    "category": "grammar",
+    "identity": "はさておき"
+  },
+  "g12-110": {
+    "category": "grammar",
+    "identity": "はおろか"
+  },
+  "g12-111": {
+    "category": "grammar",
+    "identity": "どころではなく"
+  },
+  "g12-112": {
+    "category": "grammar",
+    "identity": "ずじまい"
+  },
+  "g12-113": {
+    "category": "grammar",
+    "identity": "かのようだ"
+  },
+  "g12-114": {
+    "category": "grammar",
+    "identity": "ようでは"
+  },
+  "g12-115": {
+    "category": "grammar",
+    "identity": "ようものなら"
+  },
+  "g12-116": {
+    "category": "grammar",
+    "identity": "まい"
+  },
+  "g12-117": {
+    "category": "grammar",
+    "identity": "まいか"
+  },
+  "g12-118": {
+    "category": "grammar",
+    "identity": "つもりはない"
+  },
+  "g12-119": {
+    "category": "grammar",
+    "identity": "ことになっている"
+  },
+  "g12-120": {
+    "category": "grammar",
+    "identity": "にあって"
+  },
+  "g12-121": {
+    "category": "grammar",
+    "identity": "にあっては"
+  },
+  "g12-122": {
+    "category": "grammar",
+    "identity": "にあっても"
+  },
+  "g12-123": {
+    "category": "grammar",
+    "identity": "を経て"
+  },
+  "g12-124": {
+    "category": "grammar",
+    "identity": "を踏まえて"
+  },
+  "g12-125": {
+    "category": "grammar",
+    "identity": "に則って"
+  },
+  "g12-126": {
+    "category": "grammar",
+    "identity": "に準じて"
+  },
+  "g12-127": {
+    "category": "grammar",
+    "identity": "を境に"
+  },
+  "g12-128": {
+    "category": "grammar",
+    "identity": "を契機に"
+  },
+  "g12-129": {
+    "category": "grammar",
+    "identity": "が最後"
+  },
+  "g12-130": {
+    "category": "grammar",
+    "identity": "ともすれば"
+  },
+  "g12-131": {
+    "category": "grammar",
+    "identity": "ややもすると"
+  },
+  "g12-132": {
+    "category": "grammar",
+    "identity": "とばかりに"
+  },
+  "g12-133": {
+    "category": "grammar",
+    "identity": "とばかりは言えない"
+  },
+  "g12-134": {
+    "category": "grammar",
+    "identity": "と言ってはばからない"
+  },
+  "g12-135": {
+    "category": "grammar",
+    "identity": "と言っても過言ではない"
+  },
+  "g12-136": {
+    "category": "grammar",
+    "identity": "ないではおかない"
+  },
+  "g12-137": {
+    "category": "grammar",
+    "identity": "ないではいられない"
+  },
+  "g12-138": {
+    "category": "grammar",
+    "identity": "てやまない"
+  },
+  "g12-139": {
+    "category": "grammar",
+    "identity": "てでも"
+  },
+  "g12-140": {
+    "category": "grammar",
+    "identity": "までして"
+  },
+  "g12-141": {
+    "category": "grammar",
+    "identity": "までのことだ"
+  },
+  "g12-142": {
+    "category": "grammar",
+    "identity": "たまでだ"
+  },
+  "g12-143": {
+    "category": "grammar",
+    "identity": "としたところで"
+  },
+  "g12-144": {
+    "category": "grammar",
+    "identity": "たところで"
+  },
+  "g12-145": {
+    "category": "grammar",
+    "identity": "にしたところで"
+  },
+  "g12-146": {
+    "category": "grammar",
+    "identity": "であろうと"
+  },
+  "g12-147": {
+    "category": "grammar",
+    "identity": "であろうとなかろうと"
+  },
+  "g12-148": {
+    "category": "grammar",
+    "identity": "いようがいまいが"
+  },
+  "g12-149": {
+    "category": "grammar",
+    "identity": "とあっては"
+  },
+  "g12-150": {
+    "category": "grammar",
+    "identity": "からある"
+  },
+  "g12-151": {
+    "category": "grammar",
+    "identity": "からする"
+  },
+  "g12-152": {
+    "category": "grammar",
+    "identity": "といったらない"
+  },
+  "g12-153": {
+    "category": "grammar",
+    "identity": "というもの"
+  },
+  "g12-154": {
+    "category": "grammar",
+    "identity": "ともあれ"
+  },
+  "g12-155": {
+    "category": "grammar",
+    "identity": "いざ～となると"
+  },
+  "g12-156": {
+    "category": "grammar",
+    "identity": "いかんによらず"
+  },
+  "g12-157": {
+    "category": "grammar",
+    "identity": "いかんを問わず"
+  },
+  "g12-158": {
+    "category": "grammar",
+    "identity": "を顧みず"
+  },
+  "g12-159": {
+    "category": "grammar",
+    "identity": "を押して"
+  },
+  "g12-160": {
+    "category": "grammar",
+    "identity": "を押し切って"
+  },
+  "g12-161": {
+    "category": "grammar",
+    "identity": "ともなく／ともなしに"
+  },
+  "g12-162": {
+    "category": "grammar",
+    "identity": "かたわら"
+  },
+  "g12-163": {
+    "category": "grammar",
+    "identity": "がてら"
+  },
+  "g12-164": {
+    "category": "grammar",
+    "identity": "かたがた"
+  },
+  "g12-165": {
+    "category": "grammar",
+    "identity": "かたがた／がてら（辨析）"
+  },
+  "g12-166": {
+    "category": "grammar",
+    "identity": "ずくめ"
+  },
+  "g12-167": {
+    "category": "grammar",
+    "identity": "まみれ"
+  },
+  "g12-168": {
+    "category": "grammar",
+    "identity": "ぐるみ"
+  },
+  "g12-169": {
+    "category": "grammar",
+    "identity": "めいた"
+  },
+  "g12-170": {
+    "category": "grammar",
+    "identity": "とも言うべき"
+  },
+  "g12-171": {
+    "category": "grammar",
+    "identity": "ことから"
+  },
+  "g12-172": {
+    "category": "grammar",
+    "identity": "ことなく"
+  },
+  "g12-173": {
+    "category": "grammar",
+    "identity": "ことか"
+  },
+  "g12-174": {
+    "category": "grammar",
+    "identity": "ものがある"
+  },
+  "g12-175": {
+    "category": "grammar",
+    "identity": "ものか"
+  },
+  "g12-176": {
+    "category": "grammar",
+    "identity": "に決まっている"
+  },
+  "g12-177": {
+    "category": "grammar",
+    "identity": "とも限らない"
+  },
+  "g12-178": {
+    "category": "grammar",
+    "identity": "ようとしない"
+  },
+  "g12-179": {
+    "category": "grammar",
+    "identity": "に気づく"
+  },
+  "t12-00": {
+    "category": "topics",
+    "identity": "は与が：先区分话题和焦点"
+  },
+  "t12-01": {
+    "category": "topics",
+    "identity": "に与で：存在、活动、结果和工具"
+  },
+  "t12-02": {
+    "category": "topics",
+    "identity": "时间表达：时点、长度、期限"
+  },
+  "t12-03": {
+    "category": "topics",
+    "identity": "词典形、普通形与敬体不是同一个概念"
+  },
+  "t12-04": {
+    "category": "topics",
+    "identity": "と、ば、たら、なら：按事件顺序选条件"
+  },
+  "t12-05": {
+    "category": "topics",
+    "identity": "そう、よう、らしい：证据来源与接续"
+  },
+  "t12-06": {
+    "category": "topics",
+    "identity": "受身、可能、尊敬：同形要放回句子"
+  },
+  "t12-07": {
+    "category": "topics",
+    "identity": "授受：把动作执行者和受益者画清"
+  },
+  "t12-08": {
+    "category": "topics",
+    "identity": "自动词他动词与ている、てある、ておく"
+  },
+  "t12-09": {
+    "category": "topics",
+    "identity": "はず、べき、わけ：预期、规范与解释"
+  },
+  "t12-10": {
+    "category": "topics",
+    "identity": "目的：ために与ように的控制关系"
+  },
+  "t12-11": {
+    "category": "topics",
+    "identity": "部分否定：否定的是范围还是全部"
+  },
+  "t12-12": {
+    "category": "topics",
+    "identity": "时间从句：た形不总等于过去"
+  },
+  "t12-13": {
+    "category": "topics",
+    "identity": "にとって、に対して、について：别让中文“对”误导"
+  },
+  "t12-14": {
+    "category": "topics",
+    "identity": "得る、かねる、かねない：形式相似但方向相反"
+  },
+  "t12-15": {
+    "category": "topics",
+    "identity": "次第：立即、取决于、缘由三分法"
+  },
+  "t12-16": {
+    "category": "topics",
+    "identity": "あげく与末に：过程终点的评价"
+  },
+  "t12-17": {
+    "category": "topics",
+    "identity": "だけ、しか、にすぎない：限制不等于否定存在"
+  },
+  "t12-18": {
+    "category": "topics",
+    "identity": "がてら、かたわら、かたがた：目的与持续尺度"
+  },
+  "t12-19": {
+    "category": "topics",
+    "identity": "ずにはいられない、ずにはおかない、ずにはすまない"
+  },
+  "t12-20": {
+    "category": "topics",
+    "identity": "ところで、たところ、たところで：形似不等义"
+  },
+  "t12-21": {
+    "category": "topics",
+    "identity": "だらけ、まみれ、ずくめ：不要只背“全是”"
+  },
+  "t12-22": {
+    "category": "topics",
+    "identity": "论说文：作者结论、让步与限制条件"
+  },
+  "r12-00": {
+    "category": "readings",
+    "identity": "週末の荷物"
+  },
+  "r12-01": {
+    "category": "readings",
+    "identity": "バスの案内"
+  },
+  "r12-02": {
+    "category": "readings",
+    "identity": "新しいノート"
+  },
+  "r12-03": {
+    "category": "readings",
+    "identity": "二人の予定"
+  },
+  "r12-04": {
+    "category": "readings",
+    "identity": "初めての係"
+  },
+  "r12-05": {
+    "category": "readings",
+    "identity": "集合場所が変わりました"
+  },
+  "r12-06": {
+    "category": "readings",
+    "identity": "借りた本の返し方"
+  },
+  "r12-07": {
+    "category": "readings",
+    "identity": "二通の連絡"
+  },
+  "r12-08": {
+    "category": "readings",
+    "identity": "質問の置き場所"
+  },
+  "r12-09": {
+    "category": "readings",
+    "identity": "名前を変えた理由"
+  },
+  "r12-10": {
+    "category": "readings",
+    "identity": "申し込みと持ち物"
+  },
+  "r12-11": {
+    "category": "readings",
+    "identity": "二つの提案"
+  },
+  "r12-12": {
+    "category": "readings",
+    "identity": "便利な予約の見えない負担"
+  },
+  "r12-13": {
+    "category": "readings",
+    "identity": "貸し出し規則を読み合わせる"
+  },
+  "r12-14": {
+    "category": "readings",
+    "identity": "数字の並べ方"
+  },
+  "r12-15": {
+    "category": "readings",
+    "identity": "二つの学習法"
+  },
+  "r12-16": {
+    "category": "readings",
+    "identity": "記録に残らない仕事"
+  },
+  "r12-17": {
+    "category": "readings",
+    "identity": "待つことを設計する"
+  },
+  "r12-18": {
+    "category": "readings",
+    "identity": "共有という言葉の幅"
+  },
+  "r12-19": {
+    "category": "readings",
+    "identity": "保存と利用をめぐる二つの文章"
+  },
+  "u-t12-00": {
+    "category": "usage",
+    "identity": "问「誰が窓を開けましたか」时，突出“是我”应选？"
+  },
+  "u-t12-01": {
+    "category": "usage",
+    "identity": "“用日语写信”中的语言工具应如何标记？"
+  },
+  "u-t12-02": {
+    "category": "usage",
+    "identity": "要求“17点之前某时交完材料”，应选？"
+  },
+  "u-t12-03": {
+    "category": "usage",
+    "identity": "“昨天买的书”在礼貌句中应写？"
+  },
+  "u-t12-04": {
+    "category": "usage",
+    "identity": "要表达“回家以后请联系”，最直接的是？"
+  },
+  "u-t12-05": {
+    "category": "usage",
+    "identity": "转述朋友“这家店好吃”的信息，应选？"
+  },
+  "u-t12-06": {
+    "category": "usage",
+    "identity": "「この本は多くの人に読まれています」主要是什么用法？"
+  },
+  "u-t12-07": {
+    "category": "usage",
+    "identity": "以“我”为主语说“请老师修改作文”，应选？"
+  },
+  "u-t12-08": {
+    "category": "usage",
+    "identity": "说明“为了明早使用，先打印好资料”最合适的是？"
+  },
+  "u-t12-09": {
+    "category": "usage",
+    "identity": "“即使不想去，因已承诺而不能缺席”对应？"
+  },
+  "u-t12-10": {
+    "category": "usage",
+    "identity": "“为了让后排也听得见，大声说明”，宜选？"
+  },
+  "u-t12-11": {
+    "category": "usage",
+    "identity": "「全員が反対したわけではない」能确定什么？"
+  },
+  "u-t12-12": {
+    "category": "usage",
+    "identity": "描述“昨天吃饭前洗了手”的规范表达是？"
+  },
+  "u-t12-13": {
+    "category": "usage",
+    "identity": "“向新员工说明规则”中，员工后最合适的表达是？"
+  },
+  "u-t12-14": {
+    "category": "usage",
+    "identity": "客服礼貌说“难以退款”，应选？"
+  },
+  "u-t12-15": {
+    "category": "usage",
+    "identity": "「採用は面接の結果次第です」中的次第表示？"
+  },
+  "u-t12-16": {
+    "category": "usage",
+    "identity": "强调“长期努力终于成功”的一般书面叙述，优先选？"
+  },
+  "u-t12-17": {
+    "category": "usage",
+    "identity": "「一人しか来なかった」说明实际来了几人？"
+  },
+  "u-t12-18": {
+    "category": "usage",
+    "identity": "“长期在大学教书，同时经营翻译事业”最合适的连接是？"
+  },
+  "u-t12-19": {
+    "category": "usage",
+    "identity": "观众因悲伤自然流泪，最符合哪一类？"
+  },
+  "u-t12-20": {
+    "category": "usage",
+    "identity": "「今さら説明したところで、理解してもらえない」表达？"
+  },
+  "u-t12-21": {
+    "category": "usage",
+    "identity": "“错误百出”的自然搭配是？"
+  },
+  "u-t12-22": {
+    "category": "usage",
+    "identity": "作者说“指标有局限，但不应完全放弃”，哪项符合？"
+  },
+  "u12-00": {
+    "category": "usage",
+    "identity": "この町___道が広いです。"
+  },
+  "u12-01": {
+    "category": "usage",
+    "identity": "鉛筆___名前を書きます。"
+  },
+  "u12-02": {
+    "category": "usage",
+    "identity": "家に猫が___。"
+  },
+  "u12-03": {
+    "category": "usage",
+    "identity": "昨日はあまり___。"
+  },
+  "u12-04": {
+    "category": "usage",
+    "identity": "机の上に本___ノートなどがあります。"
+  },
+  "u12-05": {
+    "category": "usage",
+    "identity": "手を洗って___、ご飯を食べます。"
+  },
+  "u12-06": {
+    "category": "usage",
+    "identity": "今日はカレー___します。"
+  },
+  "u12-07": {
+    "category": "usage",
+    "identity": "このパンは三つ___五百円です。"
+  },
+  "u12-08": {
+    "category": "usage",
+    "identity": "三時___帰ります。"
+  },
+  "u12-09": {
+    "category": "usage",
+    "identity": "音を小さ___してください。"
+  },
+  "u12-10": {
+    "category": "usage",
+    "identity": "新しい辞書が___です。"
+  },
+  "u12-11": {
+    "category": "usage",
+    "identity": "このかばんは___使いやすいです。"
+  },
+  "u12-12": {
+    "category": "usage",
+    "identity": "道が混んでいた___、遅れたんです。"
+  },
+  "u12-13": {
+    "category": "usage",
+    "identity": "旅行の前にホテルを予約して___。"
+  },
+  "u12-14": {
+    "category": "usage",
+    "identity": "先生に作文を直して___ました。"
+  },
+  "u12-15": {
+    "category": "usage",
+    "identity": "もう少しお___ください。"
+  },
+  "u12-16": {
+    "category": "usage",
+    "identity": "帰る___、連絡してください。"
+  },
+  "u12-17": {
+    "category": "usage",
+    "identity": "毎朝歩くように___。"
+  },
+  "u12-18": {
+    "category": "usage",
+    "identity": "このケーキは___そうです。（見た目の判断）"
+  },
+  "u12-19": {
+    "category": "usage",
+    "identity": "予報によると、明日は雨___そうです。"
+  },
+  "u12-20": {
+    "category": "usage",
+    "identity": "朝ご飯を食べ___出かけました。（食べなかった）"
+  },
+  "u12-21": {
+    "category": "usage",
+    "identity": "今から本を読む___です。"
+  },
+  "u12-22": {
+    "category": "usage",
+    "identity": "毎日五つ___単語を覚えます。"
+  },
+  "u12-23": {
+    "category": "usage",
+    "identity": "友達が道を教えて___。"
+  },
+  "u12-24": {
+    "category": "usage",
+    "identity": "明るい___に帰りましょう。"
+  },
+  "u12-25": {
+    "category": "usage",
+    "identity": "この写真を見る___に、祖父を思い出します。"
+  },
+  "u12-26": {
+    "category": "usage",
+    "identity": "高いからといって、必ずいい___ではありません。"
+  },
+  "u12-27": {
+    "category": "usage",
+    "identity": "約束したので、休むわけには___。"
+  },
+  "u12-28": {
+    "category": "usage",
+    "identity": "彼は理由を説明しようと___。"
+  },
+  "u12-29": {
+    "category": "usage",
+    "identity": "初めて___は、上手にできました。"
+  },
+  "u12-30": {
+    "category": "usage",
+    "identity": "風邪の___で、試合に出られませんでした。"
+  },
+  "u12-31": {
+    "category": "usage",
+    "identity": "調べた___、名前の間違いが見つかりました。"
+  },
+  "u12-32": {
+    "category": "usage",
+    "identity": "忙しくて、昼ご飯___食べられませんでした。"
+  },
+  "u12-33": {
+    "category": "usage",
+    "identity": "___読むほど、面白くなります。"
+  },
+  "u12-34": {
+    "category": "usage",
+    "identity": "この仕事は私___、大切な経験です。"
+  },
+  "u12-35": {
+    "category": "usage",
+    "identity": "時間がないので、タクシーで行く___ありません。"
+  },
+  "u12-36": {
+    "category": "usage",
+    "identity": "値段は___、品質は確かです。"
+  },
+  "u12-37": {
+    "category": "usage",
+    "identity": "説明を聞いてから___と、操作できません。"
+  },
+  "u12-38": {
+    "category": "usage",
+    "identity": "ご要望にはお応えし___。"
+  },
+  "u12-39": {
+    "category": "usage",
+    "identity": "このままでは事故が起こり___。"
+  },
+  "u12-40": {
+    "category": "usage",
+    "identity": "準備はできたので、出発する___です。"
+  },
+  "u12-41": {
+    "category": "usage",
+    "identity": "今朝は、もう少しで乗り過ごす___でした。"
+  },
+  "u12-42": {
+    "category": "usage",
+    "identity": "卒業して___、会っていません。"
+  },
+  "u12-43": {
+    "category": "usage",
+    "identity": "私が調べた___では、問題はありません。"
+  },
+  "u12-44": {
+    "category": "usage",
+    "identity": "価格が上がった___、品質までよくなるとは限りません。"
+  },
+  "u12-45": {
+    "category": "usage",
+    "identity": "必要な資料を確認した___で、申し込みます。"
+  },
+  "u12-46": {
+    "category": "usage",
+    "identity": "休むこと___、歩き続けました。"
+  },
+  "u12-47": {
+    "category": "usage",
+    "identity": "採用されるかどうかは、面接の結果___です。"
+  },
+  "u12-48": {
+    "category": "usage",
+    "identity": "お礼___、ご挨拶に伺いました。"
+  },
+  "u12-49": {
+    "category": "usage",
+    "identity": "大学で教える___、翻訳の仕事もしています。"
+  },
+  "u12-50": {
+    "category": "usage",
+    "identity": "その話を聞いて、笑わずには___。"
+  },
+  "u12-51": {
+    "category": "usage",
+    "identity": "迷惑をかけた以上、謝らずには___。"
+  },
+  "u12-52": {
+    "category": "usage",
+    "identity": "今さら説明した___で、信頼は戻りません。"
+  },
+  "u12-53": {
+    "category": "usage",
+    "identity": "規則に___、手続きを進めます。（のっとって）"
+  },
+  "u12-54": {
+    "category": "usage",
+    "identity": "結果のいかんを___、報告してください。"
+  },
+  "u12-55": {
+    "category": "usage",
+    "identity": "この一週間という___、休んでいません。"
+  },
+  "u12-56": {
+    "category": "usage",
+    "identity": "この作品は努力の結晶とも___べきものです。"
+  },
+  "u12-57": {
+    "category": "usage",
+    "identity": "子供たちは泥___で帰ってきました。"
+  },
+  "u12-58": {
+    "category": "usage",
+    "identity": "理由は___、まず安全を確保しましょう。"
+  },
+  "u12-59": {
+    "category": "usage",
+    "identity": "この役を任せられるのは、彼を___ほかにいません。"
+  },
+  "b12-00": {
+    "category": "blanks",
+    "identity": "この町___道が広いです。"
+  },
+  "b12-01": {
+    "category": "blanks",
+    "identity": "鉛筆___名前を書きます。"
+  },
+  "b12-02": {
+    "category": "blanks",
+    "identity": "家に猫が___。"
+  },
+  "b12-03": {
+    "category": "blanks",
+    "identity": "昨日はあまり___。"
+  },
+  "b12-04": {
+    "category": "blanks",
+    "identity": "机の上に本___ノートなどがあります。"
+  },
+  "b12-05": {
+    "category": "blanks",
+    "identity": "手を洗って___、ご飯を食べます。"
+  },
+  "b12-06": {
+    "category": "blanks",
+    "identity": "今日はカレー___します。"
+  },
+  "b12-07": {
+    "category": "blanks",
+    "identity": "このパンは三つ___五百円です。"
+  },
+  "b12-08": {
+    "category": "blanks",
+    "identity": "三時___帰ります。"
+  },
+  "b12-09": {
+    "category": "blanks",
+    "identity": "音を小さ___してください。"
+  },
+  "b12-10": {
+    "category": "blanks",
+    "identity": "新しい辞書が___です。"
+  },
+  "b12-11": {
+    "category": "blanks",
+    "identity": "このかばんは___使いやすいです。"
+  },
+  "b12-12": {
+    "category": "blanks",
+    "identity": "道が混んでいた___、遅れたんです。"
+  },
+  "b12-13": {
+    "category": "blanks",
+    "identity": "旅行の前にホテルを予約して___。"
+  },
+  "b12-14": {
+    "category": "blanks",
+    "identity": "先生に作文を直して___ました。"
+  },
+  "b12-15": {
+    "category": "blanks",
+    "identity": "もう少しお___ください。"
+  },
+  "b12-16": {
+    "category": "blanks",
+    "identity": "帰る___、連絡してください。"
+  },
+  "b12-17": {
+    "category": "blanks",
+    "identity": "毎朝歩くように___。"
+  },
+  "b12-18": {
+    "category": "blanks",
+    "identity": "このケーキは___そうです。（見た目の判断）"
+  },
+  "b12-19": {
+    "category": "blanks",
+    "identity": "予報によると、明日は雨___そうです。"
+  },
+  "b12-20": {
+    "category": "blanks",
+    "identity": "朝ご飯を食べ___出かけました。（食べなかった）"
+  },
+  "b12-21": {
+    "category": "blanks",
+    "identity": "今から本を読む___です。"
+  },
+  "b12-22": {
+    "category": "blanks",
+    "identity": "毎日五つ___単語を覚えます。"
+  },
+  "b12-23": {
+    "category": "blanks",
+    "identity": "友達が道を教えて___。"
+  },
+  "b12-24": {
+    "category": "blanks",
+    "identity": "明るい___に帰りましょう。"
+  },
+  "b12-25": {
+    "category": "blanks",
+    "identity": "この写真を見る___に、祖父を思い出します。"
+  },
+  "b12-26": {
+    "category": "blanks",
+    "identity": "高いからといって、必ずいい___ではありません。"
+  },
+  "b12-27": {
+    "category": "blanks",
+    "identity": "約束したので、休むわけには___。"
+  },
+  "b12-28": {
+    "category": "blanks",
+    "identity": "彼は理由を説明しようと___。"
+  },
+  "b12-29": {
+    "category": "blanks",
+    "identity": "初めて___は、上手にできました。"
+  },
+  "b12-30": {
+    "category": "blanks",
+    "identity": "風邪の___で、試合に出られませんでした。"
+  },
+  "b12-31": {
+    "category": "blanks",
+    "identity": "調べた___、名前の間違いが見つかりました。"
+  },
+  "b12-32": {
+    "category": "blanks",
+    "identity": "忙しくて、昼ご飯___食べられませんでした。"
+  },
+  "b12-33": {
+    "category": "blanks",
+    "identity": "___読むほど、面白くなります。"
+  },
+  "b12-34": {
+    "category": "blanks",
+    "identity": "この仕事は私___、大切な経験です。"
+  },
+  "b12-35": {
+    "category": "blanks",
+    "identity": "時間がないので、タクシーで行く___ありません。"
+  },
+  "b12-36": {
+    "category": "blanks",
+    "identity": "値段は___、品質は確かです。"
+  },
+  "b12-37": {
+    "category": "blanks",
+    "identity": "説明を聞いてから___と、操作できません。"
+  },
+  "b12-38": {
+    "category": "blanks",
+    "identity": "ご要望にはお応えし___。"
+  },
+  "b12-39": {
+    "category": "blanks",
+    "identity": "このままでは事故が起こり___。"
+  },
+  "b12-40": {
+    "category": "blanks",
+    "identity": "準備はできたので、出発する___です。"
+  },
+  "b12-41": {
+    "category": "blanks",
+    "identity": "今朝は、もう少しで乗り過ごす___でした。"
+  },
+  "b12-42": {
+    "category": "blanks",
+    "identity": "卒業して___、会っていません。"
+  },
+  "b12-43": {
+    "category": "blanks",
+    "identity": "私が調べた___では、問題はありません。"
+  },
+  "b12-44": {
+    "category": "blanks",
+    "identity": "価格が上がった___、品質までよくなるとは限りません。"
+  },
+  "b12-45": {
+    "category": "blanks",
+    "identity": "必要な資料を確認した___で、申し込みます。"
+  },
+  "b12-46": {
+    "category": "blanks",
+    "identity": "休むこと___、歩き続けました。"
+  },
+  "b12-47": {
+    "category": "blanks",
+    "identity": "採用されるかどうかは、面接の結果___です。"
+  },
+  "b12-48": {
+    "category": "blanks",
+    "identity": "お礼___、ご挨拶に伺いました。"
+  },
+  "b12-49": {
+    "category": "blanks",
+    "identity": "大学で教える___、翻訳の仕事もしています。"
+  },
+  "b12-50": {
+    "category": "blanks",
+    "identity": "その話を聞いて、笑わずには___。"
+  },
+  "b12-51": {
+    "category": "blanks",
+    "identity": "迷惑をかけた以上、謝らずには___。"
+  },
+  "b12-52": {
+    "category": "blanks",
+    "identity": "今さら説明した___で、信頼は戻りません。"
+  },
+  "b12-53": {
+    "category": "blanks",
+    "identity": "規則に___、手続きを進めます。（のっとって）"
+  },
+  "b12-54": {
+    "category": "blanks",
+    "identity": "結果のいかんを___、報告してください。"
+  },
+  "b12-55": {
+    "category": "blanks",
+    "identity": "この一週間という___、休んでいません。"
+  },
+  "b12-56": {
+    "category": "blanks",
+    "identity": "この作品は努力の結晶とも___べきものです。"
+  },
+  "b12-57": {
+    "category": "blanks",
+    "identity": "子供たちは泥___で帰ってきました。"
+  },
+  "b12-58": {
+    "category": "blanks",
+    "identity": "理由は___、まず安全を確保しましょう。"
+  },
+  "b12-59": {
+    "category": "blanks",
+    "identity": "この役を任せられるのは、彼を___ほかにいません。"
+  },
+  "o12-00": {
+    "category": "orders",
+    "identity": "この町は道が広いです。"
+  },
+  "o12-01": {
+    "category": "orders",
+    "identity": "鉛筆で名前を書きます。"
+  },
+  "o12-02": {
+    "category": "orders",
+    "identity": "今日はカレーにします。"
+  },
+  "o12-03": {
+    "category": "orders",
+    "identity": "このパンは三つで五百円です。"
+  },
+  "o12-04": {
+    "category": "orders",
+    "identity": "毎日五つずつ覚えます。"
+  },
+  "o12-05": {
+    "category": "orders",
+    "identity": "手を洗ってからご飯を食べます。"
+  },
+  "o12-06": {
+    "category": "orders",
+    "identity": "音を小さくしてください。"
+  },
+  "o12-07": {
+    "category": "orders",
+    "identity": "新しい辞書がほしいです。"
+  },
+  "o12-08": {
+    "category": "orders",
+    "identity": "もう少しお待ちください。"
+  },
+  "o12-09": {
+    "category": "orders",
+    "identity": "この漢字の読み方を教えてください。"
+  },
+  "o12-10": {
+    "category": "orders",
+    "identity": "友達が道を教えてくれました。"
+  },
+  "o12-11": {
+    "category": "orders",
+    "identity": "明日は晴れるといいですね。"
+  },
+  "o12-12": {
+    "category": "orders",
+    "identity": "最近は肉を食べなくなりました。"
+  },
+  "o12-13": {
+    "category": "orders",
+    "identity": "先生に作文を見ていただきました。"
+  },
+  "o12-14": {
+    "category": "orders",
+    "identity": "毎朝歩くようにしています。"
+  },
+  "o12-15": {
+    "category": "orders",
+    "identity": "ここでは靴を脱いでください。"
+  },
+  "o12-16": {
+    "category": "orders",
+    "identity": "国によって習慣が違います。"
+  },
+  "o12-17": {
+    "category": "orders",
+    "identity": "知っているくせに教えてくれません。"
+  },
+  "o12-18": {
+    "category": "orders",
+    "identity": "暇なときは図書館で本を読むようにしています。"
+  },
+  "o12-19": {
+    "category": "orders",
+    "identity": "読めば読むほど面白くなります。"
+  },
+  "o12-20": {
+    "category": "orders",
+    "identity": "まじめな彼のことだからもう準備したでしょう。"
+  },
+  "o12-21": {
+    "category": "orders",
+    "identity": "寝不足のせいで集中できません。"
+  },
+  "o12-22": {
+    "category": "orders",
+    "identity": "電車がないので歩くしかありません。"
+  },
+  "o12-23": {
+    "category": "orders",
+    "identity": "初めてにしては上手にできました。"
+  },
+  "o12-24": {
+    "category": "orders",
+    "identity": "経験に応じて給料が決まります。"
+  },
+  "o12-25": {
+    "category": "orders",
+    "identity": "私が調べた限りでは問題はありません。"
+  },
+  "o12-26": {
+    "category": "orders",
+    "identity": "内容を確認した上で署名してください。"
+  },
+  "o12-27": {
+    "category": "orders",
+    "identity": "今朝はもう少しで乗り過ごすところでした。"
+  },
+  "o12-28": {
+    "category": "orders",
+    "identity": "卒業して以来一度も会っていません。"
+  },
+  "o12-29": {
+    "category": "orders",
+    "identity": "結果は努力次第で変わります。"
+  },
+  "o12-30": {
+    "category": "orders",
+    "identity": "長い研究の末に原因が分かりました。"
+  },
+  "o12-31": {
+    "category": "orders",
+    "identity": "値段はともかく品質はいいです。"
+  },
+  "o12-32": {
+    "category": "orders",
+    "identity": "お礼かたがたご挨拶に伺いました。"
+  },
+  "o12-33": {
+    "category": "orders",
+    "identity": "会社で働くかたわら小説を書いています。"
+  },
+  "o12-34": {
+    "category": "orders",
+    "identity": "今さら謝ったところで信用は戻りません。"
+  },
+  "o12-35": {
+    "category": "orders",
+    "identity": "規則に則って手続きを進めます。"
+  },
+  "o12-36": {
+    "category": "orders",
+    "identity": "結果のいかんを問わず報告してください。"
+  },
+  "o12-37": {
+    "category": "orders",
+    "identity": "この一週間というもの休んでいません。"
+  },
+  "o12-38": {
+    "category": "orders",
+    "identity": "その事実は議論を呼ばずにはおきません。"
+  },
+  "o12-39": {
+    "category": "orders",
+    "identity": "この役を任せられるのは彼をおいてほかにいません。"
+  },
+  "w12-00": {
+    "category": "writing",
+    "identity": "集合のメモ"
+  },
+  "w12-01": {
+    "category": "writing",
+    "identity": "二つの物を比べる"
+  },
+  "w12-02": {
+    "category": "writing",
+    "identity": "予定変更を伝える"
+  },
+  "w12-03": {
+    "category": "writing",
+    "identity": "人に教えて分かったこと"
+  },
+  "w12-04": {
+    "category": "writing",
+    "identity": "便利さに必要な条件"
+  },
+  "w12-05": {
+    "category": "writing",
+    "identity": "途中の失敗を残す"
+  },
+  "w12-06": {
+    "category": "writing",
+    "identity": "改善を評価する基準"
+  },
+  "w12-07": {
+    "category": "writing",
+    "identity": "条件付きの提案"
+  },
+  "w12-08": {
+    "category": "writing",
+    "identity": "説明責任と訂正"
+  },
+  "w12-09": {
+    "category": "writing",
+    "identity": "長期計画を待ちながら検証する"
+  }
+}

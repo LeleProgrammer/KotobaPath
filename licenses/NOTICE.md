@@ -1,5 +1,9 @@
 # Attribution and third-party notices
 
+1.4.0 addition: educational text in `data/expansion-v1.4.js` and `data/readings-v1.4.js`, CC BY 4.0, attribution “KotobaPath contributors (2026)”. JavaScript loading logic GPL-3.0-or-later. These materials are independently authored.
+
+1.3.0 addition: original educational text in `data/expansion-v1.3.js` and `data/readings-v1.3.js`, CC BY 4.0, attribution “KotobaPath contributors (2026)”; JavaScript loading logic GPL-3.0-or-later. These new examples are independently authored.
+
 Snapshot date: 2026-11-04. No endorsement by the original authors or JLPT organizers is implied.
 
 ## Application code
@@ -44,3 +48,11 @@ Upstream field documentation: `kanji-data-README.txt`.
 ## External reference links
 
 https://www.jlpt.jp/e/faq/ — official explanation of the current test and why a complete Test Content Specifications list is not published. Links are references, not redistributed JLPT examination questions. All fixed reading passages and comprehension questions in this app were independently written for KotobaPath.
+
+## Version 1.2.0 additions
+
+`data/expansion-source.json` and the authored educational additions emitted by `data/expansion.js` (50 phrase entries, 180 grammar entries, 23 contrast lessons, 20 readings with questions, 83 usage exercises, 60 cloze input exercises, 40 ordering sentences, 10 writing tasks): KotobaPath contributors, CC BY4.0. The 60 new cloze items reuse the 60 sentence-context exercise materials in another answer format. They are not presented as separate source texts.
+
+The 227 added Chinese kanji glosses accompany the existing KANJIDIC2 adaptation; this combined kanji adaptation retains CC BY-SA4.0 and EDRDG attribution. English source glosses and readings remain intact.
+
+`sync-core.js`, content build/audit tools and added tests: GPL-3.0-or-later. Original runtime and data licenses above continue to apply.

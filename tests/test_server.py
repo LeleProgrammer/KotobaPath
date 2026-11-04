@@ -54,6 +54,14 @@ class ServerTest(unittest.TestCase):
                 mimetypes.types_map.clear()
                 mimetypes.types_map.update(old)
 
+    def test_missing_scheduled_asset_fails_clearly(self):
+        with tempfile.TemporaryDirectory(prefix='kotoba incomplete ') as tmp:
+            root = Path(tmp) / 'project'
+            shutil.copytree(ROOT, root, ignore=shutil.ignore_patterns('__pycache__'))
+            (root / 'data/expansion-v1.4.js').unlink()
+            with self.assertRaisesRegex(FileNotFoundError, 'expansion-v1.4.js'):
+                launcher.make_server(root, ('127.0.0.1', 0))
+
     def test_missing_files_fail_clearly(self):
         with tempfile.TemporaryDirectory() as tmp:
             with self.assertRaisesRegex(FileNotFoundError, 'style.css'):

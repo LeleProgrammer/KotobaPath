@@ -1,0 +1,813 @@
+{
+  "v-ext11-001": {
+    "category": "VOCAB",
+    "identity": "通知設定|つうちせってい"
+  },
+  "v-ext11-002": {
+    "category": "VOCAB",
+    "identity": "共有リンク|きょうゆうりんく"
+  },
+  "v-ext11-003": {
+    "category": "VOCAB",
+    "identity": "画面共有|がめんきょうゆう"
+  },
+  "v-ext11-004": {
+    "category": "VOCAB",
+    "identity": "利用規約|りようきやく"
+  },
+  "v-ext11-005": {
+    "category": "VOCAB",
+    "identity": "読み上げ|よみあげ"
+  },
+  "v-ext11-006": {
+    "category": "VOCAB",
+    "identity": "文字起こし|もじおこし"
+  },
+  "v-ext11-007": {
+    "category": "VOCAB",
+    "identity": "下書き保存|したがきほぞん"
+  },
+  "v-ext11-008": {
+    "category": "VOCAB",
+    "identity": "書留|かきとめ"
+  },
+  "v-ext11-009": {
+    "category": "VOCAB",
+    "identity": "取り置き|とりおき"
+  },
+  "v-ext11-010": {
+    "category": "VOCAB",
+    "identity": "乗り越し|のりこし"
+  },
+  "v-ext11-011": {
+    "category": "VOCAB",
+    "identity": "忘れ物窓口|わすれものまどぐち"
+  },
+  "v-ext11-012": {
+    "category": "VOCAB",
+    "identity": "再配達|さいはいたつ"
+  },
+  "v-ext11-013": {
+    "category": "VOCAB",
+    "identity": "留守番電話|るすばんでんわ"
+  },
+  "v-ext11-014": {
+    "category": "VOCAB",
+    "identity": "回数券|かいすうけん"
+  },
+  "v-ext11-015": {
+    "category": "VOCAB",
+    "identity": "整理券|せいりけん"
+  },
+  "v-ext11-016": {
+    "category": "VOCAB",
+    "identity": "両替機|りょうがえき"
+  },
+  "v-ext11-017": {
+    "category": "VOCAB",
+    "identity": "備え付け|そなえつけ"
+  },
+  "v-ext11-018": {
+    "category": "VOCAB",
+    "identity": "二段階認証|にだんかいにんしょう"
+  },
+  "v-ext11-019": {
+    "category": "VOCAB",
+    "identity": "使い捨てパスワード|つかいすてパスワード"
+  },
+  "v-ext11-020": {
+    "category": "VOCAB",
+    "identity": "改ざん|かいざん"
+  },
+  "v-ext11-021": {
+    "category": "VOCAB",
+    "identity": "脆弱性|ぜいじゃくせい"
+  },
+  "v-ext11-022": {
+    "category": "VOCAB",
+    "identity": "暗号化|あんごうか"
+  },
+  "v-ext11-023": {
+    "category": "VOCAB",
+    "identity": "匿名化|とくめいか"
+  },
+  "v-ext11-024": {
+    "category": "VOCAB",
+    "identity": "同意撤回|どういてっかい"
+  },
+  "v-ext11-025": {
+    "category": "VOCAB",
+    "identity": "著作権表示|ちょさくけんひょうじ"
+  },
+  "v-ext11-026": {
+    "category": "VOCAB",
+    "identity": "再利用|さいりよう"
+  },
+  "v-ext11-027": {
+    "category": "VOCAB",
+    "identity": "資源回収|しげんかいしゅう"
+  },
+  "v-ext11-028": {
+    "category": "VOCAB",
+    "identity": "食品ロス|しょくひんロス"
+  },
+  "v-ext11-029": {
+    "category": "VOCAB",
+    "identity": "量り売り|はかりうり"
+  },
+  "v-ext11-030": {
+    "category": "VOCAB",
+    "identity": "詰め替え|つめかえ"
+  },
+  "v-ext11-031": {
+    "category": "VOCAB",
+    "identity": "取り寄せ|とりよせ"
+  },
+  "v-ext11-032": {
+    "category": "VOCAB",
+    "identity": "差し戻し|さしもどし"
+  },
+  "v-ext11-033": {
+    "category": "VOCAB",
+    "identity": "引き継ぎ|ひきつぎ"
+  },
+  "v-ext11-034": {
+    "category": "VOCAB",
+    "identity": "見積書|みつもりしょ"
+  },
+  "v-ext11-035": {
+    "category": "VOCAB",
+    "identity": "相見積もり|あいみつもり"
+  },
+  "v-ext11-036": {
+    "category": "VOCAB",
+    "identity": "説明責任|せつめいせきにん"
+  },
+  "v-ext11-037": {
+    "category": "VOCAB",
+    "identity": "利益相反|りえきそうはん"
+  },
+  "v-ext11-038": {
+    "category": "VOCAB",
+    "identity": "透明性|とうめいせい"
+  },
+  "v-ext11-039": {
+    "category": "VOCAB",
+    "identity": "再現性|さいげんせい"
+  },
+  "v-ext11-040": {
+    "category": "VOCAB",
+    "identity": "妥当性|だとうせい"
+  },
+  "v-ext11-041": {
+    "category": "VOCAB",
+    "identity": "恣意的|しいてき"
+  },
+  "v-ext11-042": {
+    "category": "VOCAB",
+    "identity": "網羅性|もうらせい"
+  },
+  "v-ext11-043": {
+    "category": "VOCAB",
+    "identity": "因果関係|いんがかんけい"
+  },
+  "v-ext11-044": {
+    "category": "VOCAB",
+    "identity": "相関関係|そうかんかんけい"
+  },
+  "v-ext11-045": {
+    "category": "VOCAB",
+    "identity": "反証可能性|はんしょうかのうせい"
+  },
+  "v-ext11-046": {
+    "category": "VOCAB",
+    "identity": "費用対効果|ひようたいこうか"
+  },
+  "v-ext11-047": {
+    "category": "VOCAB",
+    "identity": "持続可能性|じぞくかのうせい"
+  },
+  "v-ext11-048": {
+    "category": "VOCAB",
+    "identity": "当事者意識|とうじしゃいしき"
+  },
+  "v-ext11-049": {
+    "category": "VOCAB",
+    "identity": "合意形成|ごういけいせい"
+  },
+  "v-ext11-050": {
+    "category": "VOCAB",
+    "identity": "意思決定|いしけってい"
+  },
+  "v-ext11-051": {
+    "category": "VOCAB",
+    "identity": "既得権益|きとくけんえき"
+  },
+  "v-ext11-052": {
+    "category": "VOCAB",
+    "identity": "情報格差|じょうほうかくさ"
+  },
+  "v-ext11-053": {
+    "category": "VOCAB",
+    "identity": "検索履歴|けんさくりれき"
+  },
+  "v-ext11-054": {
+    "category": "VOCAB",
+    "identity": "閲覧権限|えつらんけんげん"
+  },
+  "v-ext11-055": {
+    "category": "VOCAB",
+    "identity": "利用許諾|りようきょだく"
+  },
+  "v14-000": {
+    "category": "VOCAB",
+    "identity": "避難経路|ひなんけいろ"
+  },
+  "v14-001": {
+    "category": "VOCAB",
+    "identity": "避難所|ひなんじょ"
+  },
+  "v14-002": {
+    "category": "VOCAB",
+    "identity": "避難場所|ひなんばしょ"
+  },
+  "v14-003": {
+    "category": "VOCAB",
+    "identity": "非常持ち出し袋|ひじょうもちだしぶくろ"
+  },
+  "v14-004": {
+    "category": "VOCAB",
+    "identity": "安否確認|あんぴかくにん"
+  },
+  "v14-007": {
+    "category": "VOCAB",
+    "identity": "給水所|きゅうすいじょ"
+  },
+  "v14-008": {
+    "category": "VOCAB",
+    "identity": "備蓄品|びちくひん"
+  },
+  "v14-009": {
+    "category": "VOCAB",
+    "identity": "携帯トイレ|けいたいトイレ"
+  },
+  "v14-011": {
+    "category": "VOCAB",
+    "identity": "振替輸送|ふりかえゆそう"
+  },
+  "v14-012": {
+    "category": "VOCAB",
+    "identity": "迂回路|うかいろ"
+  },
+  "v14-014": {
+    "category": "VOCAB",
+    "identity": "復旧作業|ふっきゅうさぎょう"
+  },
+  "v14-015": {
+    "category": "VOCAB",
+    "identity": "緊急連絡先|きんきゅうれんらくさき"
+  },
+  "v14-016": {
+    "category": "VOCAB",
+    "identity": "受付番号|うけつけばんごう"
+  },
+  "v14-017": {
+    "category": "VOCAB",
+    "identity": "申請期限|しんせいきげん"
+  },
+  "v14-018": {
+    "category": "VOCAB",
+    "identity": "本人確認|ほんにんかくにん"
+  },
+  "v14-019": {
+    "category": "VOCAB",
+    "identity": "代理人|だいりにん"
+  },
+  "v14-020": {
+    "category": "VOCAB",
+    "identity": "相互評価|そうごひょうか"
+  },
+  "v14-021": {
+    "category": "VOCAB",
+    "identity": "先行研究|せんこうけんきゅう"
+  },
+  "v14-022": {
+    "category": "VOCAB",
+    "identity": "出典明記|しゅってんめいき"
+  },
+  "v14-023": {
+    "category": "VOCAB",
+    "identity": "引用箇所|いんようかしょ"
+  },
+  "v14-024": {
+    "category": "VOCAB",
+    "identity": "校正刷り|こうせいずり"
+  },
+  "v14-025": {
+    "category": "VOCAB",
+    "identity": "推敲|すいこう"
+  },
+  "v14-026": {
+    "category": "VOCAB",
+    "identity": "要旨|ようし"
+  },
+  "v14-027": {
+    "category": "VOCAB",
+    "identity": "論点整理|ろんてんせいり"
+  },
+  "v14-028": {
+    "category": "VOCAB",
+    "identity": "仮説検証|かせつけんしょう"
+  },
+  "v14-029": {
+    "category": "VOCAB",
+    "identity": "予備調査|よびちょうさ"
+  },
+  "v14-030": {
+    "category": "VOCAB",
+    "identity": "分担表|ぶんたんひょう"
+  },
+  "v14-031": {
+    "category": "VOCAB",
+    "identity": "進捗状況|しんちょくじょうきょう"
+  },
+  "v14-032": {
+    "category": "VOCAB",
+    "identity": "優先順位|ゆうせんじゅんい"
+  },
+  "v14-033": {
+    "category": "VOCAB",
+    "identity": "作業工程|さぎょうこうてい"
+  },
+  "v14-034": {
+    "category": "VOCAB",
+    "identity": "修正履歴|しゅうせいりれき"
+  },
+  "v14-035": {
+    "category": "VOCAB",
+    "identity": "引き継ぎ資料|ひきつぎしりょう"
+  },
+  "v14-036": {
+    "category": "VOCAB",
+    "identity": "認識合わせ|にんしきあわせ"
+  },
+  "v14-037": {
+    "category": "VOCAB",
+    "identity": "差分|さぶん"
+  },
+  "v14-038": {
+    "category": "VOCAB",
+    "identity": "代替案|だいたいあん"
+  },
+  "v14-039": {
+    "category": "VOCAB",
+    "identity": "再提出|さいていしゅつ"
+  },
+  "v14-040": {
+    "category": "VOCAB",
+    "identity": "支払期日|しはらいきじつ"
+  },
+  "v14-041": {
+    "category": "VOCAB",
+    "identity": "分割払い|ぶんかつばらい"
+  },
+  "v14-042": {
+    "category": "VOCAB",
+    "identity": "一括払い|いっかつばらい"
+  },
+  "v14-043": {
+    "category": "VOCAB",
+    "identity": "返金手続き|へんきんてつづき"
+  },
+  "v14-044": {
+    "category": "VOCAB",
+    "identity": "解約料|かいやくりょう"
+  },
+  "v14-045": {
+    "category": "VOCAB",
+    "identity": "違約金|いやくきん"
+  },
+  "v14-046": {
+    "category": "VOCAB",
+    "identity": "更新料|こうしんりょう"
+  },
+  "v14-047": {
+    "category": "VOCAB",
+    "identity": "見直し条項|みなおしじょうこう"
+  },
+  "v14-048": {
+    "category": "VOCAB",
+    "identity": "自動更新|じどうこうしん"
+  },
+  "v14-049": {
+    "category": "VOCAB",
+    "identity": "適用範囲|てきようはんい"
+  },
+  "v14-050": {
+    "category": "VOCAB",
+    "identity": "免責事項|めんせきじこう"
+  },
+  "v14-051": {
+    "category": "VOCAB",
+    "identity": "特約事項|とくやくじこう"
+  },
+  "v14-052": {
+    "category": "VOCAB",
+    "identity": "原状回復|げんじょうかいふく"
+  },
+  "v14-053": {
+    "category": "VOCAB",
+    "identity": "瑕疵|かし"
+  },
+  "v14-054": {
+    "category": "VOCAB",
+    "identity": "履行|りこう"
+  },
+  "v14-055": {
+    "category": "VOCAB",
+    "identity": "留保|りゅうほ"
+  },
+  "v14-056": {
+    "category": "VOCAB",
+    "identity": "遡及|そきゅう"
+  },
+  "v14-057": {
+    "category": "VOCAB",
+    "identity": "但し書き|ただしがき"
+  },
+  "v14-058": {
+    "category": "VOCAB",
+    "identity": "事前承諾|じぜんしょうだく"
+  },
+  "v14-059": {
+    "category": "VOCAB",
+    "identity": "異議申立て|いぎもうしたて"
+  },
+  "g-ext11-004": {
+    "category": "GRAMMAR",
+    "identity": "名词＋で（范围内）"
+  },
+  "g-ext11-005": {
+    "category": "GRAMMAR",
+    "identity": "名词＋という＋名词"
+  },
+  "g-ext11-007": {
+    "category": "GRAMMAR",
+    "identity": "てくれないか"
+  },
+  "g-ext11-009": {
+    "category": "GRAMMAR",
+    "identity": "てばかりいる"
+  },
+  "g-ext11-015": {
+    "category": "GRAMMAR",
+    "identity": "に違いなく（连用）"
+  },
+  "g-ext11-016": {
+    "category": "GRAMMAR",
+    "identity": "にせよ／にしろ"
+  },
+  "g-ext11-017": {
+    "category": "GRAMMAR",
+    "identity": "につけ"
+  },
+  "g-ext11-018": {
+    "category": "GRAMMAR",
+    "identity": "に越したことはない"
+  },
+  "g-ext11-023": {
+    "category": "GRAMMAR",
+    "identity": "とて"
+  },
+  "g14-000": {
+    "category": "GRAMMAR",
+    "identity": "からこそ"
+  },
+  "g14-001": {
+    "category": "GRAMMAR",
+    "identity": "といった（举例）"
+  },
+  "g14-002": {
+    "category": "GRAMMAR",
+    "identity": "か何か"
+  },
+  "g14-003": {
+    "category": "GRAMMAR",
+    "identity": "たきり"
+  },
+  "g14-004": {
+    "category": "GRAMMAR",
+    "identity": "だけあって"
+  },
+  "g14-005": {
+    "category": "GRAMMAR",
+    "identity": "だけに"
+  },
+  "g14-006": {
+    "category": "GRAMMAR",
+    "identity": "だけのことはある"
+  },
+  "g14-007": {
+    "category": "GRAMMAR",
+    "identity": "かというと"
+  },
+  "g14-008": {
+    "category": "GRAMMAR",
+    "identity": "ないではない"
+  },
+  "g14-009": {
+    "category": "GRAMMAR",
+    "identity": "ようによっては"
+  },
+  "g14-010": {
+    "category": "GRAMMAR",
+    "identity": "にとどまる"
+  },
+  "g14-011": {
+    "category": "GRAMMAR",
+    "identity": "とばかり思っていた"
+  },
+  "g14-012": {
+    "category": "GRAMMAR",
+    "identity": "あっての"
+  },
+  "g14-013": {
+    "category": "GRAMMAR",
+    "identity": "をいいことに"
+  },
+  "g14-014": {
+    "category": "GRAMMAR",
+    "identity": "にかまけて"
+  },
+  "g14-015": {
+    "category": "GRAMMAR",
+    "identity": "にかこつけて"
+  },
+  "g14-016": {
+    "category": "GRAMMAR",
+    "identity": "を限りに"
+  },
+  "g14-017": {
+    "category": "GRAMMAR",
+    "identity": "ばそれまでだ"
+  },
+  "g14-018": {
+    "category": "GRAMMAR",
+    "identity": "にとどまらず"
+  },
+  "g14-019": {
+    "category": "GRAMMAR",
+    "identity": "には当たらない"
+  },
+  "r-ext11-001": {
+    "category": "READINGS",
+    "identity": [
+      "二つの入口",
+      "私はどこから入りましたか。",
+      "友達に会う前に、何をしますか。"
+    ]
+  },
+  "r-ext11-002": {
+    "category": "READINGS",
+    "identity": [
+      "昼ご飯のメモ",
+      "もう一つのおにぎりは誰のですか。",
+      "みかんはいつ食べますか。"
+    ]
+  },
+  "r-ext11-003": {
+    "category": "READINGS",
+    "identity": [
+      "店の新しい時間",
+      "今週、店は何時に閉まりますか。",
+      "私は店に着いて、パンを買えますか。"
+    ]
+  },
+  "r-ext11-004": {
+    "category": "READINGS",
+    "identity": [
+      "予約を変える",
+      "今の予約はいつですか。",
+      "友達に連絡した理由は何ですか。"
+    ]
+  },
+  "r-ext11-005": {
+    "category": "READINGS",
+    "identity": [
+      "返す場所",
+      "受付が閉まっている場合、どうすればいいですか。",
+      "私は傘を入れた後、何をしましたか。"
+    ]
+  },
+  "r-ext11-006": {
+    "category": "READINGS",
+    "identity": [
+      "短い復習",
+      "疲れた日はどうしますか。",
+      "毎日の数を増やさないのはなぜですか。"
+    ]
+  },
+  "r-ext11-007": {
+    "category": "READINGS",
+    "identity": [
+      "写真の整理",
+      "整理の途中で何を変えたか。",
+      "作者は容量の問題をどう考えているか。"
+    ]
+  },
+  "r-ext11-008": {
+    "category": "READINGS",
+    "identity": [
+      "会議の記録",
+      "短い記録にも残すものは何か。",
+      "詳しいメモを残す目的は何か。"
+    ]
+  },
+  "r-ext11-009": {
+    "category": "READINGS",
+    "identity": [
+      "受け取り方を選ぶ",
+      "店で受け取る主な理由は何か。",
+      "作者が評価している点は何か。"
+    ]
+  },
+  "r-ext11-010": {
+    "category": "READINGS",
+    "identity": [
+      "数値の見せ方",
+      "件数が増えたことだけでは成果を判断できない理由は何か。",
+      "筆者の主張に最も近いものはどれか。"
+    ]
+  },
+  "r-ext11-011": {
+    "category": "READINGS",
+    "identity": [
+      "静かな席",
+      "一部で試す理由として最も適切なものは何か。",
+      "意見を聞くときに重視するのは何か。"
+    ]
+  },
+  "r-ext11-012": {
+    "category": "READINGS",
+    "identity": [
+      "無料という条件",
+      "筆者は有料サービスをどう捉えているか。",
+      "「出口」が指すものは何か。"
+    ]
+  },
+  "r-ext11-013": {
+    "category": "READINGS",
+    "identity": [
+      "記録されない待ち時間",
+      "筆者が問題視しているのは何か。",
+      "途中で諦めた人に触れた意図は何か。",
+      "数字と聞き取りの関係として適切なのはどれか。"
+    ]
+  },
+  "r-ext11-014": {
+    "category": "READINGS",
+    "identity": [
+      "二つの貸出案内",
+      "十九日に練習するには、いつまでに交流室へ申し込む必要があるか。",
+      "返却について正しいものはどれか。",
+      "営利目的の許可について適切な判断はどれか。"
+    ]
+  },
+  "r-ext11-015": {
+    "category": "READINGS",
+    "identity": [
+      "分かりやすさの先に",
+      "筆者が短い説明に求める条件は何か。",
+      "暗唱より具体的な行動を尋ねるのはなぜか。",
+      "別の資料に置ける場合がある情報はどれか。"
+    ]
+  },
+  "r14-0": {
+    "category": "READINGS",
+    "identity": [
+      "朝の忘れ物",
+      "傘はどこにありましたか。",
+      "今日はいつもと同じ電車に乗りましたか。"
+    ]
+  },
+  "r14-1": {
+    "category": "READINGS",
+    "identity": [
+      "二人のカード",
+      "妹は二冊目の本をどうしますか。",
+      "私は妹を待つ間、何をしますか。"
+    ]
+  },
+  "r14-2": {
+    "category": "READINGS",
+    "identity": [
+      "新しい担当",
+      "材料が見つからなかったとき、最初に何をしましたか。",
+      "担当を順番にしたきっかけは何ですか。"
+    ]
+  },
+  "r14-3": {
+    "category": "READINGS",
+    "identity": [
+      "締切は二つ",
+      "お弁当を注文する締切はいつですか。",
+      "友達がした手続きは何ですか。"
+    ]
+  },
+  "r14-4": {
+    "category": "READINGS",
+    "identity": [
+      "名前を付ける前に",
+      "作者は何を先に決めたいと考えたか。",
+      "その日の結果を作者はどう捉えたか。",
+      "木の名前を使う案に対して示された懸念は何か。"
+    ]
+  },
+  "r14-5": {
+    "category": "READINGS",
+    "identity": [
+      "返信を待つ時間",
+      "作者の以前の考えは何だったか。",
+      "期限内に答えられない場合、作者は何を望むか。",
+      "今の考えに合うものはどれか。"
+    ]
+  },
+  "r14-6": {
+    "category": "READINGS",
+    "identity": [
+      "点数を知らせる順番",
+      "今回変更されたのは何か。",
+      "効果についてどのように述べているか。",
+      "以前、高得点の人にも改善点が届きにくかった理由は何か。"
+    ]
+  },
+  "r14-7": {
+    "category": "READINGS",
+    "identity": [
+      "二つの募集条件",
+      "鈴木さんが交流会へ応募することについて正しいものはどれか。",
+      "交流会後の個人利用について何が言えるか。",
+      "Aの登録済みの人について正しいものはどれか。"
+    ]
+  },
+  "r14-8": {
+    "category": "READINGS",
+    "identity": [
+      "選べることと、選べていること",
+      "筆者が区別すべきだとするものは何か。",
+      "利用数の少なさだけで不要と判断する問題は何か。",
+      "すべての選択肢を最初に並べる案についての見方はどれか。",
+      "最後の段落の主張に最も近いものはどれか。"
+    ]
+  },
+  "r14-9": {
+    "category": "READINGS",
+    "identity": [
+      "残さないために残す",
+      "冒頭で挙げられた問題は何か。",
+      "二種類の記録を比較する目的は何か。",
+      "編集チームの方法について適切な説明はどれか。",
+      "題名の「残さないために残す」は何を意味するか。"
+    ]
+  },
+  "t14-0": {
+    "category": "TOPICS",
+    "identity": "省略主语之后，谁在说、谁在做"
+  },
+  "t14-1": {
+    "category": "TOPICS",
+    "identity": "限定词：只是、甚至与至少"
+  },
+  "t14-2": {
+    "category": "TOPICS",
+    "identity": "规则题中的条件层级：原则、例外和附加许可"
+  },
+  "t14-3": {
+    "category": "TOPICS",
+    "identity": "让步之后，作者究竟保留了什么"
+  },
+  "t14-4": {
+    "category": "TOPICS",
+    "identity": "证据的强弱：事实、传闻、推测与归因"
+  },
+  "u-t14-0": {
+    "category": "USAGE",
+    "identity": "「先生に資料を送っていただいた」中寄资料的人是谁？"
+  },
+  "u-t14-1": {
+    "category": "USAGE",
+    "identity": "哪一句最直接表达“至少十人会参加”，而非“竟然多达十人”？"
+  },
+  "u-t14-2": {
+    "category": "USAGE",
+    "identity": "规则为“学生免费，但特别展另收费”。学生参观特别展时，能否直接推出免费？"
+  },
+  "u-t14-3": {
+    "category": "USAGE",
+    "identity": "“便利だ。もっとも、初回登録には時間がかかる。”最合适的概括是什么？"
+  },
+  "u-t14-4": {
+    "category": "USAGE",
+    "identity": "原文只说两项同时增加，并称因果尚未确认。哪项概括可靠？"
+  }
+}
