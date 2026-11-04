@@ -1,0 +1,87 @@
+{
+  "grammar.js": {
+    "count": 276,
+    "levels": {
+      "N5": 50,
+      "N4": 50,
+      "N3": 51,
+      "N2": 57,
+      "N1": 68
+    },
+    "sha256": "3a7ed3d3e9df7b12ee9b2413f5fab1b66039006bc2323635c7d9f7d5730be723"
+  },
+  "blanks.js": {
+    "count": 32,
+    "levels": {
+      "N5": 8,
+      "N4": 6,
+      "N3": 6,
+      "N2": 6,
+      "N1": 6
+    },
+    "sha256": "f6c514121d15493b3941d9478a86b761bdaf6d32c0552d893d5f323d32fc36e6"
+  },
+  "kanji.js": {
+    "count": 2383,
+    "levels": {
+      "N5": 79,
+      "N4": 166,
+      "N3": 367,
+      "N2": 367,
+      "N1": 1232,
+      "拓展": 172
+    },
+    "sha256": "33709ef661c66da2d98d7a4e0bb49ee6749343ed60e109283836ac26780e4f4f"
+  },
+  "writing.js": {
+    "count": 10,
+    "levels": {
+      "N5": 2,
+      "N4": 2,
+      "N3": 2,
+      "N2": 2,
+      "N1": 2
+    },
+    "sha256": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
+  },
+  "orders.js": {
+    "count": 30,
+    "levels": {
+      "N5": 6,
+      "N4": 6,
+      "N3": 6,
+      "N2": 6,
+      "N1": 6
+    },
+    "sha256": "f91e19b0ccaf2ba02d30863d6e6b042dbd650bf850ecd383eb53ed18700357ea"
+  },
+  "foundation.js": {
+    "count": 16,
+    "levels": {
+      "入门": 16
+    },
+    "sha256": "799ed7a241ef0ad1cda6d4a9cab37ea5aad4b6231f8f8cc8c72a092c0252cf28"
+  },
+  "vocab.js": {
+    "count": 10641,
+    "levels": {
+      "N5": 807,
+      "N4": 757,
+      "N3": 1817,
+      "N2": 3215,
+      "N1": 4045
+    },
+    "sha256": "8834b1383100d1f799170c7594d2353e65f1212400f4dda616e4aae65454cd2e"
+  },
+  "readings.js": {
+    "count": 30,
+    "levels": {
+      "N5": 6,
+      "N4": 6,
+      "N3": 6,
+      "N2": 6,
+      "N1": 6
+    },
+    "sha256": "d5c627717fc8eae4a2b3e17f2f67aaccfdb8945007822e94483fd1f23b40c5a3"
+  }
+}
