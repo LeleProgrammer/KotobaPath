@@ -83,3 +83,11 @@ node tests/check.cjs
 ## 许可
 
 代码：GPL-3.0-or-later，见 `LICENSE`。原创教学内容：CC BY 4.0。词库：egg rolls，CC BY-NC 4.0，**非商业**。汉字数据：EDRDG／KANJIDIC2，CC BY-SA 4.0，另有Jonathan Waller分级署名。完整声明在 `licenses/NOTICE.md`，不同内容保留各自许可，不能将整个数据包一律改称GPL。
+
+## 1.0.1 本地样式加载修复
+
+启动器明确设置CSS、JavaScript、JSON、SVG和HTML的响应类型，避免受到Windows注册表中文件关联的影响，并禁止开发服务器缓存。首页资源增加版本参数。
+
+更新时先关闭旧的启动窗口，完整解压新版，再运行start.bat。继续访问 `http://127.0.0.1:8765/`；如当前标签页仍是旧内容，按 Ctrl+F5 强制刷新一次。地址和存档键未更改，原浏览器本机存档可继续使用。不要在压缩包内直接运行。
+
+若提示8765端口占用，先退出旧启动窗口；启动器不会自动切换端口，以免导致原存档看似丢失。
