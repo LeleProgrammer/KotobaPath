@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -101,6 +101,17 @@
   },
   "readingQuestions": 889,
   "kanjiChinese": 227,
+  "wordVisuals": {
+    "count": 2000,
+    "examples": 2899,
+    "levels": {
+      "N5": 427,
+      "N4": 309,
+      "N3": 474,
+      "N2": 421,
+      "N1": 369
+    }
+  },
   "files": {
     "blanks.js": "f6c514121d15493b3941d9478a86b761bdaf6d32c0552d893d5f323d32fc36e6",
     "expansion-source.json": "0a195aacb9793c91ca879235b5037b7936a8c9499baac26038d8b4f11dd65a21",
@@ -120,6 +131,8 @@
     "ruby-audit.json": "8f6066df750010865e9b42a8af44a977dbd1b646d36f0a60c32c8674575d5fae",
     "ruby-data.js": "3e0a7df327f7e817c2918cea87f9e177482ebe2f0f4d9479a9886e24172946d8",
     "vocab.js": "8834b1383100d1f799170c7594d2353e65f1212400f4dda616e4aae65454cd2e",
+    "word-visual-ruby.js": "7a9c044776b588c94348e4f1f59aae92f8fe4ea8077b6f8a0c7474967b7c21e0",
+    "word-visuals.js": "3614cbaa53d9a4c36b3f5a5053fddda701fa3acc2abec4fb3c12d3f0540e607e",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }
 }

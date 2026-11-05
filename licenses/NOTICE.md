@@ -67,3 +67,5 @@ The 227 added Chinese kanji glosses accompany the existing KANJIDIC2 adaptation;
 - 国际交流基金「文法を楽しく・もの（1）」的用法区分：https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201206.html
 
 仅参考语法说明方向，本包例句、题目和阅读均另行编写，未转载教材课文或题库。
+
+词汇配图与补充例句的来源和许可证见 [WORD-VISUALS.md](WORD-VISUALS.md)。ARASAAC 配图遵循 CC BY-NC-SA，补充例句按各自的来源授权分发。
