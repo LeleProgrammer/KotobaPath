@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -102,24 +102,25 @@
   "readingQuestions": 889,
   "kanjiChinese": 227,
   "wordVisuals": {
-    "count": 547,
+    "count": 895,
     "levels": {
-      "N5": 249,
-      "N4": 95,
-      "N3": 117,
-      "N2": 56,
-      "N1": 30
+      "N5": 302,
+      "N4": 187,
+      "N3": 287,
+      "N2": 60,
+      "N1": 59
     }
   },
   "vocabularyExamples": {
-    "count": 4404,
-    "words": 2622,
-    "atLeastTwo": 1782,
-    "missingForTwo": 17200
+    "count": 13244,
+    "words": 6622,
+    "atLeastTwo": 6622,
+    "missingForTwo": 8360
   },
   "files": {
     "blanks.js": "f6c514121d15493b3941d9478a86b761bdaf6d32c0552d893d5f323d32fc36e6",
     "expansion-source.json": "0a195aacb9793c91ca879235b5037b7936a8c9499baac26038d8b4f11dd65a21",
+    "expansion-v1.10-examples.js": "73d0a09d8509f24e3e942f8e235312434042a6bcf5d18086e6fb4fa891c68be9",
     "expansion-v1.3.js": "babe718d679339a1f3345e664f82c214f4b4b81576b3a43fa8b1bf8e0fd76489",
     "expansion-v1.4.js": "b3cb393f9bfc97b06e7e5459cb397c9166941e90fe06d16770da5be034adfd49",
     "expansion-v1.8-examples.js": "0788f639b04e3afc378a9962d47bbddd7723485f9a228920f3c9ccfef6da1a98",
@@ -136,10 +137,10 @@
     "readings-v1.4.js": "f6cc1424a67dcda16f1053efeae61b326e051bf64c254adfafbf0278a9fb2140",
     "readings-v1.5.js": "c3eff1bc9c374c1a0a472d7171f5fa91f4dc290ad6e122cffb8ea2881eba7874",
     "readings.js": "d5c627717fc8eae4a2b3e17f2f67aaccfdb8945007822e94483fd1f23b40c5a3",
-    "ruby-audit.json": "023426226b31bebcad2c554b1025494fa64278d366228aa7cf9ee480e4a80225",
-    "ruby-data.js": "90abaccd5628550ffdc558872f7a55e9749222fc370ccfdbf0582e8db3162d64",
+    "ruby-audit.json": "2bda76bb89e1b73b54bad9105b75d71df14d1778e9665547fa8a4b3f1ec2472a",
+    "ruby-data.js": "07e885acc5add7d490289f70c981dfa4635da38843ac5cd2819c2b3aa13c94bf",
     "vocab.js": "509aab343f538ea15725f99a4a5624a5e58a5836e0051075dfc4887aa25a7fc5",
-    "word-visuals.js": "40143456ecfdab75db58a2c8b4399f321d662be4b6b596047de36aa1418f6fe5",
+    "word-visuals.js": "43a83eaab52bb8a0bb6aabd795d8e3a2d8fa5c6c5c2dd83bde04026f71f3f402",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }
 }

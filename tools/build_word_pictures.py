@@ -71,7 +71,10 @@ def draw_motif(parts, pale, highlight):
 
 
 def draw_picture(word, sense, design, motifs, scenes):
-    bg, ink, pale, highlight = palette(design)
+    if design.startswith('v110-'):
+        bg, ink, pale, highlight = PALETTES[design.split('-', 2)[1]]
+    else:
+        bg, ink, pale, highlight = palette(design)
     if design.startswith('number-'):
         number = int(design[7:])
         if 1 <= number <= 10:

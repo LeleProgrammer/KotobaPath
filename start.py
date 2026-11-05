@@ -72,7 +72,7 @@ def main():
     thread = threading.Thread(target=server.serve_forever, daemon=True)
     thread.start()
     url = 'http://127.0.0.1:8765/'
-    print('KotobaPath 1.9.0:', url, flush=True)
+    print('KotobaPath 1.10.0:', url, flush=True)
     print('Keep this window open. Press Ctrl+C to stop.', flush=True)
     if not args.no_browser:
         webbrowser.open(url)

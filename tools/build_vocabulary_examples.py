@@ -19,14 +19,16 @@ def canonical(text):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--batch', choices=['18', '19'], default='19')
+    parser.add_argument('--batch', choices=['18', '19', '110'], default='110')
     batch = parser.parse_args().batch
     source = ROOT / f'data/authoring/vocabulary-examples-v{batch}.tsv'
-    output = ROOT / f'data/expansion-v1.{batch[-1]}-examples.js'
+    output = ROOT / f'data/expansion-v1.{batch[1:]}-examples.js'
     script = r"""
 const fs=require('node:fs'),vm=require('node:vm'),context=vm.createContext({window:{}});
 for(const [,file] of fs.readFileSync('index.html','utf8').matchAll(/<script src="(data\/[^?"\s]+)/g)){
- if(!(file==='data/expansion-v1.8-examples.js' && process.argv[1]==='19')&&!/^(data\/vocab\.js|data\/expansion(?:-v1\.[34])?\.js)$/.test(file))continue;
+ const batch=Number(process.argv[1].slice(1));
+ const previous=file.match(/^data\/expansion-v1\.(\d+)-examples\.js$/);
+ if(!(previous && Number(previous[1])<batch)&&!/^(data\/vocab\.js|data\/expansion(?:-v1\.[34])?\.js)$/.test(file))continue;
  for(const dep of ['grammar','kanji','foundation','readings','blanks','orders','writing']) context.window[dep.toUpperCase()]??=[];
  vm.runInContext(fs.readFileSync(file,'utf8'),context,{filename:file});
 }
@@ -44,7 +46,7 @@ console.log(JSON.stringify(context.window.VOCAB));
         if not line or line.startswith('#'):
             continue
         label, ja, zh = (part.strip() for part in line.split('\t'))
-        if batch == '19':
+        if batch != '18':
             matches = [by_id[label]] if label in by_id else []
         else:
             term, reading, gloss = (label.split('|') + ['', ''])[:3]

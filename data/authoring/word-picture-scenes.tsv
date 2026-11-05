@@ -89,3 +89,353 @@ scene-88	water@0,13,38 snow@34,10,29
 scene-89	lunchbox@23,25,34 homeward@0,3,43
 scene-90	kettle@13,11,49 flame@0,28,27
 scene-91	handkerchief@6,3,41 water@35,22,29
+
+# Original artwork added in 1.10.0.
+v110-object-1	table@2,4,60 plate@8,12,19 cup@39,9,19
+v110-object-2	coat@0,0,64
+v110-object-3	shirt@4,2,54 necktie@21,10,27
+v110-object-4	sweater@0,0,64
+v110-object-5	skirt@1,4,57 clothes-storage@42,7,22
+v110-action-6	slope@4,25,50 snow@44,5,20 ski-poles@2,0,50
+v110-object-7	book@4,7,56 chalkboard@27,6,28
+v110-object-8	buildings@4,3,57 handbag@37,33,26
+v110-action-9	dance@4,5,54 music@39,0,25
+v110-object-10	ticket@5,16,49 stage@35,1,28
+v110-object-11	book@4,6,56 page-corner@27,9,32
+v110-object-12	foot@5,6,54 shoe@42,35,22
+v110-object-13	face@2,2,60
+v110-object-14	face@2,4,49 handkerchief@32,30,30 thermo@43,3,21
+v110-nature-15	autumn-leaf@2,2,58 wind@38,0,26
+v110-nature-16	branch-blossom@0,2,62 sun@43,0,22
+v110-nature-17	snowman@2,4,56 snow@42,4,22
+v110-nature-18	sun@32,1,31 watermelon@1,26,36 wind@28,23,35
+v110-object-19	shop@3,5,57 bell@42,38,21
+v110-object-20	road@3,5,56 tree@4,12,23 pin@42,0,22
+v110-nature-21	cloud@5,5,48 cloud@22,26,41
+v110-object-22	buildings@2,0,56 road@29,26,36
+v110-object-23	music@8,8,52 note@0,29,30
+v110-object-24	canvas@0,1,62
+v110-object-25	shop@5,8,55 menu@36,33,26
+v110-quality-26	circle@0,0,62 compass-tool@30,5,33
+v110-quality-27	plate-stack@0,0,64
+v110-nature-28	pond@0,0,64
+v110-nature-29	cloud@0,3,43 bird@27,12,34 sun@42,0,22
+v110-object-30	page-corner@4,4,55 pencil@37,37,27
+v110-nature-31	paw@12,14,45 rabbit@0,4,30
+v110-object-32	magazine@0,0,64
+v110-object-33	suitcase@4,11,43 box@32,27,32
+v110-object-34	buildings@1,3,61 door@24,33,26
+v110-object-35	postcard@0,0,64
+v110-object-36	suit@1,3,51 skirt@33,27,31
+v110-object-37	door@7,0,50 shoe@26,34,25 key@42,9,21
+v110-object-38	chalkboard@13,0,46 table@5,27,40 chair@39,36,24
+v110-object-39	shirt@1,6,54 button@40,33,22
+v110-object-40	window@3,1,41 chair@35,25,28 table@0,24,36
+v110-object-41	stove@4,12,48 sink@36,1,28
+v110-time-42	sunrise@0,0,33 bread@23,13,39 cup@1,30,32
+v110-time-43	sun@38,0,25 lunchbox@3,13,51
+v110-time-44	moon@39,0,24 rice@0,21,41 plate@29,21,33
+v110-object-45	photo-print@0,0,64
+v110-object-46	cookie@2,10,38 sweet@29,26,35
+v110-object-47	bookstore@4,6,56 book@39,37,25
+v110-object-48	notebook-rings@3,6,48 stationery-pen@38,28,25
+v110-object-49	mailbox@6,5,47 stamp@38,1,25
+v110-object-50	exit@4,4,53 road@0,31,30
+v110-object-51	shop@2,9,52 carrot@40,26,23 cabbage@32,42,20
+v110-object-52	cup@2,11,47 shop@33,1,31
+v110-object-53	phone-number@0,0,64
+v110-object-54	person@4,11,43 station-gate@28,4,35
+v110-object-55	tool-case@0,0,64
+v110-object-56	patty@0,0,64
+v110-object-57	toggle-switch@0,0,64
+v110-object-58	sauce-boat@0,0,64
+v110-object-59	video-tape@9,17,49 television@28,0,34
+v110-action-60	pair@2,12,46 heart@41,5,23
+v110-relation-61	group@2,9,53 circle@31,29,30
+v110-object-62	autograph@0,0,64
+v110-object-63	controller@0,0,64
+v110-object-64	bin@10,21,48 box@0,0,26 broken-fragment@33,1,23
+v110-object-65	stage@4,13,54 music@38,1,24
+v110-object-66	computer@2,2,57 keyboard@18,35,39
+v110-object-67	salad-bowl@0,0,64
+v110-object-68	jam-jar@0,0,64
+v110-object-69	world@8,0,48 network@13,22,44
+v110-object-70	mic@25,16,36 person@0,8,43
+v110-object-71	table@4,27,54 monitor@25,4,32 chair@2,15,29
+v110-object-72	shop@7,1,50 shopping-cart@1,29,34
+v110-object-73	cash-register@0,0,64
+v110-object-74	mailbox@5,2,56 letter-envelope@34,25,30
+v110-object-75	poster@0,0,64
+v110-object-76	convenience@0,0,64
+v110-object-77	fax@0,0,64
+v110-object-78	paw@4,2,42 dog@30,22,33
+v110-object-79	body-shoulder@0,0,64
+v110-object-80	body-waist@0,0,64
+v110-object-81	body-arm@0,0,64
+v110-object-82	mouth@3,5,58 face@42,2,20
+v110-object-83	body-belly@0,0,64
+v110-object-84	cheek@0,0,64
+v110-object-85	skin@0,0,64
+v110-object-86	fingers@0,0,64
+v110-object-87	branch-blossom@0,0,64
+v110-object-88	gate@0,0,64
+v110-object-89	crown@0,0,64
+v110-object-90	line-sentence@0,0,64
+v110-nature-91	soil-bed@0,0,64
+v110-object-92	hard-candy@0,0,64
+v110-object-93	character-sheet@0,0,64
+v110-object-94	bandage@0,0,64
+v110-object-95	pain-sign@0,0,64
+v110-object-96	thermo@3,5,55 medical@39,0,24
+v110-object-97	bed@0,26,61 pill@44,2,19 medical@4,3,24
+v110-nature-98	leaf@2,0,62 water@40,33,25
+v110-nature-99	rock@1,10,59 sand@31,28,31
+v110-quality-100	line-geometry@0,0,64
+v110-object-101	paper-sack@0,0,64
+v110-object-102	chair@1,4,59 ticket@31,9,28
+v110-object-103	body-neck@0,0,64
+v110-object-104	road@2,26,53 shop@0,0,30 apartment@35,0,29
+v110-object-105	street-corner@0,0,64
+v110-object-106	tempura@0,0,64
+v110-object-107	miso-bowl@0,0,64
+v110-object-108	basketball-hoop@27,5,35 sport-field@2,19,53
+v110-nature-109	harbor@0,0,64
+v110-nature-110	lake@0,0,64
+v110-nature-111	zoo@0,0,64
+v110-object-112	tear-eye@0,0,64
+v110-nature-113	branch@0,0,64
+v110-object-114	japanese-meal@0,0,64
+v110-object-115	soba-tray@0,0,64
+v110-object-116	rice-field@1,3,49 grain@30,24,35
+v110-object-117	reception@0,0,64
+v110-object-118	planner@0,0,64
+v110-time-119	bed@2,21,56 sunrise@35,0,25
+v110-object-120	sport@3,10,53 chalkboard@40,1,23
+v110-relation-121	round-meeting@0,0,64
+v110-object-122	book@2,6,56 dinosaur@19,4,36
+v110-object-123	gearwork@0,0,64
+v110-time-124	window@0,1,37 plate@14,20,42 moon@36,0,25
+v110-object-125	box@2,10,46 tag@35,18,29
+v110-object-126	gift@2,6,57 ribbon@42,6,22
+v110-object-127	file-folder@2,18,46 chart@32,4,28
+v110-object-128	shinkansen@9,5,53 fast@0,26,29
+v110-object-129	train@19,2,44 fast@0,17,29 track@1,28,34
+v110-object-130	comic@0,0,64
+v110-nature-131	coast@0,0,64
+v110-action-132	wash@3,9,55 soap@40,1,22
+v110-action-133	swim@7,14,49 pool@0,1,28
+v110-object-134	torii@0,0,64
+v110-object-135	ryokan@0,0,64
+v110-object-136	run@2,14,48 flag@40,8,24
+v110-time-137	school-grid@0,0,64
+v110-object-138	textbook@0,0,64
+v110-object-139	running-track@0,0,64
+v110-object-140	buildings@3,13,47 flag@38,1,24 world@3,3,23
+v110-object-141	teeth@10,10,43 medical@40,2,21
+v110-object-142	apartment@3,3,44 file-folder@30,29,33
+v110-object-143	table@6,22,50 meeting@28,0,33
+v110-object-144	phone-keypad@6,5,53 talk@33,30,29
+v110-object-145	bird@2,4,40 meat@25,29,36
+v110-object-146	body-back@0,0,64
+v110-nature-147	soil-section@0,0,64
+v110-object-148	castle@0,0,64
+v110-object-149	tongue@0,0,64
+v110-object-150	body-knee@0,0,64
+v110-object-151	doll@0,0,64
+v110-object-152	ceiling@0,0,64
+v110-object-153	uniform@0,0,64
+v110-object-154	throat@0,0,64
+v110-object-155	lungs@0,0,64
+v110-object-156	ice-cubes@0,0,64
+v110-object-157	thread@8,4,51 sewing-needle@36,13,28
+v110-object-158	iron-ingot@0,0,64
+v110-object-159	paper-stack@0,0,64
+v110-object-160	roof@0,0,64
+v110-nature-161	roots@0,0,64
+v110-quality-162	digits@0,0,64
+v110-object-163	jaw@0,0,64
+v110-object-164	futon@0,0,64
+v110-object-165	sleeve@0,0,64
+v110-object-166	glass-pane@0,0,64
+v110-nature-167	sand@5,6,51 grains@37,30,27
+v110-object-168	hair-strands@0,0,64
+v110-object-169	plaza@0,0,64
+v110-object-170	liquid-flask@0,0,64
+v110-object-171	glass-tumbler@0,0,64
+v110-nature-172	farm-row@0,0,64
+v110-nature-173	hill@0,0,64
+v110-object-174	stomach@0,0,64
+v110-object-175	jar-lid@0,0,64
+v110-nature-176	fireworks@0,0,64
+v110-object-177	sink@4,7,42 fridge@27,1,35 pot@11,32,29
+v110-object-178	sofa@2,13,58 lamp-shade@38,1,25
+v110-object-179	film@2,10,55 smile@22,17,30
+v110-object-180	engine@0,0,64
+v110-object-181	wine@0,0,64
+v110-object-182	knife@5,2,49 cutting-board@26,29,38
+v110-object-183	plate-stack@4,5,50 chopsticks@36,8,27
+v110-object-184	bed-sheet@0,0,64
+v110-object-185	obi@0,0,64
+v110-object-186	car@3,9,57 key@38,0,25
+v110-object-187	guitar@0,3,48 trumpet@30,22,33
+v110-object-188	art@6,9,49 canvas@27,5,36
+v110-object-189	book-cover@0,0,64
+v110-nature-190	dry-ground@0,0,64
+v110-object-191	motorcycle@4,8,58 helmet@40,0,24
+v110-object-192	icecream@6,3,52 spoon@39,27,25
+v110-object-193	apron@0,0,64
+v110-object-194	bookshelf@2,1,50 book@30,35,33
+v110-object-195	lab@9,8,49 note@0,32,27
+v110-object-196	parking@0,0,64
+v110-object-197	yukata@0,0,64
+v110-nature-198	sheep@0,0,64
+v110-object-199	recipe@0,0,64
+v110-object-200	ferris-wheel@0,0,64
+v110-object-201	reception@6,0,42 sofa@12,26,47
+v110-object-202	sweet@8,6,44 apple@33,24,28
+v110-object-203	gearwork@4,10,45 bolt@33,22,31
+v110-object-204	print@3,5,56 paper-stack@34,24,29
+v110-object-205	body-full@0,0,64
+v110-action-206	knit@0,0,64
+v110-object-207	jacket@0,0,64
+v110-object-208	rubber-loop@0,0,64
+v110-nature-209	mountain-trail@0,0,64
+v110-object-210	speaker@0,0,64
+v110-quality-211	square@3,6,56 box@38,25,25
+v110-object-212	bouquet@0,0,64
+v110-action-213	stethoscope@0,0,64
+v110-object-214	school@3,1,46 sport-field@19,30,41
+v110-object-215	butter@0,0,64
+v110-object-216	food-box@0,0,64
+v110-nature-217	lawn@0,0,64
+v110-object-218	hill-road@0,0,64
+v110-object-219	steering@0,0,64
+v110-nature-220	lion@0,0,64
+v110-object-221	sunglasses@0,0,64
+v110-nature-222	flower-bed@0,0,64
+v110-nature-223	tractor@6,3,46 rice-field@13,28,49
+v110-object-224	rice-bowl@0,0,64
+v110-object-225	salt@6,12,40 soysauce@31,2,31
+v110-object-226	sidewalk@0,0,64
+v110-object-227	balcony@0,0,64
+v110-object-228	ink@0,0,64
+v110-object-229	paper-stack@6,6,53 ruler-triangle@31,30,30
+v110-object-230	brake@0,0,64
+v110-object-231	keyboard@0,0,64
+v110-object-232	shortcut@0,0,64
+v110-object-233	album@0,0,64
+v110-object-234	frying-pan@0,0,64
+v110-object-235	rocket@0,0,64
+v110-object-236	clothes-storage@9,3,49 shirt@0,27,34 pants@34,29,29
+v110-object-237	rag@0,0,64
+v110-nature-238	branch@1,0,60 leaf@35,28,29
+v110-object-239	virus@0,0,64
+v110-object-240	cola@0,0,64
+v110-relation-241	crash@0,0,64
+v110-object-242	brochure@0,0,64
+v110-object-243	bag@3,20,40 mountain@29,1,34 walk@34,28,29
+v110-object-244	meat@5,8,53 fork@0,25,29
+v110-nature-245	rain@2,2,60 umbrella@36,30,30
+v110-object-246	bulb@0,0,64
+v110-object-247	yakisoba@0,0,64
+v110-object-248	cardboard@0,0,64
+v110-action-249	fridge@4,8,47 ice-cubes@31,27,33
+v110-object-250	jeans@0,0,64
+v110-object-251	museum@0,0,64
+v110-object-252	handle@0,0,64
+v110-quality-253	speaker@7,6,44 level-bars@36,9,27
+v110-object-254	picnic@0,0,64
+v110-object-255	wheelchair@0,0,64
+v110-nature-256	wheat@0,0,64
+v110-object-257	plastic@0,0,64
+v110-nature-258	crow@0,0,64
+v110-object-259	fluorescent@0,0,64
+v110-object-260	washer@0,0,64
+v110-object-261	paint-tubes@0,0,64
+v110-object-262	plaza@9,10,48 buildings@1,1,30
+v110-object-263	sashimi@0,0,64
+v110-action-264	judo@0,0,64
+v110-time-265	alarm@0,0,64
+v110-object-266	set-meal@0,0,64
+v110-object-267	paint-can@0,0,64
+v110-object-268	fuel-pump@0,0,64
+v110-nature-269	panda@0,0,64
+v110-object-270	sausage@0,0,64
+v110-object-271	floor-mat@0,0,64
+v110-object-272	detergent@0,0,64
+v110-object-273	stomach@4,4,52 lightning@41,17,22
+v110-object-274	potato@0,0,64
+v110-object-275	brush@0,0,64
+v110-object-276	vacuum@0,0,64
+v110-object-277	newspaper@0,0,64
+v110-nature-278	lettuce@0,0,64
+v110-object-279	zipper@0,0,64
+v110-object-280	bell-pepper@0,0,64
+v110-object-281	wagashi@0,0,64
+v110-object-282	mirror@4,3,46 scissors@31,28,32
+v110-object-283	shop@4,9,49 medical@29,0,28 pill@37,34,26
+v110-object-284	nori@0,0,64
+v110-object-285	cavity@0,0,64
+v110-object-286	backpack@0,0,64
+v110-object-287	camcorder@0,0,64
+v110-object-288	diaper@0,0,64
+v110-object-289	racket@0,0,64
+v110-object-290	receipt@0,0,64
+v110-object-291	salad-bowl@2,17,50 sauce-boat@32,0,31
+v110-object-292	garage@0,0,64
+v110-object-293	baseball-field@0,0,64
+v110-object-294	extractor@0,0,64
+v110-object-295	calculator@0,0,64
+v110-object-296	seal@0,0,64
+v110-object-297	postcard@0,6,60 canvas@31,5,32
+v110-object-298	pasta@0,0,64
+v110-object-299	heater@0,0,64
+v110-object-300	cassette@0,0,64
+v110-object-301	pepper-grinder@0,0,64
+v110-object-302	ikebana@0,0,64
+v110-object-303	luggage-rack@0,0,64
+v110-relation-304	evacuation-map@0,0,64
+v110-relation-305	shield@15,3,47 house@0,19,49
+v110-relation-306	detour@0,0,64
+v110-action-307	bike@8,8,53 mountain@34,0,27
+v110-object-308	apartment@3,1,38 lawn@17,26,48
+v110-object-309	receipt@2,5,49 seal@37,29,26
+v110-object-310	brochure@2,8,54 tag@37,28,27
+v110-object-311	highway@0,0,64
+v110-object-312	planner@5,6,50 coins@31,29,32
+v110-object-313	phone-keypad@3,3,49 lock@32,29,32
+v110-action-314	letter-envelope@4,10,43 van@26,25,37 stamp@37,1,25
+v110-nature-315	bird@10,15,50 nest@0,0,30
+v110-nature-316	flower@3,11,48 grains@34,23,27
+v110-object-317	car@6,23,52 flashlight@33,1,30
+v110-object-318	thigh@0,0,64
+v110-nature-319	cat-tail@0,0,64
+v110-object-320	page-blank@0,0,64
+v110-nature-321	fish-tank@0,0,64
+v110-nature-322	moon@3,2,56 star@40,32,23
+v110-nature-323	meteor@0,0,64
+v110-nature-324	volcano@0,0,64
+v110-nature-325	puddle@0,0,64
+v110-nature-326	dinosaur@0,0,64
+v110-nature-327	feather@0,0,64
+v110-object-328	chimney@0,0,64
+v110-nature-329	fossil@0,0,64
+v110-object-330	sheet-music@0,0,64
+v110-object-331	fan-stand@0,0,64
+v110-nature-332	comet@0,0,64
+v110-object-333	crane@0,0,64
+v110-nature-334	coral@0,0,64
+v110-object-335	saw@0,0,64
+v110-nature-336	flowerpot@0,0,64
+v110-nature-337	caterpillar@0,0,64
+v110-object-338	cup@12,3,42 plate-stack@4,20,56
+v110-object-339	sailboat@0,0,64
+v110-nature-340	bulb-plant@0,0,64
+v110-object-341	stroller@0,0,64
+v110-nature-342	guide-dog@0,0,64
+v110-object-343	ticket@0,12,49 plane@28,0,35
+v110-nature-344	constellation@0,0,64
+v110-action-345	relay@0,0,64
+v110-quality-346	rectangle@0,0,64
+v110-object-347	tablet@0,0,64
+v110-nature-348	ant@0,0,64
