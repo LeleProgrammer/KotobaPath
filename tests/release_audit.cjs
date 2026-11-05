@@ -15,6 +15,6 @@ const snapshot=JSON.parse(fs.readFileSync(__dirname+'/scheduled-identities.json'
 for(const r of run('R'))for(const q of r.questions){assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert(q.options[q.answer]);assert(q.why);checks++;}
 for(const x of run('ALL')){assert(run('MAP.has('+JSON.stringify(x.id)+')'));checks++;}
 assert(!run("G.find(x=>x.id==='g14-002').note").includes('如何か'));checks++;
-assert.equal(run('state.contentVersion'),'1.7.0');checks++;
+assert.equal(run('state.contentVersion'),'1.8.0');checks++;
 assert(run('topics()').includes('28个深入专题'));checks++;
 console.log('PASS',checks,'release checks using actual HTML script order; scheduled IDs, all reading questions and catalog totals verified.');
