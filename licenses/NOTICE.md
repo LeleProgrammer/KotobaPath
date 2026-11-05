@@ -68,4 +68,4 @@ The 227 added Chinese kanji glosses accompany the existing KANJIDIC2 adaptation;
 
 仅参考语法说明方向，本包例句、题目和阅读均另行编写，未转载教材课文或题库。
 
-词汇配图与补充例句的来源和许可证见 [WORD-VISUALS.md](WORD-VISUALS.md)。ARASAAC 配图遵循 CC BY-NC-SA，补充例句按各自的来源授权分发。
+词汇配图与补充例句的来源和许可证见 [WORD-VISUALS.md](WORD-VISUALS.md)。KotobaPath 原创配图与一言采用 CC BY 4.0，补充例句按各自的来源授权分发。

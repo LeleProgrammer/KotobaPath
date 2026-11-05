@@ -21,7 +21,7 @@ class ServerTest(unittest.TestCase):
         # Reproduce a wrong Windows MIME association without changing the OS.
         mimetypes.add_type('text/plain', '.css')
         mimetypes.add_type('application/octet-stream', '.js')
-        mimetypes.add_type('application/octet-stream', '.webp')
+        mimetypes.add_type('application/octet-stream', '.svg')
         with tempfile.TemporaryDirectory(prefix='kotoba test ') as tmp:
             root = Path(tmp) / '日语课程'
             shutil.copytree(ROOT, root, ignore=shutil.ignore_patterns('__pycache__'))
@@ -46,9 +46,9 @@ class ServerTest(unittest.TestCase):
                         self.assertEqual(response.headers.get_content_type(), expected)
                 with urlopen(base + 'style.css?v=1.0.1') as response:
                     self.assertEqual(response.read(), (root / 'style.css').read_bytes())
-                picture = next((root / 'assets/word-pictures').glob('*.webp'))
+                picture = next((root / 'assets/word-pictures').glob('*.svg'))
                 with urlopen(base + picture.relative_to(root).as_posix()) as response:
-                    self.assertEqual(response.headers.get_content_type(), 'image/webp')
+                    self.assertEqual(response.headers.get_content_type(), 'image/svg+xml')
                     self.assertEqual(response.read(), picture.read_bytes())
                 with urlopen(base + 'data/inventory.json') as response:
                     self.assertEqual(response.headers.get_content_type(), 'application/json')

@@ -4,19 +4,20 @@ const names=['vocab','grammar','kanji','foundation','readings','blanks','orders'
 vm.runInContext(fs.readFileSync(path.join(root,'data/expansion.js'),'utf8'),ctx);
 for(const f of ['expansion-v1.3','readings-v1.3','expansion-v1.4','readings-v1.4','readings-v1.5','grammar-v1.5'])vm.runInContext(fs.readFileSync(path.join(root,'data',f+'.js'),'utf8'),ctx);
 vm.runInContext(fs.readFileSync(path.join(root,'data/word-visuals.js'),'utf8'),ctx);
-const manifest={version:'1.5.1',categories:{},readingQuestions:0,kanjiChinese:0},allIds=new Set();
+const manifest={version:'1.6.0',categories:{},readingQuestions:0,kanjiChinese:0},allIds=new Set();
 for(const name of [...names,'topics','usage']){
  const a=ctx.window[name.toUpperCase()];manifest.categories[name]={count:a.length,levels:{}};
  for(const x of a){assert(!allIds.has(x.id),'Duplicate ID: '+x.id);allIds.add(x.id);manifest.categories[name].levels[x.level]=(manifest.categories[name].levels[x.level]||0)+1;}
 }
 manifest.readingQuestions=ctx.window.READINGS.reduce((n,x)=>n+x.questions.length,0);manifest.kanjiChinese=ctx.window.KANJI.filter(x=>x.meaningZh).length;
 const visuals=ctx.window.WORD_VISUALS;
-manifest.wordVisuals={count:0,examples:0,levels:{}};
+manifest.wordVisuals={count:0,examples:0,illustration:0,diagram:0,levels:{}};
 for(const word of ctx.window.VOCAB){
  const visual=visuals[word.id];
  if(!visual)continue;
  manifest.wordVisuals.count++;
- manifest.wordVisuals.examples+=visual.examples.length;
+ manifest.wordVisuals.examples+=visual.examples?.length||0;
+ manifest.wordVisuals[visual.kind]++;
  manifest.wordVisuals.levels[word.level]=(manifest.wordVisuals.levels[word.level]||0)+1;
 }
 assert.equal(manifest.wordVisuals.count,Object.keys(visuals).length,'Illustrations must link to existing vocabulary');

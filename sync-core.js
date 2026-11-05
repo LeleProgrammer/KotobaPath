@@ -1,7 +1,7 @@
 /* Additive save compatibility and manual synchronization. GPL-3.0-or-later. */
 'use strict';
 window.KOTOBA_SYNC = (() => {
- const VERSION='1.2.0',CONTENT_VERSION='1.5.1',FIELDS=['wordbook','learned','stars','completed','notes','drafts','reviews','wrong'];
+ const VERSION='1.2.0',CONTENT_VERSION='1.6.0',FIELDS=['wordbook','learned','stars','completed','notes','drafts','reviews','wrong'];
  const object=x=>x&&typeof x==='object'&&!Array.isArray(x);
  const validId=id=>typeof id==='string'&&id.length>0&&id.length<=180&&!['__proto__','prototype','constructor'].includes(id)&&!/[\u0000-\u001f]/.test(id);
  const clone=x=>JSON.parse(JSON.stringify(x));

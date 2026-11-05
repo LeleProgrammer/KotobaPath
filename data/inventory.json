@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -102,14 +102,16 @@
   "readingQuestions": 889,
   "kanjiChinese": 227,
   "wordVisuals": {
-    "count": 2000,
+    "count": 10802,
     "examples": 2899,
+    "illustration": 3303,
+    "diagram": 7499,
     "levels": {
-      "N5": 427,
-      "N4": 309,
-      "N3": 474,
-      "N2": 421,
-      "N1": 369
+      "N5": 817,
+      "N4": 776,
+      "N3": 1851,
+      "N2": 3273,
+      "N1": 4085
     }
   },
   "files": {
@@ -122,6 +124,7 @@
     "foundation.js": "799ed7a241ef0ad1cda6d4a9cab37ea5aad4b6231f8f8cc8c72a092c0252cf28",
     "grammar-v1.5.js": "86c03dfd57564459c39a6be3076431edfc36f032cbb6e48eb14aedf266a38d86",
     "grammar.js": "3a7ed3d3e9df7b12ee9b2413f5fab1b66039006bc2323635c7d9f7d5730be723",
+    "home-quotes.js": "0c25573f782f79e257a55a034307313065df4a258cc6c15e2b21e6c48dff28e5",
     "kanji.js": "33709ef661c66da2d98d7a4e0bb49ee6749343ed60e109283836ac26780e4f4f",
     "orders.js": "f91e19b0ccaf2ba02d30863d6e6b042dbd650bf850ecd383eb53ed18700357ea",
     "readings-v1.3.js": "1452903c0bfa44f4b84581e6512901bed7e69b36cf763cbb3235cbe59d0ba689",
@@ -132,7 +135,7 @@
     "ruby-data.js": "3e0a7df327f7e817c2918cea87f9e177482ebe2f0f4d9479a9886e24172946d8",
     "vocab.js": "8834b1383100d1f799170c7594d2353e65f1212400f4dda616e4aae65454cd2e",
     "word-visual-ruby.js": "7a9c044776b588c94348e4f1f59aae92f8fe4ea8077b6f8a0c7474967b7c21e0",
-    "word-visuals.js": "3614cbaa53d9a4c36b3f5a5053fddda701fa3acc2abec4fb3c12d3f0540e607e",
+    "word-visuals.js": "55567ce1428ca69d7adf3f127a9e1d0e2ab634339897178ef51a6a7b96e877a5",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }
 }

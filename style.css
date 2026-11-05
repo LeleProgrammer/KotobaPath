@@ -25,11 +25,11 @@ rp { font-size: .7em; }
 .word-picture-thumb, .word-picture img {
   object-fit: contain;
   border-radius: 12px;
-  padding: 8px;
+  max-width: 100%;
   box-sizing: border-box;
-  background: #fffaf0;
 }
-.word-picture-thumb { flex: 0 0 76px; }
+.word-picture-thumb { flex: 0 0 auto; width: clamp(64px, 12vw, 88px); height: auto; }
+.word-picture img { width: min(256px, 100%); height: auto; }
 .word-picture {
   display: flex;
   flex-wrap: wrap;

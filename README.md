@@ -1,12 +1,12 @@
-# KotobaPath · 言葉の道 1.5.1
+# KotobaPath · 言葉の道 1.6.0
 
 中文讲解的离线日语学习工具。纯HTML、CSS、原生JavaScript，无ES Module、构建或CDN依赖；默认深色，正文字号18～24px。不含口语、听力和音频。
 
-1.5.1 为 N5–N1 的 2,000 个词条各加入一张离线简图及 1–2 条带中文译文的补充例句，共 2,899 条。进入「词汇与短语」选择「有配图」，点开词条可查看配图义项、补充例句和来源。单词本也显示缩略图，例句使用现有平假名注音开关。图形与文本授权见 [WORD-VISUALS.md](licenses/WORD-VISUALS.md)。
+1.6.0 为全部 10,802 个 N5–N1 词条提供原创离线 SVG。具象配图和词义示意图可在「词汇与短语」分别筛选，也显示于单词本。词条详情打开后从顶部开始，笔记可手动滚动查看。主页每次进入或刷新会从 36 条原创日中对照「ひとこと」中随机选择一句。1.5.1 的 2,899 条补充例句和注音全部保留。图形与文本授权见 [WORD-VISUALS.md](licenses/WORD-VISUALS.md)。
 
 1.5.0 按内容覆盖清单增加阅读与语法课程，并完善单词本、错题和复习。变更见 `UPDATE-1.5.0.md`，验证见 `QA-1.5.0.md`。
 
-| 内容 | 1.4.1 | 1.5.0–1.5.1 |
+| 内容 | 1.4.1 | 1.5.0–1.6.0 |
 |---|---:|---:|
 | 词汇／短语 | 10802 | 10802 |
 | 语法讲解 | 485 | 565 |
@@ -73,6 +73,7 @@ node tests/compatibility.cjs
 node tests/expansion14.cjs
 node tests/release_audit.cjs
 node tests/v15.cjs
+node tests/word_visuals.cjs
 python tests/test_server.py
 ```
 

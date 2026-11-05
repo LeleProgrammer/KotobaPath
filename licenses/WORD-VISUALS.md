@@ -1,10 +1,10 @@
 # 词汇配图与补充例句来源
 
-## 图形
+## 原创插图与主页一言
 
-`assets/word-pictures/` 内的图形由 **Sergio Palao** 绘制，来源为 **ARASAAC**，所有者为 **Gobierno de Aragón（阿拉贡自治区政府）**，按 **CC BY-NC-SA** 许可提供。本项目按相同许可分发裁去多余留白、缩小并转为 WebP 的版本。文件名中的数字是原图编号，词条详情链接到对应原图。
+`assets/word-pictures/` 为 KotobaPath 原创 SVG 词汇插图。图案线稿与示意图由项目绘制，矢量文件由原创图形组件与词义规则组合生成。具体名词、常见动作与关系可用物件或场景表现，其他词条使用带义项标签的示意图。原图形素材已整体替换。
 
-[ARASAAC 图形库](https://arasaac.org/) · [ARASAAC 使用条款](https://arasaac.org/terms-of-use)
+SVG 原创图形与 `data/home-quotes.js` 中的日文短句和中文对照按 **CC BY 4.0** 提供。插图中的词义标签随原词库数据适用其相应许可，见 [原词库授权说明](NOTICE.md)。
 
 ## 补充例句
 
