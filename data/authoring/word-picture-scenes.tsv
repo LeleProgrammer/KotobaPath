@@ -1,0 +1,91 @@
+scene-1	person@5,18,28 bus@29,11,33 arrow@20,36,16
+scene-2	train@1,5,40 person@35,25,27 down@30,32,17
+scene-3	eye@0,20,31 mountain@32,8,30
+scene-4	ear@4,14,36 bell@36,5,25
+scene-5	person@1,26,33 talk@30,4,32
+scene-6	letter@5,24,45 pencil@29,6,32
+scene-7	mouth@1,7,32 riceball@28,23,32
+scene-8	person@5,5,37 juice@32,15,26
+scene-9	shopping-cart@4,10,45 creditcard@38,5,23
+scene-10	shop@2,8,43 money@38,33,24
+scene-11	hand@2,16,33 scissors@29,7,32
+scene-12	tools@6,7,36 box@25,29,36
+scene-13	bed@2,27,45 sun@42,2,19 up@20,7,23
+scene-14	bed@5,21,51 moon@42,3,21
+scene-15	shirt@5,5,34 wash@20,30,41
+scene-16	take@5,17,49 gift@41,5,22
+scene-17	give@2,17,48 gift@0,1,22
+scene-18	pot@4,10,46 carrot@43,15,20
+scene-19	camera@5,5,30 eye@30,29,31 arrow@23,20,19
+scene-20	road@2,5,53 turn@33,1,28
+scene-21	person@0,29,32 shower@28,1,35
+scene-22	stairs@2,17,47 up@42,1,23
+scene-23	school@25,4,37 walk@4,31,30
+scene-24	flag@8,3,35 run@30,26,31
+scene-25	chalkboard@17,1,46 person@2,24,35
+scene-26	book@4,15,42 pencil@38,32,26
+scene-27	house@13,7,45 person@0,29,28
+scene-28	eraser@32,5,30 pencil@5,29,30
+scene-29	smile@7,4,48 talk@38,33,23
+scene-30	bridge@3,17,58 walk@4,1,29
+scene-31	give@1,16,50 umbrella@40,3,24
+scene-32	shoe@13,29,42 up@33,1,20
+scene-33	box@15,4,39 table@2,31,58
+scene-34	pin@32,2,30 bus@0,30,41
+scene-35	hand@1,15,37 apple@28,14,31
+scene-36	hand@0,13,42 bag@26,7,34
+scene-37	mic@29,12,32 mouth@0,17,33 music@20,0,22
+scene-38	park@3,27,48 sleep@30,2,29
+scene-39	bike@2,20,43 stop@38,4,23
+scene-40	book@2,11,35 stamp@33,25,29
+scene-41	talk@0,3,34 person@29,28,32
+scene-42	cloud@5,2,49 rain@21,21,41
+scene-43	bird@6,6,48 cloud@34,27,30
+scene-44	book@2,29,22 book@23,29,22 book@43,29,22 order@18,1,29
+scene-45	box@20,20,45 letter@2,2,29 down@18,11,19
+scene-46	note@5,8,44 pencil@34,24,29
+scene-47	park@26,5,38 walk@1,27,35
+scene-48	suitcase@27,20,36 plane@0,3,33
+scene-49	school@1,24,37 world@27,0,36
+scene-50	note@8,5,46 clock@40,22,22
+scene-51	letter@22,8,40 talk@0,26,30
+scene-52	shop@22,1,42 bag@2,25,32
+scene-53	question@4,5,33 talk@26,24,35
+scene-54	chalkboard@18,2,44 child@0,22,37
+scene-55	shoe@7,13,49 water@40,0,20
+scene-56	leaf@19,4,39 wash@0,28,33
+scene-57	computer@3,8,52 break@25,16,34
+scene-58	bed@1,24,49 bell@40,4,22
+scene-59	pack@13,12,50 ribbon@0,3,28
+scene-60	van@0,6,41 box@34,29,29
+scene-61	carry@0,12,51 door@37,2,26
+scene-62	key@5,3,37 down@38,12,22
+scene-63	coin@5,28,30 take@27,3,36
+scene-64	bin@29,18,34 paperclip@2,4,24 arrow@16,21,20
+scene-65	leaf@5,6,22 leaf@23,3,23 leaf@44,5,20 box@8,26,48
+scene-66	tree@2,7,37 fall@36,11,27
+scene-67	suitcase@23,28,36 walk@0,4,39
+scene-68	stamp@25,1,31 letter-envelope@4,23,48
+scene-69	letter-envelope@5,15,37 mailbox@32,12,33
+scene-70	piano@15,7,49 hand@0,29,33
+scene-71	camera@3,18,44 flower@39,6,24
+scene-72	fridge@16,1,49 juice@0,27,28
+scene-73	shirt@9,18,47 sun@40,1,22
+scene-74	ribbon@3,11,49 hand@39,28,23
+scene-75	plate@8,17,48 spoon@29,5,36
+scene-76	microwave@5,14,46 soup@35,29,25
+scene-77	icecream@5,8,49 sun@37,1,26
+scene-78	snow@32,3,25 shoe@2,21,53
+scene-79	tree@3,8,43 flame@30,20,32
+scene-80	water-flask@0,3,43 cup@33,31,31
+scene-81	towel@18,9,42 window@0,25,37
+scene-82	wall@4,11,47 art@32,3,29
+scene-83	flower@12,4,47 sun@39,0,24
+scene-84	shirt@1,18,32 pants@33,18,31 switch@23,1,21
+scene-85	dog@23,5,40 plate@0,30,31
+scene-86	gift@22,5,41 give@0,22,39
+scene-87	note@1,9,39 group@30,24,33
+scene-88	water@0,13,38 snow@34,10,29
+scene-89	lunchbox@23,25,34 homeward@0,3,43
+scene-90	kettle@13,11,49 flame@0,28,27
+scene-91	handkerchief@6,3,41 water@35,22,29

@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -102,20 +102,20 @@
   "readingQuestions": 889,
   "kanjiChinese": 227,
   "wordVisuals": {
-    "count": 383,
+    "count": 547,
     "levels": {
-      "N5": 189,
-      "N4": 72,
-      "N3": 72,
-      "N2": 40,
-      "N1": 10
+      "N5": 249,
+      "N4": 95,
+      "N3": 117,
+      "N2": 56,
+      "N1": 30
     }
   },
   "vocabularyExamples": {
-    "count": 2313,
-    "words": 1714,
-    "atLeastTwo": 599,
-    "missingForTwo": 19291
+    "count": 4404,
+    "words": 2622,
+    "atLeastTwo": 1782,
+    "missingForTwo": 17200
   },
   "files": {
     "blanks.js": "f6c514121d15493b3941d9478a86b761bdaf6d32c0552d893d5f323d32fc36e6",
@@ -123,6 +123,7 @@
     "expansion-v1.3.js": "babe718d679339a1f3345e664f82c214f4b4b81576b3a43fa8b1bf8e0fd76489",
     "expansion-v1.4.js": "b3cb393f9bfc97b06e7e5459cb397c9166941e90fe06d16770da5be034adfd49",
     "expansion-v1.8-examples.js": "0788f639b04e3afc378a9962d47bbddd7723485f9a228920f3c9ccfef6da1a98",
+    "expansion-v1.9-examples.js": "951097347dc2696fd5904f85a6252fc05d894ad12f591961dfefaaebe7a54798",
     "expansion.js": "60660d0d8bc1416be3fc6c45b87f13adcdca5ee34ad0abe33c271bc9c570b453",
     "expansion14-audit.json": "12a84e03dec2e6067d1b4fdc9bd5db25bcd072a5c69ccc5f659614984a398c13",
     "foundation.js": "799ed7a241ef0ad1cda6d4a9cab37ea5aad4b6231f8f8cc8c72a092c0252cf28",
@@ -135,10 +136,10 @@
     "readings-v1.4.js": "f6cc1424a67dcda16f1053efeae61b326e051bf64c254adfafbf0278a9fb2140",
     "readings-v1.5.js": "c3eff1bc9c374c1a0a472d7171f5fa91f4dc290ad6e122cffb8ea2881eba7874",
     "readings.js": "d5c627717fc8eae4a2b3e17f2f67aaccfdb8945007822e94483fd1f23b40c5a3",
-    "ruby-audit.json": "8f9344aa803de7fb0b895e31720669235333c2a2288bff3dc5997b28d91c8bfb",
-    "ruby-data.js": "74bb73379fb7516e60dcb4f8758a2f531f8bf7b4315476e56326c3dfc2a9eae6",
+    "ruby-audit.json": "023426226b31bebcad2c554b1025494fa64278d366228aa7cf9ee480e4a80225",
+    "ruby-data.js": "90abaccd5628550ffdc558872f7a55e9749222fc370ccfdbf0582e8db3162d64",
     "vocab.js": "509aab343f538ea15725f99a4a5624a5e58a5836e0051075dfc4887aa25a7fc5",
-    "word-visuals.js": "b9ca5538b41860deb0d4877f9fcc708ea47dce9632967b80e088f6de7209314b",
+    "word-visuals.js": "40143456ecfdab75db58a2c8b4399f321d662be4b6b596047de36aa1418f6fe5",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }
 }

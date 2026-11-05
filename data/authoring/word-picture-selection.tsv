@@ -382,3 +382,167 @@
 新幹線	shinkansen
 ロボット	robot
 納豆	natto
+バスケットボール	basketball-hoop	篮球运动
+サッカー	football-goal	足球运动
+卓球	table-tennis	乒乓球运动
+バレーボール	volleyball-net	排球运动
+郵便局	post-office
+映画館	cinema
+美術館	art-museum
+温泉	hot-spring
+風呂	bathtub	浴缸
+レインコート	raincoat
+着物	kimono
+マフラー	scarf
+花瓶	vase
+水筒	water-flask
+ドーナツ	donut
+扇子	folding-fan
+柿	persimmon
+なす	eggplant
+唐辛子	chili
+きゅうり	cucumber
+牡蠣	oyster
+チャーハン	fried-rice
+ホチキス	stapler
+滝	waterfall
+虹	rainbow
+懐中電灯	flashlight
+ろうそく	candle
+ハンバーガー	hamburger
+梨	pear
+ダム	dam
+灯台	lighthouse
+アイロン	clothes-iron
+パイナップル	pineapple
+渦	whirlpool
+パンチ||打孔机	hole-punch	打孔机
+リモコン	remote-control
+蟹	crab
+ドライヤー	hair-dryer
+歯ブラシ	toothbrush
+炊飯器	rice-cooker
+ゆりかご	cradle
+しいたけ	shiitake
+望遠鏡	telescope
+クリップ	paperclip	回形针
+のり	glue
+指輪	ring
+バイオリン	violin
+改札口	station-gate
+引き出し	drawer-single
+ロッカー	storage-locker
+押し入れ	wall-cabinet
+乗車券	ticket-gate
+蒸気機関車	train-engine
+横断歩道	street-crossing
+水族館	aquarium-window
+通訳	interpreter-pair	口译
+三脚	camera-tripod	相机三脚架
+ワイパー	windshield-wiper
+洗面台	bath-sink
+平屋	relief-house
+甲虫	beetle-shell
+金魚	goldfish-bowl
+ノート	notebook-rings
+ベンチ	bench-planks
+破片	broken-fragment
+缶詰	canned-food
+ゼリー	gelatin-mold
+発酵	ferment-bubbles
+水蒸気	wavy-steam
+時刻表	station-clockboard
+トンネル	road-tunnel
+絹	silk-roll
+針	sewing-needle
+乗る	scene-1	搭乘
+降りる	scene-2	下车
+見る	scene-3	用眼睛看
+聞く	scene-4	听声音
+言う	scene-5
+書く	scene-6
+食べる	scene-7	进食
+飲む	scene-8
+買う	scene-9	购买
+売る	scene-10
+使う	scene-11	使用工具
+作る	scene-12	制作物品
+起きる	scene-13	起床
+寝る	scene-14	睡觉
+洗濯	scene-15
+もらう	scene-16	收到礼物
+あげる	scene-17	给别人礼物
+料理	scene-18	做菜
+見せる	scene-19	展示给别人看
+曲がる	scene-20	转弯
+浴びる	scene-21	淋浴
+上がる	scene-22	走上楼梯
+通う	scene-23	经常往返学校
+始める	scene-24
+教える	scene-25
+勉強	scene-26
+住む	scene-27
+消す	scene-28	擦掉字迹
+笑う	scene-29
+渡る	scene-30	过桥
+貸す	scene-31	借出
+脱ぐ	scene-32	脱鞋
+置く	scene-33
+着く	scene-34
+取る	scene-35	拿取
+持つ	scene-36	拿着
+歌う	scene-37
+休む	scene-38
+止まる	scene-39	停下来
+借りる	scene-40	借书
+呼ぶ	scene-41
+降る	scene-42	下雨
+飛ぶ	scene-43	飞翔
+並べる	scene-44
+入れる	scene-45	放进盒子
+作文	scene-46
+散歩	scene-47
+旅行	scene-48
+留学	scene-49
+試験	scene-50
+返事	scene-51
+買い物	scene-52
+質問	scene-53
+授業	scene-54
+汚れる	scene-55
+育てる	scene-56
+壊れる	scene-57	设备坏掉
+起こす	scene-58	叫醒
+包む	scene-59
+届く	scene-60	包裹送到
+届ける	scene-61	递送到户
+落とす	scene-62	失手掉落
+拾う	scene-63	拾起
+捨てる	scene-64
+集める	scene-65
+倒れる	scene-66
+運ぶ	scene-67
+貼る	scene-68	贴上邮票
+送る	scene-69	寄信
+弾く	scene-70	弹琴
+撮る	scene-71	拍照
+冷やす	scene-72
+干す	scene-73
+結ぶ	scene-74
+混ぜる	scene-75
+温める	scene-76
+溶ける	scene-77
+滑る	scene-78	打滑
+燃える	scene-79
+注ぐ|そそぐ|	scene-80	往杯里倒水
+拭く	scene-81
+塗る	scene-82	涂漆
+咲く	scene-83	开花
+着替え	scene-84
+飼う	scene-85
+贈る	scene-86
+配る	scene-87
+凍る	scene-88
+持ち帰る	scene-89
+沸く	scene-90	水烧开
+拭き取る	scene-91
