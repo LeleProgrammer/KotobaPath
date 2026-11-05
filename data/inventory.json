@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -12,13 +12,13 @@
       }
     },
     "grammar": {
-      "count": 485,
+      "count": 565,
       "levels": {
-        "N5": 72,
-        "N4": 77,
-        "N3": 94,
-        "N2": 114,
-        "N1": 128
+        "N5": 82,
+        "N4": 87,
+        "N3": 109,
+        "N2": 134,
+        "N1": 153
       }
     },
     "kanji": {
@@ -39,13 +39,13 @@
       }
     },
     "readings": {
-      "count": 75,
+      "count": 250,
       "levels": {
-        "N5": 15,
-        "N4": 15,
-        "N3": 15,
-        "N2": 15,
-        "N1": 15
+        "N5": 50,
+        "N4": 50,
+        "N3": 50,
+        "N2": 50,
+        "N1": 50
       }
     },
     "blanks": {
@@ -89,17 +89,17 @@
       }
     },
     "usage": {
-      "count": 88,
+      "count": 168,
       "levels": {
-        "N5": 16,
-        "N4": 16,
-        "N3": 18,
-        "N2": 19,
-        "N1": 19
+        "N5": 26,
+        "N4": 26,
+        "N3": 33,
+        "N2": 39,
+        "N1": 44
       }
     }
   },
-  "readingQuestions": 189,
+  "readingQuestions": 889,
   "kanjiChinese": 227,
   "files": {
     "blanks.js": "f6c514121d15493b3941d9478a86b761bdaf6d32c0552d893d5f323d32fc36e6",
@@ -109,12 +109,16 @@
     "expansion.js": "60660d0d8bc1416be3fc6c45b87f13adcdca5ee34ad0abe33c271bc9c570b453",
     "expansion14-audit.json": "12a84e03dec2e6067d1b4fdc9bd5db25bcd072a5c69ccc5f659614984a398c13",
     "foundation.js": "799ed7a241ef0ad1cda6d4a9cab37ea5aad4b6231f8f8cc8c72a092c0252cf28",
+    "grammar-v1.5.js": "86c03dfd57564459c39a6be3076431edfc36f032cbb6e48eb14aedf266a38d86",
     "grammar.js": "3a7ed3d3e9df7b12ee9b2413f5fab1b66039006bc2323635c7d9f7d5730be723",
     "kanji.js": "33709ef661c66da2d98d7a4e0bb49ee6749343ed60e109283836ac26780e4f4f",
     "orders.js": "f91e19b0ccaf2ba02d30863d6e6b042dbd650bf850ecd383eb53ed18700357ea",
     "readings-v1.3.js": "1452903c0bfa44f4b84581e6512901bed7e69b36cf763cbb3235cbe59d0ba689",
     "readings-v1.4.js": "f6cc1424a67dcda16f1053efeae61b326e051bf64c254adfafbf0278a9fb2140",
+    "readings-v1.5.js": "c3eff1bc9c374c1a0a472d7171f5fa91f4dc290ad6e122cffb8ea2881eba7874",
     "readings.js": "d5c627717fc8eae4a2b3e17f2f67aaccfdb8945007822e94483fd1f23b40c5a3",
+    "ruby-audit.json": "8f6066df750010865e9b42a8af44a977dbd1b646d36f0a60c32c8674575d5fae",
+    "ruby-data.js": "3e0a7df327f7e817c2918cea87f9e177482ebe2f0f4d9479a9886e24172946d8",
     "vocab.js": "8834b1383100d1f799170c7594d2353e65f1212400f4dda616e4aae65454cd2e",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }

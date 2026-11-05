@@ -1,7 +1,7 @@
 /* Additive save compatibility and manual synchronization. GPL-3.0-or-later. */
 'use strict';
 window.KOTOBA_SYNC = (() => {
- const VERSION='1.2.0',CONTENT_VERSION='1.4.1',FIELDS=['learned','stars','completed','notes','drafts','reviews','wrong'];
+ const VERSION='1.2.0',CONTENT_VERSION='1.5.0',FIELDS=['wordbook','learned','stars','completed','notes','drafts','reviews','wrong'];
  const object=x=>x&&typeof x==='object'&&!Array.isArray(x);
  const validId=id=>typeof id==='string'&&id.length>0&&id.length<=180&&!['__proto__','prototype','constructor'].includes(id)&&!/[\u0000-\u001f]/.test(id);
  const clone=x=>JSON.parse(JSON.stringify(x));
@@ -29,7 +29,7 @@ window.KOTOBA_SYNC = (() => {
   return out;
  }
  function tally(sync){const days={};for(const [d,x]of Object.entries(sync.daily)){const es=Object.values(x.events);days[d]={total:x.baseTotal+es.length,correct:x.baseCorrect+es.filter(Boolean).length};}return days;}
- function upgrade(s){const n=clone(s);n.sync=normalizeSync(n.sync,n.days);n.appVersion=VERSION;n.contentVersion=CONTENT_VERSION;n.days=tally(n.sync);return n;}
+ function upgrade(s){const n=clone(s);if(!n.wordbook)n.wordbook={};n.sync=normalizeSync(n.sync,n.days);n.appVersion=VERSION;n.contentVersion=CONTENT_VERSION;n.days=tally(n.sync);return n;}
  function stamp(s,field,id){if(!s.sync)s.sync=normalizeSync(undefined,s.days);const map=s.sync.changed[field]||(s.sync.changed[field]={});map[id]=Math.max(Date.now(),(map[id]||0)+1);}
  function addAttempt(s,id,ok,time,mode,date){const uid=eventId();const day=s.sync.daily[date]||(s.sync.daily[date]={baseTotal:0,baseCorrect:0,events:{}});day.events[uid]=ok;s.days=tally(s.sync);s.history.push({id,ok,time,mode,uid});s.history=s.history.slice(-5000);return uid;}
  function lastTime(s,field,id){const t=s.sync.changed[field]?.[id];if(t)return t;if(field==='reviews'||field==='wrong'){return Math.max(s.wrong[id]?.last||0,...s.history.filter(x=>x.id===id).map(x=>x.time));}return 0;}
@@ -42,7 +42,7 @@ window.KOTOBA_SYNC = (() => {
     if(at!==bt)src=at>bt?a:b;
     else if(!own(a[field],id))src=b;
     else if(!own(b[field],id))src=a;
-    else if(['learned','stars','completed'].includes(field))src=av?a:b;
+    else if(['wordbook','learned','stars','completed'].includes(field))src=av?a:b;
     else if(field==='reviews'&&av.seen!==bv.seen)src=av.seen>bv.seen?a:b;
     else if(['notes','drafts'].includes(field)&&!av)src=b;
     else if(['notes','drafts'].includes(field)&&!bv)src=a;

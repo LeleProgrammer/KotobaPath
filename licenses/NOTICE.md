@@ -56,3 +56,14 @@ https://www.jlpt.jp/e/faq/ — official explanation of the current test and why 
 The 227 added Chinese kanji glosses accompany the existing KANJIDIC2 adaptation; this combined kanji adaptation retains CC BY-SA4.0 and EDRDG attribution. English source glosses and readings remain intact.
 
 `sync-core.js`, content build/audit tools and added tests: GPL-3.0-or-later. Original runtime and data licenses above continue to apply.
+
+## 1.5.0 补充
+
+新增175篇阅读、700道阅读题、80篇语法讲解与80道语境题为KotobaPath原创，CC BY4.0。注音数据及构建用词法工具的说明、署名和许可见 RUBY-NOTICE.md、JANOME-LICENSE.txt、JANOME-IPADIC-NOTICE.txt。原有数据许可不变。
+
+本次核对的公开教学参考：
+
+- 国际交流基金《いろどり》语法资料入口：https://www.irodori.jpf.go.jp/en/resources.html
+- 国际交流基金「文法を楽しく・もの（1）」的用法区分：https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201206.html
+
+仅参考语法说明方向，本包例句、题目和阅读均另行编写，未转载教材课文或题库。
