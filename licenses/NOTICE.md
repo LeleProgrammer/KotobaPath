@@ -18,7 +18,7 @@ https://creativecommons.org/licenses/by/4.0/
 Teaching framework reference only: GENKI, The Japan Times Publishing. https://genki3.japantimes.co.jp/en/intro/index.html
 No textbook pages, illustrations, exercises, or dialogues are reproduced. No licensed use of GENKI branding or endorsement is asserted.
 
-## Chinese vocabulary and associated examples
+## Chinese vocabulary data
 
 `data/vocab.js` is adapted from **egg rolls**, JLPT N1–N5 vocabulary deck, v3.5 source repository:
 https://github.com/5mdld/anki-jlpt-decks
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/5mdld/anki-jlpt-decks/main/deck-source/notes.c
 
 License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Full license retained as `eggrolls-LICENSE`.
 
-Changes: converted TSV/Anki fields to JSON-in-JavaScript, retained simplified Chinese definitions, cleaned HTML and sound markers, removed all audio and media, selected lexical fields and up to three associated examples, sorted by source order, retained stable UUID-based IDs. The examples are source dataset content, not newly authored by this app. The source creator states content includes public resources and personal compilation; attribution and provenance are preserved, not a claim of independently auditing each sentence's origin.
+Changes: converted TSV/Anki fields to JSON-in-JavaScript, retained simplified Chinese definitions, removed audio and media, sorted by source order, and retained stable UUID-based IDs. As of 1.7.0, the original deck's example sentences have been removed. The displayed vocabulary examples and translations were written by KotobaPath and are provided separately under CC BY 4.0.
 
 Noncommercial restriction applies to this vocabulary data and its adaptation. A GPL license on the application code does not override it. Do not market the bundled dataset as a commercial or paid product without separate permission.
 
@@ -68,4 +68,4 @@ The 227 added Chinese kanji glosses accompany the existing KANJIDIC2 adaptation;
 
 仅参考语法说明方向，本包例句、题目和阅读均另行编写，未转载教材课文或题库。
 
-词汇配图与补充例句的来源和许可证见 [WORD-VISUALS.md](WORD-VISUALS.md)。KotobaPath 原创配图与一言采用 CC BY 4.0，补充例句按各自的来源授权分发。
+词汇配图、原创例句和一言的授权见 [WORD-VISUALS.md](WORD-VISUALS.md)。

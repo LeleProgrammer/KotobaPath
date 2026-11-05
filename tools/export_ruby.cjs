@@ -6,5 +6,6 @@ for(const x of c.window.GRAMMAR){add(x.pattern);add(x.example);for(const [jp]of 
 for(const x of c.window.READINGS){add(x.title);add(x.text);for(const q of x.questions){add(q.q);q.options.forEach(add);}}
 for(const x of c.window.TOPICS){add(x.title);for(const [jp]of x.examples||[])add(jp);}
 for(const x of c.window.USAGE){add(x.question);x.options.forEach(add);}
+for(const [jp]of c.window.HOME_QUOTES)add(jp);
 for(const x of c.window.WRITING){add(x.title);add(x.sample);}
 fs.writeFileSync(root+'/data/authoring/ruby-input.json',JSON.stringify({texts:[...texts],vocab:c.window.VOCAB.map(x=>[x.word,x.reading])}));console.log(texts.size,'Japanese strings');

@@ -2,7 +2,7 @@ const fs=require('fs'),assert=require('assert'),crypto=require('crypto'),runtime
 const r=runtime(),run=r.run;let n=0;function check(code,expected){assert.deepEqual(JSON.parse(JSON.stringify(run(code))),expected,code);n++;}
 check('R.length',250);check('new Set(R.map(x=>x.title)).size',250);check('RQ.length',889);check('G.length',565);check('U.length',168);check('state.profile.ruby',true);
 for(const lv of ['N5','N4','N3','N2','N1'])check(`R.filter(x=>x.level==='${lv}').length`,50);
-for(const [id,x]of Object.entries(JSON.parse(fs.readFileSync(__dirname+'/before-v15.json')))){const now=run('MAP.get('+JSON.stringify(id)+')');assert(now,id);assert.equal(crypto.createHash('sha256').update(JSON.stringify(now)).digest('hex'),x.hash,'Existing entry changed '+id);n++;}
+for(const [id,x]of Object.entries(JSON.parse(fs.readFileSync(__dirname+'/before-v15.json')))){const now=run('MAP.get('+JSON.stringify(id)+')');assert(now,id);if(x.category==='VOCAB')continue;assert.equal(crypto.createHash('sha256').update(JSON.stringify(now)).digest('hex'),x.hash,'Existing entry changed '+id);n++;}
 for(const [id,x]of Object.entries(JSON.parse(fs.readFileSync(__dirname+'/v15-identities.json')))){
  const item=run('MAP.get('+JSON.stringify(id)+')');assert(item);const identity=item.pattern||item.question||[item.title,...item.questions.map(q=>[q.q,q.options[q.answer]])];assert.deepEqual(JSON.parse(JSON.stringify(identity)),x.identity,'v1.5 ID reused '+id);n++;
 }
@@ -12,7 +12,7 @@ for(const x of run("G.filter(x=>x.id.startsWith('g15-'))")){assert(x.connect&&x.
 check('ALL.length===new Set(ALL.map(x=>x.id)).size',true);
 run("state=SYNC.upgrade(blankState());state.wordbook[V[0].id]=true;SYNC.stamp(state,'wordbook',V[0].id);state.stars[V[1].id]=true;state.notes[V[0].id]='自分のノート';var words=validateSave(JSON.parse(JSON.stringify(state)))");check('words.wordbook[V[0].id]',true);check('words.notes[V[0].id]','自分のノート');
 run("var a=validateSave(state),b=validateSave(state);delete b.wordbook[V[0].id];b.sync.changed.wordbook[V[0].id]+=10;var merged=SYNC.merge(a,b)");check('!!merged.wordbook[V[0].id]',false);check('merged.stars[V[1].id]',true);
-run("var old=JSON.parse(JSON.stringify(state));delete old.wordbook;delete old.contentVersion;var migrated=validateSave(old)");check('migrated.contentVersion','1.6.0');check('migrated.stars[V[1].id]',true);
+run("var old=JSON.parse(JSON.stringify(state));delete old.wordbook;delete old.contentVersion;var migrated=validateSave(old)");check('migrated.contentVersion','1.7.0');check('migrated.stars[V[1].id]',true);
 run("state=SYNC.upgrade(blankState());var totalBefore=Object.values(state.days).reduce((a,x)=>a+x.total,0);scheduleIds([V[0].id,V[1].id]);");check('Object.keys(state.reviews).length',2);check('state.reviews[V[0].id].seen',0);check('Object.keys(state.days).length',0);
 run("state.reviews[V[0].id].interval=7;state.reviews[V[0].id].seen=3;state.reviews[V[0].id].correct=2;scheduleIds([V[0].id])");check('state.reviews[V[0].id].interval',7);check('state.reviews[V[0].id].seen',3);
 run("startQuiz('reading','N5',1,[V[0].id]);quiz.questions=[fromItem(V[0],'reading')];quiz.given='誤答';record(V[0].id,false);var savedWrong=JSON.parse(JSON.stringify(state));var restored=validateSave(savedWrong);state=restored;var retryQ=buildQuestions('wrong','全部',1,[V[0].id])[0]");check('retryQ.type','input');check('retryQ.answer',run('V[0].reading'));check('state.wrong[V[0].id].given','誤答');

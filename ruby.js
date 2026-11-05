@@ -25,7 +25,16 @@ window.KOTOBA_RUBY=(()=>{
   const segments=window.RUBY_DATA?.[text];
   let result;
   if(segments){let trimNext=0;result=segments.map((p,i)=>{if(Array.isArray(p)){const next=segments[i+1];const inline=typeof next==='string'?next.match(/^\[([ぁ-ゖァ-ヶー]+)\]/):null;if(inline){trimNext=inline[0].length;return parts(p[0],inline[1]);}return parts(p[0],p[1]);}const shown=trimNext?p.slice(trimNext):p;trimNext=0;return esc(shown);}).join('');}
-  else result=words.has(text)?parts(text,words.get(text)):esc(text);
+  else if(words.has(text))result=parts(text,words.get(text));
+  else{
+   let pos=0;
+   result='';
+   for(const match of text.matchAll(/([一-龯々〆ヶ]+)\[([ぁ-ゖァ-ヶー]+)\]/g)){
+    result+=esc(text.slice(pos,match.index))+parts(match[1],match[2]);
+    pos=match.index+match[0].length;
+   }
+   result+=esc(text.slice(pos));
+  }
   if(cache.size<10000)cache.set(text,result);return result;
  }
  return {render,parts};
