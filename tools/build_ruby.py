@@ -9,6 +9,7 @@ def hira(s):return ''.join(chr(ord(c)-96) if 'ァ'<=c<='ヶ' else c for c in s)
 # Sentence readings use morphological analysis; unknown tokens stay unannotated.
 fix={'試着':'しちゃく','択':'たく','今日':'きょう','明日':'あした','昨日':'きのう','今年':'ことし','去年':'きょねん','大人':'おとな','一人':'ひとり','二人':'ふたり','一昨日':'おととい','今朝':'けさ','木曜日':'もくようび','金曜日':'きんようび','生き物':'いきもの','何人':'なんにん','何冊':'なんさつ','何枚':'なんまい','何色':'なにいろ','何番':'なんばん','何時':'なんじ','何分':'なんぷん','何日':'なんにち','何回':'なんかい','何年':'なんねん','何匹':'なんびき','何個':'なんこ'}
 unknown={}
+contextual=json.loads((root/'data/authoring/ruby-context-v113.json').read_text(encoding='utf-8'))
 phrases={'疑問詞':'ぎもんし','助数詞':'じょすうし','連体節':'れんたいせつ','主語':'しゅご','文語':'ぶんご','連用':'れんよう','縮約':'しゅくやく','いかん':'いかん','来室':'らいしつ','来庁':'らいちょう','再来庁':'さいらいちょう','引継ぎ':'ひきつぎ','見積り':'みつもり','貸出':'かしだし','不採用':'ふさいよう','再検討':'さいけんとう','再配達':'さいはいたつ','白黒':'しろくろ','一律':'いちりつ','一方':'いっぽう','一部':'いちぶ','一度':'いちど','十分':'じゅうぶん','試着':'しちゃく','二択':'にたく','未知':'みち','実測':'じっそく','未確認':'みかくにん','全頁':'ぜんページ'}
 # Counter combinations are grouped before analysis to avoid e.g. 三 + 日 = さんにち.
 numchars='一二三四五六七八九十'
@@ -60,8 +61,11 @@ for i,text in enumerate(src['texts']):
     append_plain(surface)
   if pos<len(piece):append_plain(piece[pos:])
  pos=0
- for m in rx.finditer(text):
+ override=contextual.get(text)
+ text_rx=rx if not override else re.compile(re.escape(override[0])+'|'+rx.pattern)
+ for m in text_rx.finditer(text):
   tokenize_piece(text[pos:m.start()]);surface=m.group();reading=phrases.get(surface) if surface!='十分' else None
+  if override and surface==override[0]:reading=override[1]
   if reading is None:reading=number_reading(surface,text[:m.start()],text[m.end():])
   if reading:segments.append([surface,hira(reading)])
   else:tokenize_piece(surface)

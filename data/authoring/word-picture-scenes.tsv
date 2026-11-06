@@ -1305,3 +1305,312 @@ v112-time-40	date-v112-40@0,0,64
 v112-time-41	date-v112-41@0,0,64
 v112-time-42	date-v112-42@0,0,64
 v112-time-43	date-v112-43@0,0,64
+
+# Original artwork added in 1.13.0.
+v113-object-1854	house@0,6,52 apartment@31,0,29 grass@28,30,32
+v113-object-1866	india-shape@0,0,64
+v113-object-1895	planner@1,1,58 phone-call@34,31,28
+v113-object-1915	neighboring-houses@1,4,56 greeting-cards@33,25,31
+v113-object-1922	one-seat-table@0,0,64
+v113-object-1932	arch-front@0,0,64
+v113-object-1945	home-tutor@0,0,64
+v113-object-1951	circle-meeting@0,0,64
+v113-object-1956	school@1,2,56 toyblocks@28,26,37
+v113-action-1965	push-cart@0,0,64
+v113-object-1974	fashion-rack@0,0,64
+v113-object-2000	paint-tubes@1,2,54 canvas@27,14,37
+v113-object-2003	tax-envelope@0,0,64
+v113-quality-2005	loop-route@0,0,64
+v113-object-2010	latest-device@0,0,64
+v113-object-2013	sample-swatches@0,0,64
+v113-object-2037	outside-fence@0,0,64
+v113-object-2048	two-desks@0,0,64
+v113-object-2054	teacher-board@0,0,64
+v113-object-2064	city-shopping@0,0,64
+v113-object-2072	takeout-drink@0,0,64
+v113-object-2077	pocket-coin@0,0,64
+v113-quality-2086	irregular-bars@0,0,64
+v113-object-2104	podium-mic@0,0,64
+v113-quality-2116	energy-label@0,0,64
+v113-object-2124	parent-bench@0,0,64
+v113-object-2130	international-track@0,0,64
+v113-action-2134	apply-form@0,0,64
+v113-object-2140	stadium-seating@0,0,64
+v113-object-2142	sports-kit@0,0,64
+v113-object-2147	hall-floorplan@0,0,64
+v113-object-2149	loop-knot@0,0,64
+v113-object-2150	view-deck@0,0,64
+v113-action-2151	pickup-parcel@0,0,64
+v113-object-2154	factory-crane@0,0,64
+v113-object-2155	grandparents-frame@0,0,64
+v113-object-2166	welcome-table@0,0,64
+v113-object-2184	service-desk@0,0,64
+v113-object-2192	front-bell@0,0,64
+v113-object-2197	old-chair-tag@0,0,64
+v113-object-2225	music-stand@0,0,64
+v113-object-2232	entry-test@0,0,64
+v113-object-2234	supply-shelf@0,0,64
+v113-time-2236	midmonth-grid@0,0,64
+v113-time-2242	holiday-span@0,0,64
+v113-object-2247	bottle-drinks@0,0,64
+v113-object-2253	pin-badge@0,0,64
+v113-action-2273	school-entry@0,0,64
+v113-time-2275	month-end@0,0,64
+v113-object-2286	checkup-desk@0,0,64
+v113-nature-2287	climb-trail@0,0,64
+v113-object-2288	sax-jazz@0,0,64
+v113-object-2291	grant-book@0,0,64
+v113-quality-2302	seat-limit@0,0,64
+v113-object-2322	rail-bus@0,0,64
+v113-time-2325	next-week-bars@0,0,64
+v113-time-2328	first-train-sun@0,0,64
+v113-object-2331	fare-wallet@0,0,64
+v113-nature-2337	day-hike@0,0,64
+v113-object-2344	wok-dish@0,0,64
+v113-time-2345	weekly-closed@0,0,64
+v113-object-2354	subject-line@0,0,64
+v113-object-2356	tv-ad@0,0,64
+v113-action-2358	bank-transfer@0,0,64
+v113-object-2364	western-toilet@0,0,64
+v113-object-2372	graduate-study@0,0,64
+v113-quality-2376	enzyme-fit@0,0,64
+v113-object-2390	track-number@0,0,64
+v113-quality-2399	dose-spoon@0,0,64
+v113-time-2406	rush-clock@0,0,64
+v113-relation-2436	gap-spacer@0,0,64
+v113-action-4058	window@0,0,56 breeze-ribbon@28,17,34
+v113-nature-4086	upstream-canoe@0,0,64
+v113-action-4114	off-course@0,0,64
+v113-action-4116	lean-on-post@0,0,64
+v113-action-4133	tangled-wheel@0,0,64
+v113-quality-4246	tilted-balance@0,0,64
+v113-action-4265	body-knee@3,1,59 swollen-ring@24,25,31
+v113-action-4282	seeping-plank@0,0,64
+v113-action-4289	ticket-exchange@0,0,64
+v113-action-4298	hair-tie@0,0,64
+v113-action-4313	tingling-foot@0,0,64
+v113-action-4390	trapped-paper@0,0,64
+v113-action-4419	spoiled-fruit@2,5,56 damage-spots@33,24,29
+v113-action-4471	reach-for-hand@0,0,64
+v113-action-4498	two-carry@0,0,64
+v113-action-4510	skip-middle@0,0,64
+v113-quality-4594	pencil-point@0,0,64
+v113-action-4597	hoe-soil@0,0,64
+v113-action-4623	strides@0,0,64
+v113-action-4659	scoop-water@0,0,64
+v113-action-4678	intermingled-thread@0,0,64
+v113-action-4770	emergency-bracket@0,0,64
+v113-action-4777	inquiry-phone@0,0,64
+v113-action-4790	mock-silhouette@0,0,64
+v113-nature-4828	leaf-compost@0,0,64
+v113-quality-4909	lower-threshold@0,0,64
+v113-relation-4920	knot-diagram@0,0,64
+v113-nature-4922	bottle-ashore@0,0,64
+v113-action-4939	pickling-jar@0,0,64
+v113-action-5037	cool-under-tree@0,0,64
+v113-action-5059	weave-in@0,0,64
+v113-action-5119	rinse-sieve@0,0,64
+v113-action-5207	advance-payment@0,0,64
+v113-action-5296	flaking-paint@0,0,64
+v113-action-5300	loose-skin@0,0,64
+v113-nature-5314	rusted-nail@0,0,64
+v113-relation-5351	evidence-pair@0,0,64
+v113-time-5375	earlier-train@0,0,64
+v113-action-5454	crowded-gate@0,0,64
+v113-action-5460	serve-guests@0,0,64
+v113-action-5536	hide-from-thunder@0,0,64
+v113-action-5603	face-down-page@0,0,64
+v113-action-5621	drag-sack@0,0,64
+v113-action-5640	wide-eye@0,0,64
+v113-action-5651	marionette@0,0,64
+v113-action-5659	run-to-person@0,0,64
+v113-action-5687	depart-room@0,0,64
+v113-action-5725	locked-inside@0,0,64
+v113-nature-5771	ascending-sun@0,0,64
+v113-action-5777	loose-shoelace@0,0,64
+v113-action-5825	rest-together@0,0,64
+v113-nature-5874	clear-stream-bed@0,0,64
+v113-action-5937	question-map@0,0,64
+v113-action-5966	tree-block@0,0,64
+v113-action-5976	struggling-fish@0,0,64
+v113-action-6087	gather-circle@0,0,64
+v113-action-6133	pet-approach@0,0,64
+v113-action-6139	partition-room@0,0,64
+v113-quality-6145	even-buckets@0,0,64
+v113-action-6160	ink-bleed@0,0,64
+v113-action-6167	window-lounge@0,0,64
+v113-quality-6183	see-through-curtain@0,0,64
+v113-action-6213	imitate-fold@0,0,64
+v113-quality-6365	weathered-sign@0,0,64
+v113-quality-6421	standout-flower@0,0,64
+v113-action-6465	launch-ball@0,0,64
+v113-action-6475	narrow-thread@0,0,64
+v113-action-6478	bead-off@0,0,64
+v113-action-6554	hand-carry-tools@0,0,64
+v113-action-6594	yard-loop-dog@0,0,64
+v113-action-6676	thirst-cup@0,0,64
+v113-quality-6762	sticky-dough@0,0,64
+v113-action-6770	flipped-hem@0,0,64
+v113-action-6852	spent-runner@0,0,64
+v113-object-6874	harbor@2,6,57 child@36,29,28
+v113-action-6955	playful-pups@0,0,64
+v113-action-6973	shaken-scaffold@0,0,64
+v113-action-7002	severed-cord@0,0,64
+v113-quality-7112	contrast-frame@0,0,64
+v113-action-7200	lower-flame@0,0,64
+v113-relation-7339	twisting-streets@0,0,64
+v113-action-7456	phone-run@0,0,64
+v113-quality-7472	soot-wall@0,0,64
+v113-object-7484	empty-sugar-jar@0,0,64
+v113-action-7486	snug-box@0,0,64
+v113-action-7516	oral-story@0,0,64
+v113-quality-7704	matching-roofs@0,0,64
+v113-object-7707	deserted-market@0,0,64
+v113-nature-7831	after-clouds@0,0,64
+v113-action-7912	dilute-two-cups@0,0,64
+v113-action-7933	leaf-form@0,0,64
+v113-action-7944	carry-kit@0,0,64
+v113-object-8113	busy-market@0,0,64
+v113-nature-8183	bloom-meadow@0,0,64
+v113-action-8192	peel-label@0,0,64
+v113-nature-8195	sheer-rock@0,0,64
+v113-action-8207	note-taking@0,0,64
+v113-quality-8210	frayed-handle@0,0,64
+v113-quality-8228	above-temperature@0,0,64
+v113-action-8291	cat-rubs-leg@0,0,64
+v113-action-8466	inlaid-lid@0,0,64
+v113-action-8582	taming-horse@0,0,64
+v113-nature-8659	neglected-garden@0,0,64
+v113-action-8702	clear-box@0,0,64
+v113-action-8726	flooded-drain@0,0,64
+v113-action-8999	woven-pattern@0,0,64
+v113-action-9059	swooping-bird@0,0,64
+v113-quality-9066	bulky-blanket@0,0,64
+v113-quality-9370	waisted-bottle@0,0,64
+v113-action-9422	overhanging-board@0,0,64
+v113-quality-2424	extent-grid@0,0,64
+v113-object-2441	fog@0,0,60 silhouette-fog@17,14,44
+v113-time-2459	camera@0,7,51 flash-spark@28,2,36
+v113-object-2460	facial-pair@0,0,64
+v113-time-2476	lightning@4,4,51 stopwatch@34,32,29
+v113-relation-2483	perimeter-points@0,0,64
+v113-action-2536	workbench@1,4,55 tool-case@35,25,30
+v113-action-2547	single-step@0,0,64
+v113-relation-2557	gaze-line@0,0,64
+v113-object-2576	body-full@3,1,60 joint@35,29,29
+v113-object-2582	full-outline@0,0,64
+v113-nature-2592	snuffed@5,1,56 starry-sky@37,26,25
+v113-quality-2596	field-of-view@0,0,64
+v113-quality-2602	axis-cube@0,0,64
+v113-relation-2621	center-square@0,0,64
+v113-object-2687	torii@0,4,54 thanks-bow@32,22,31
+v113-object-2689	surface-exit@0,0,64
+v113-object-2706	fabric-rolls@5,4,57 fabric-corner@32,26,31
+v113-quality-2710	narrow-gap@0,0,64
+v113-object-2740	brain-profile@0,0,64
+v113-object-2751	overflow-bank@0,2,56 damaged-house@34,24,28
+v113-object-2753	device-cutaway@0,0,64
+v113-object-2757	crowd-cluster@0,0,64
+v113-nature-2769	chimney@3,10,53 smoke-curls@28,1,37
+v113-object-2774	film@5,2,55 video-frame@32,28,33
+v113-quality-2780	stage-steps@0,0,64
+v113-relation-2823	near-side@0,0,64
+v113-nature-2833	sprout@23,5,41 seed-cut@1,26,37
+v113-object-2836	pillar-cap@0,0,64
+v113-quality-2847	balance@0,2,55 equal-load@30,27,34
+v113-object-2873	lost-found@2,4,55 hand-delivery@33,27,31
+v113-relation-2895	map@1,4,56 close-ring@22,17,39
+v113-nature-2901	river@4,10,54 ridge@20,0,43
+v113-object-2903	front-page@0,0,64
+v113-object-2965	backdrop-layers@0,0,64
+v113-quality-2992	width-mark@0,0,64
+v113-object-2999	dress@4,2,56 clothes-rack@37,27,25
+v113-object-3002	sugar-clump@0,0,64
+v113-object-3014	screen-outline@0,0,64
+v113-object-3030	within-reach@0,0,64
+v113-object-3037	muscle-arm@0,0,64
+v113-quality-3048	tip-marker@0,0,64
+v113-object-3052	material-samples@0,0,64
+v113-time-3058	school@1,2,59 playground-after@31,30,33
+v113-object-3063	mesh-square@0,0,64
+v113-nature-3071	orbit-field@0,0,64
+v113-object-3082	iron-ingot@2,1,55 hardware-bracket@34,30,30
+v113-nature-3083	feather@4,1,54 wind@30,32,33
+v113-object-3091	school-grid@2,3,59 courtyard-school@30,23,33
+v113-object-3113	cash-register@24,4,40 front-counter@1,23,51
+v113-quality-3161	tile-pattern@0,0,64
+v113-time-3166	night-clock@0,0,64
+v113-object-3196	frame-joints@0,0,64
+v113-object-3202	finish-route@0,0,64
+v113-object-3203	statue-base@0,0,64
+v113-quality-3205	oscillating-block@0,0,64
+v113-nature-3206	starry-sky@1,1,60 telescope@26,27,33
+v113-object-3214	skin-layers@0,0,64
+v113-object-3219	stage-curtain@0,1,60 mic@28,23,32
+v113-quality-3222	body-thermometer@0,0,64
+v113-object-3238	inside-body@0,0,64
+v113-quality-3247	lofty-feather@0,0,64
+v113-quality-3268	layer-cake@0,0,64
+v113-nature-3281	shadow-line@0,0,64
+v113-relation-3286	room-corner@0,0,64
+v113-action-3291	colliding-carts@0,0,64
+v113-nature-3305	waterline-boat@0,0,64
+v113-object-3331	upper-body-cut@0,0,64
+v113-object-3350	beer-foam@0,0,64
+v113-action-3366	clink-glasses@0,0,64
+v113-object-3384	dough-ball@0,0,64
+v113-quality-3511	side-face@0,0,64
+v113-quality-3932	area-grid@0,0,64
+v113-object-4560	flowerpot@2,3,59 pot-rim@34,27,28
+v113-object-4648	rust-patch@0,0,64
+v113-quality-4760	bumpy-profile@0,0,64
+v113-object-4919	back-postcard@0,0,64
+v113-relation-4925	two-faces@0,0,64
+v113-object-5006	steam-whistle@0,0,64
+v113-quality-5089	salt-in-water@0,0,64
+v113-nature-5106	wind-waves@0,0,64
+v113-action-5238	post-letter@0,0,64
+v113-nature-5385	warming-trend@0,0,64
+v113-object-5492	graphite-core@0,0,64
+v113-object-5854	elbow-point@0,0,64
+v113-object-5881	back-silhouette@0,0,64
+v113-quality-6176	outline-edge@0,0,64
+v113-object-6797	woven-cloth@0,0,64
+v113-object-6928	flat-tray@0,0,64
+v113-quality-7117	spirit-level@0,0,64
+v113-quality-7276	slanted-plank@0,0,64
+v113-object-7431	prototype-pair@0,0,64
+v113-nature-7433	ocean-horizon@0,0,64
+v113-action-7435	whistle-profile@0,0,64
+v113-nature-7617	frost-blade@0,0,64
+v113-nature-7636	gravel-bed@0,0,64
+v113-nature-7698	eruption-peak@0,0,64
+v113-nature-7759	seed-section@0,0,64
+v113-nature-7978	ravine-river@0,0,64
+v113-object-8061	stretched-canvas@0,0,64
+v113-object-8112	tunnel-greenhouse@0,0,64
+v113-object-8127	tall-boots@0,0,64
+v113-object-8129	canine-tooth@0,0,64
+v113-object-8259	under-eaves@0,0,64
+v113-object-8334	utility-poles@0,0,64
+v113-object-8469	alarm-bell-rope@0,0,64
+v113-nature-8734	rain-lightning@0,0,64
+v113-object-8760	antique-vase@0,0,64
+v113-nature-8865	marsh-reeds@0,0,64
+v113-action-4490	running-track@1,4,58 starting-blocks@26,30,35
+v113-object-4868	line-table@3,1,52 receipt@27,29,35
+v113-nature-5278	pollen-grains@0,0,64
+v113-nature-5339	needle-conifer@0,0,64
+v113-object-5424	egg@2,3,56 protein-beans@34,26,30
+v113-object-6898	bed@0,1,55 hotel-counter@30,27,34
+v113-object-7499	single-pole@0,0,64
+v113-color109-7547	white-swatch@0,0,64
+v113-nature-7579	bin@0,14,53 scent-curls@25,0,38
+v113-nature-7757	meat@3,2,55 canine-tooth@36,28,26
+v113-object-7811	dial-needle@0,0,64
+v113-object-8274	patterned-plate@0,0,64
+v113-object-8494	school@0,4,54 entry-test@31,24,33
+v113-action-8697	twin-sheets@1,2,57 printer-sheet@33,24,31
+v113-action-8879	fill-shape@0,0,64
+v113-quality-9073	visible-rays@0,0,64
+v113-time-9337	alternating-weeks@0,0,64
