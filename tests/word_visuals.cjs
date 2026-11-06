@@ -51,7 +51,9 @@ assert.equal(pictures.size, fs.readdirSync(assetDir).length);
 assert.equal(pictures.size, Object.keys(visuals).length);
 assert.deepEqual({count: exampleCount, words: withExamples, atLeastTwo, missingForTwo}, inventory.vocabularyExamples);
 assert(pictures.size > 0 && pictures.size < words.length);
-assert(withExamples >= pictures.size && withExamples <= words.length);
+assert.equal(withExamples, words.length);
+assert.equal(atLeastTwo, words.length);
+assert.equal(missingForTwo, 0);
 
 run("only='illustrated'; var illustratedWord = filtered(V)[0];");
 assert.equal(run('filtered(V).length'), pictures.size);
@@ -62,10 +64,10 @@ run("$('#detail').scrollTop=400; modal(illustratedWord);");
 assert.equal(run("$('#detail').scrollTop"), 0);
 assert.match(run("$('#modal-body').innerHTML"), /配图义项/);
 assert.match(run("$('#modal-body').innerHTML"), /原创例句/);
-run("$('#detail').scrollTop=400; modal(V.find(word=>!WORD_VISUALS.has(word.id)&&!word.examples.length));");
+run("$('#detail').scrollTop=400; modal(V.find(word=>!WORD_VISUALS.has(word.id)));");
 assert.equal(run("$('#detail').scrollTop"), 0);
 assert.doesNotMatch(run("$('#modal-body').innerHTML"), /class="word-picture"/);
-assert.match(run("$('#modal-body').innerHTML"), /暂未收录原创例句/);
+assert.match(run("$('#modal-body').innerHTML"), /原创例句/);
 run("bookView='全部';state.wordbook[illustratedWord.id]=true;");
 assert.match(run('wordbook()'), /class="word-picture-thumb"/);
 

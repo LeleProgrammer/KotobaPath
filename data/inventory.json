@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.14.0",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -102,26 +102,29 @@
   "readingQuestions": 889,
   "kanjiChinese": 227,
   "wordVisuals": {
-    "count": 1196,
+    "count": 2564,
     "levels": {
-      "N5": 330,
-      "N4": 250,
-      "N3": 374,
-      "N2": 104,
-      "N1": 138
+      "N5": 487,
+      "N4": 333,
+      "N3": 738,
+      "N2": 466,
+      "N1": 540
     }
   },
   "vocabularyExamples": {
-    "count": 15110,
-    "words": 7555,
-    "atLeastTwo": 7555,
-    "missingForTwo": 6494
+    "count": 21604,
+    "words": 10802,
+    "atLeastTwo": 10802,
+    "missingForTwo": 0
   },
   "files": {
     "blanks.js": "f6c514121d15493b3941d9478a86b761bdaf6d32c0552d893d5f323d32fc36e6",
     "expansion-source.json": "0a195aacb9793c91ca879235b5037b7936a8c9499baac26038d8b4f11dd65a21",
     "expansion-v1.10-examples.js": "73d0a09d8509f24e3e942f8e235312434042a6bcf5d18086e6fb4fa891c68be9",
     "expansion-v1.11-examples.js": "e5a4d3c2adba25964d833fc8bcfbda50009a98dc7a077fbe5889a259f5bfdcf8",
+    "expansion-v1.12-examples.js": "c36b3b6a2837d9a567d05255104e5fab0d23646be214b0a4998b89b25f988474",
+    "expansion-v1.13-examples.js": "2d891508486cc7446468a9410dd8811019897b767f5c2a477ca0f00d879f3fd3",
+    "expansion-v1.14-examples.js": "e17cbe0cd2ae7151b3eba38b3342124b7b73610cc391f5b1d8a71ecf22de541d",
     "expansion-v1.3.js": "babe718d679339a1f3345e664f82c214f4b4b81576b3a43fa8b1bf8e0fd76489",
     "expansion-v1.4.js": "b3cb393f9bfc97b06e7e5459cb397c9166941e90fe06d16770da5be034adfd49",
     "expansion-v1.8-examples.js": "0788f639b04e3afc378a9962d47bbddd7723485f9a228920f3c9ccfef6da1a98",
@@ -138,10 +141,10 @@
     "readings-v1.4.js": "f6cc1424a67dcda16f1053efeae61b326e051bf64c254adfafbf0278a9fb2140",
     "readings-v1.5.js": "c3eff1bc9c374c1a0a472d7171f5fa91f4dc290ad6e122cffb8ea2881eba7874",
     "readings.js": "d5c627717fc8eae4a2b3e17f2f67aaccfdb8945007822e94483fd1f23b40c5a3",
-    "ruby-audit.json": "f11584edb34951db4969d6c9409cf5a7dcaf5ca29c322eef7a783992bf366cf1",
-    "ruby-data.js": "d058a37a65d359d30188956b9a7ad6b441000e4d31a005823b41a50457062d9d",
+    "ruby-audit.json": "221b3c2e9413e4880137031f9e13b3c23f866a121748d006257698b926c3b14f",
+    "ruby-data.js": "14ca78ba339bbdb9fa815ea560309239ebe67b716ff8a4e77fa0738dc1a0cf1c",
     "vocab.js": "509aab343f538ea15725f99a4a5624a5e58a5836e0051075dfc4887aa25a7fc5",
-    "word-visuals.js": "68a5d63eafeaa53ee80c053389f6de4e9ea9ba0df2652aa30e34f3fbfe151ed5",
+    "word-visuals.js": "b24785fa79d6e9d292cd4f10ca52664259797f96c5cc098c49d8e1b75ad2d78e",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }
 }

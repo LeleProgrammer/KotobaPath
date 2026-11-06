@@ -21,6 +21,15 @@ PALETTES = {
     'time': ('#e7f5f4', '#246468', '#9ed8d5', '#f5c261'),
     'quality': ('#fff3df', '#704915', '#f2c679', '#edab96'),
 }
+# Preserve the pictured color when the headword names a color.
+PALETTES.update({
+    'color107': ('#fff0ef', '#702d2d', '#e86e5c', '#dc4947'),
+    'color108': ('#e4f6ff', '#21466a', '#4a9ddc', '#fff9ea'),
+    'color109': ('#dcebf5', '#3d5067', '#ffffff', '#ffffff'),
+    'color110': ('#eceff5', '#373843', '#9b9ca6', '#16171d'),
+    'color111': ('#fff8e2', '#73551d', '#ffd944', '#be8742'),
+    'color112': ('#faf2e7', '#63411e', '#a66b42', '#c69260'),
+})
 NATURE = set('cat dog bird fish rabbit horse cow pig bug paw apple fruit carrot sun sunrise moon star cloud rain snow wind water fire mountain wave tree leaf flower world sand island rock grain globe'.split())
 TIME = set('clock watch calendar time sandclock clockfast look-back future past-future frequency habit'.split())
 RELATION = set('equal compare puzzle question check cross repeat switch link split merge point every none cause condition contrast choice purpose example emphasis opinion feeling trust freedom conflict failure absence surplus border facts abstract agreement evidence responsibility permission ban network discussion'.split())
@@ -71,7 +80,7 @@ def draw_motif(parts, pale, highlight):
 
 
 def draw_picture(word, sense, design, motifs, scenes):
-    if design.startswith(('v110-', 'v111-')):
+    if design.startswith(('v110-', 'v111-', 'v112-', 'v113-', 'v114-')):
         bg, ink, pale, highlight = PALETTES[design.split('-', 2)[1]]
     else:
         bg, ink, pale, highlight = palette(design)
@@ -121,6 +130,7 @@ def main():
     by_term = {}
     for word in words:
         by_term.setdefault(lemma(word['word']), []).append(word)
+    by_id = {word["id"]: word for word in words}
     motifs = load_motifs()
     scenes = dict(line.split("\t") for line in
                   (DATA / "authoring/word-picture-scenes.tsv").read_text(encoding="utf-8").splitlines()
@@ -136,6 +146,8 @@ def main():
         term, reading, gloss = (label.split('|') + ['', ''])[:3]
         matches = [w for w in by_term.get(term, [])
                    if (not reading or reading == w['reading']) and (not gloss or gloss in w['meaning'])]
+        if label.startswith("@"):
+            matches = [by_id[label[1:]]]
         assert len(matches) == 1, (label, [(w['word'], w['reading'], w['meaning']) for w in matches])
         word = matches[0]
         wid = word['id']
