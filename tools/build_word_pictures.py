@@ -71,7 +71,7 @@ def draw_motif(parts, pale, highlight):
 
 
 def draw_picture(word, sense, design, motifs, scenes):
-    if design.startswith('v110-'):
+    if design.startswith(('v110-', 'v111-')):
         bg, ink, pale, highlight = PALETTES[design.split('-', 2)[1]]
     else:
         bg, ink, pale, highlight = palette(design)

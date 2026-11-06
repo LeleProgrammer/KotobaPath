@@ -439,3 +439,306 @@ v110-action-345	relay@0,0,64
 v110-quality-346	rectangle@0,0,64
 v110-object-347	tablet@0,0,64
 v110-nature-348	ant@0,0,64
+
+# Original artwork added in 1.11.0.
+v111-object-1	police-box@0,0,64
+v111-object-2	crossroads@0,0,64
+v111-object-3	two-hands@0,0,64
+v111-object-4	clothes-rack@0,0,64
+v111-object-5	week-grid@0,0,64
+v111-object-6	left-hand@0,0,64
+v111-object-7	right-hand@0,0,64
+v111-object-8	orientation@0,0,64
+v111-object-9	long-rods@0,0,64
+v111-quality-10	thick-sheets@0,0,64
+v111-object-11	half-apple@0,0,64
+v111-nature-12	cloud@5,9,49 sun@29,1,33 rain@34,27,29
+v111-object-13	hiragana-sheet@0,0,64
+v111-object-14	katakana-sheet@0,0,64
+v111-action-15	put-on@0,0,64
+v111-action-16	coat-hook@0,0,64
+v111-object-17	metal-can@0,0,64
+v111-object-18	empty-can@0,0,64
+v111-object-19	change-machine@0,0,64
+v111-object-20	gum@0,0,64
+v111-object-21	mic@5,21,41 monitor@27,4,37 music@36,0,25
+v111-object-22	ruler@0,0,64
+v111-object-23	tape-measure@0,0,64
+v111-object-24	kitchen-scale@0,0,64
+v111-object-25	hot-water@0,0,64
+v111-object-26	new-year@0,0,64
+v111-object-27	branch-blossom@11,1,53 picnic@0,32,33
+v111-object-28	lantern@0,0,64
+v111-action-29	wedding@0,0,64
+v111-object-30	confetti@0,0,64
+v111-action-31	run@14,2,49 track@0,23,29
+v111-object-32	newscast@0,0,64
+v111-object-33	light-beam@0,0,64
+v111-object-34	chest@0,0,64
+v111-object-35	floorboards@0,0,64
+v111-object-36	scratch@0,0,64
+v111-object-37	reverse-card@0,0,64
+v111-object-38	temple@0,0,64
+v111-action-39	pin@35,9,28 map@2,12,47
+v111-object-40	corridor@0,0,64
+v111-object-41	station@11,0,48 plaza@0,30,39
+v111-object-42	entry-gate@0,0,64
+v111-object-43	price-tag@0,0,64
+v111-action-44	calendar@3,4,53 check@33,24,29
+v111-quality-45	distance-line@0,0,64
+v111-object-46	driver-view@0,0,64
+v111-object-47	groceries@0,0,64
+v111-object-48	lost-found@0,0,64
+v111-object-49	voicemail@0,0,64
+v111-object-50	ticket-strip@0,0,64
+v111-object-51	queue-ticket@0,0,64
+v111-object-52	box@4,18,48 tag@35,4,27 lock@38,34,23
+v111-object-53	shelving@0,0,64
+v111-object-54	peel@0,0,64
+v111-object-55	pattern-swatch@0,0,64
+v111-object-56	pet-bowl@0,0,64
+v111-object-57	bone@0,0,64
+v111-object-58	footsteps@0,0,64
+v111-object-59	hole@0,0,64
+v111-object-60	stain@0,0,64
+v111-object-61	sweat@0,0,64
+v111-object-62	rods@0,0,64
+v111-object-63	lamp-shade@7,8,51 sun@37,3,23
+v111-object-64	store-sign@0,0,64
+v111-object-65	queue@0,0,64
+v111-object-66	slant@0,0,64
+v111-object-67	step-section@0,0,64
+v111-object-68	soap-bubbles@0,0,64
+v111-object-69	string-knot@0,0,64
+v111-object-70	pencil-core@0,0,64
+v111-object-71	bound-sticks@0,0,64
+v111-object-72	clear-sky@0,0,64
+v111-object-73	sunset@0,0,64
+v111-nature-74	sunset-sky@0,0,64
+v111-object-75	tatami@0,0,64
+v111-object-76	collar@0,0,64
+v111-object-77	gas-burner@0,0,64
+v111-object-78	banknotes@0,0,64
+v111-object-79	payment@0,0,64
+v111-object-80	funeral@0,0,64
+v111-object-81	railway@0,0,64
+v111-object-82	rope-coil@0,0,64
+v111-object-83	plum-blossom@0,0,64
+v111-object-84	rose@0,0,64
+v111-object-85	orange-half@0,0,64
+v111-object-86	main-gate@0,0,64
+v111-object-87	chalkboard@10,6,46 book@1,31,31 clock@40,1,23
+v111-object-88	bulletin@0,0,64
+v111-object-89	train@18,1,45 track@0,19,42
+v111-object-90	stationery-pen@0,5,39 eraser@35,30,26 ruler@22,2,34
+v111-object-91	boombox@0,0,64
+v111-object-92	old-book@0,0,64
+v111-object-93	smartphone@0,0,64
+v111-object-94	book-jacket@0,0,64
+v111-object-95	seat@0,0,64
+v111-object-96	windowsill@0,0,64
+v111-action-97	queue@0,15,47 door@33,0,30
+v111-object-98	outlet@0,0,64
+v111-object-99	lab-coat@0,0,64
+v111-object-100	monitor@18,4,45 gearwork@2,23,32
+v111-object-101	nest@0,0,64
+v111-object-102	stage-curtain@0,0,64
+v111-object-103	frame@0,0,64
+v111-object-104	open-box@0,0,64
+v111-object-105	birdhouse@0,0,64
+v111-object-106	furoshiki@0,0,64
+v111-object-107	sumo-ring@0,0,64
+v111-nature-108	shell@0,0,64
+v111-object-109	oxygen@0,0,64
+v111-nature-110	sprout@0,0,64
+v111-object-111	tree-lined-road@0,0,64
+v111-action-112	camp@0,0,64
+v111-nature-113	sunray@0,0,64
+v111-object-114	cavity-section@0,0,64
+v111-quality-115	diameter@0,0,64
+v111-object-116	circuit@0,0,64
+v111-object-117	foundation-block@0,0,64
+v111-object-118	pipe@0,0,64
+v111-quality-119	curve@0,0,64
+v111-object-120	right-angle@0,0,64
+v111-action-121	maple-pair@0,0,64
+v111-nature-122	root-trunk@0,0,64
+v111-object-123	thermos@0,0,64
+v111-object-124	control-panel@0,0,64
+v111-object-125	rail-cross@0,0,64
+v111-object-126	satellite@0,0,64
+v111-object-127	summit@0,0,64
+v111-object-128	nail-finger@0,0,64
+v111-object-129	guesthouse@0,0,64
+v111-object-130	gem@0,0,64
+v111-object-131	mask@0,0,64
+v111-object-132	ingredients@0,0,64
+v111-object-133	plot@0,0,64
+v111-nature-134	cliff@0,0,64
+v111-object-135	fence@0,0,64
+v111-object-136	food-stall@0,0,64
+v111-object-137	ruins@0,0,64
+v111-object-138	beard@0,0,64
+v111-object-139	workbench@0,0,64
+v111-object-140	eyeball@0,0,64
+v111-object-141	egg-shell@0,0,64
+v111-object-142	nails@0,0,64
+v111-object-143	slope-section@0,0,64
+v111-object-144	maze@0,0,64
+v111-nature-145	full-moon@0,0,64
+v111-nature-146	planet@0,0,64
+v111-object-147	stakes@0,0,64
+v111-nature-148	crane-bird@0,0,64
+v111-object-149	shoji@0,0,64
+v111-nature-150	tree-shade@0,0,64
+v111-object-151	car-body@0,0,64
+v111-nature-152	frog@0,0,64
+v111-quality-153	straight-line@0,0,64
+v111-quality-154	radius@0,0,64
+v111-nature-155	mosquito@0,0,64
+v111-object-156	steam-kettle@0,0,64
+v111-nature-157	seafloor@0,0,64
+v111-object-158	tank@0,0,64
+v111-nature-159	beach@0,0,64
+v111-object-160	skewer@0,0,64
+v111-object-161	stone-stair@0,0,64
+v111-object-162	tanuki@0,0,64
+v111-quality-163	center-of-mass@0,0,64
+v111-object-164	koto@0,0,64
+v111-nature-165	sparrow@0,0,64
+v111-object-166	detached-house@0,0,64
+v111-object-167	insert-drawing@0,0,64
+v111-object-168	base-cap@0,0,64
+v111-object-169	big-tree@0,0,64
+v111-object-170	boil-pot@0,0,64
+v111-object-171	fishing-area@0,0,64
+v111-nature-172	chick@0,0,64
+v111-object-173	tower-blocks@0,0,64
+v111-object-174	old-tree@0,0,64
+v111-nature-175	tuna@0,0,64
+v111-object-176	stone-tool@0,0,64
+v111-object-177	winter-mountain@0,0,64
+v111-action-178	waterproof@0,0,64
+v111-object-179	server-stack@0,0,64
+v111-object-180	artifact@0,0,64
+v111-quality-181	character@0,0,64
+v111-object-182	tent@0,0,64
+v111-nature-183	starry-sky@0,0,64
+v111-nature-184	turtle@0,0,64
+v111-object-185	chicken@0,0,64
+v111-object-186	fishing-net@0,0,64
+v111-object-187	trap@0,0,64
+v111-object-188	seat-body@0,0,64
+v111-object-189	joint@0,0,64
+v111-object-190	person@4,9,42 stethoscope@29,12,34
+v111-object-191	suit@2,4,50 paper-stack@38,25,26
+v111-object-192	student-desk@0,0,64
+v111-object-193	shopkeeper@0,0,64
+v111-action-194	crane@24,0,40 safety-cones@2,24,39
+v111-object-195	police@3,2,56 policecar@37,28,26
+v111-object-196	bed@15,24,48 bouquet@1,0,38
+v111-action-197	hospital@4,3,56 ward-bed@35,36,28
+v111-action-198	hospital@5,4,50 exit@34,25,29
+v111-action-199	school@20,0,43 backpack@2,25,34
+v111-action-200	walk@0,26,39 school@19,1,44
+v111-action-201	transfer-rail@0,0,64
+v111-action-202	start-travel@0,0,64
+v111-action-203	steering@4,5,51 road@35,28,25
+v111-action-204	car@22,25,41 hill-road@0,3,43
+v111-action-205	van@20,23,43 receipt@0,1,36
+v111-action-206	boarding@0,0,64
+v111-action-207	box@21,7,39 key@2,29,30 cover-screen@22,14,42
+v111-action-208	flag-wave@0,0,64
+v111-action-209	ball-throw@0,0,64
+v111-action-210	throw-bin@0,0,64
+v111-action-211	fist@0,0,64
+v111-action-212	tap-door@0,0,64
+v111-action-213	foot-pedal@0,0,64
+v111-action-214	clutch@0,0,64
+v111-action-215	hand@14,2,48 page-blank@5,27,49
+v111-action-216	knob-turn@0,0,64
+v111-action-217	tug-rope@0,0,64
+v111-action-218	unhook@0,0,64
+v111-action-219	close-book@0,0,64
+v111-action-220	vacant-chair@0,0,64
+v111-action-221	open-book@0,0,64
+v111-action-222	open-door@0,0,64
+v111-action-223	door-closing@0,0,64
+v111-action-224	divide-dots@0,0,64
+v111-action-225	move-box@0,0,64
+v111-action-226	tap-flow@0,0,64
+v111-nature-227	stream-flow@0,0,64
+v111-action-228	pour-cup@0,0,64
+v111-action-229	spill-cup@0,0,64
+v111-action-230	overflow-cup@0,0,64
+v111-action-231	overflow-bank@0,0,64
+v111-action-232	toaster@0,0,64
+v111-action-233	toast-brown@0,0,64
+v111-action-234	spoiled-fruit@0,0,64
+v111-action-235	drying-cloth@0,0,64
+v111-action-236	hair-dryer@1,4,44 hair-strands@36,19,29
+v111-object-237	thermo@12,1,51 level-bars@33,25,26
+v111-object-238	thermo@20,2,43 sun@1,0,30 cloud@1,28,34
+v111-nature-239	rain@18,0,42 shirt@1,21,43
+v111-action-240	cooling@0,0,64
+v111-action-241	miso-bowl@8,26,47 wind@21,0,40
+v111-action-242	fridge@15,4,46 milk-carton@1,21,28
+v111-object-243	house@4,17,49 fire@30,0,34
+v111-action-244	snuffed@0,0,64
+v111-action-245	bulb@21,3,43 toggle-switch@3,24,29
+v111-action-246	fogged-glasses@0,0,64
+v111-action-247	clearing@0,0,64
+v111-nature-248	rain@8,2,50 boots@22,32,29
+v111-nature-249	weather-board@0,0,64
+v111-action-250	wind@6,2,49 branch@28,18,35
+v111-nature-251	forecast@0,0,64
+v111-object-252	bench-planks@1,24,44 tree-shade@28,0,34
+v111-action-253	reflected@0,0,64
+v111-action-254	camera@2,6,43 photo-print@30,23,32
+v111-action-255	copy-page@0,0,64
+v111-action-256	printer-sheet@0,0,64
+v111-action-257	twin-sheets@0,0,64
+v111-action-258	flag@24,2,40 person@1,19,43
+v111-action-259	lower-box@0,0,64
+v111-action-260	lift-box@0,0,64
+v111-action-261	push-in@0,0,64
+v111-action-262	fill-box@0,0,64
+v111-object-263	ribbon@17,1,41 pack@3,18,52
+v111-action-264	assemble@0,0,64
+v111-action-265	snapped-rod@0,0,64
+v111-action-266	split-rope@0,0,64
+v111-action-267	torn-page@0,0,64
+v111-action-268	repair-clock@0,0,64
+v111-action-269	smashed-pot@0,0,64
+v111-action-270	bounce@0,0,64
+v111-action-271	float-boat@0,0,64
+v111-action-272	sinking@0,0,64
+v111-action-273	bumping@0,0,64
+v111-action-274	bent-wire@0,0,64
+v111-action-275	stretch-spring@0,0,64
+v111-action-276	shrunk-shirt@0,0,64
+v111-action-277	count-grow@0,0,64
+v111-action-278	count-shrink@0,0,64
+v111-action-279	stack-sheets@0,0,64
+v111-action-280	push-out@0,0,64
+v111-action-281	power-cut@0,0,64
+v111-action-282	dry-tap@0,0,64
+v111-object-283	fog@0,0,64
+v111-object-284	dark-room@0,0,64
+v111-action-285	falling-ball@0,0,64
+v111-action-286	growth-stages@0,0,64
+v111-object-287	petal@0,0,64
+v111-action-288	sprout@8,10,53 up@40,0,24
+v111-action-289	roots@18,1,45 sprout@1,26,33
+v111-action-290	planting@0,0,64
+v111-action-291	fruit-branch@0,0,64
+v111-action-292	flower@0,10,34 plum-blossom@22,4,41 flower@25,30,35
+v111-nature-293	ridge@0,0,64
+v111-nature-294	mountain-foot@0,0,64
+v111-object-295	rolling-hills@0,0,64
+v111-object-296	stone-wall@0,0,64
+v111-quality-297	parallel-rails@0,0,64
+v111-quality-298	parallel-lines@0,0,64
+v111-action-299	straight-ahead@0,0,64
+v111-object-300	depth-gauge@0,0,64
+v111-quality-301	dimensions@0,0,64

@@ -2,9 +2,9 @@ const fs=require('fs'),path=require('path'),vm=require('vm'),crypto=require('cry
 const root=path.resolve(__dirname,'..'),ctx={window:{}};vm.createContext(ctx);
 const names=['vocab','grammar','kanji','foundation','readings','blanks','orders','writing'];for(const n of names)vm.runInContext(fs.readFileSync(path.join(root,'data',n+'.js'),'utf8'),ctx);
 vm.runInContext(fs.readFileSync(path.join(root,'data/expansion.js'),'utf8'),ctx);
-for(const f of ['expansion-v1.3','readings-v1.3','expansion-v1.4','readings-v1.4','readings-v1.5','grammar-v1.5','expansion-v1.8-examples','expansion-v1.9-examples','expansion-v1.10-examples'])vm.runInContext(fs.readFileSync(path.join(root,'data',f+'.js'),'utf8'),ctx);
+for(const f of ['expansion-v1.3','readings-v1.3','expansion-v1.4','readings-v1.4','readings-v1.5','grammar-v1.5','expansion-v1.8-examples','expansion-v1.9-examples','expansion-v1.10-examples','expansion-v1.11-examples'])vm.runInContext(fs.readFileSync(path.join(root,'data',f+'.js'),'utf8'),ctx);
 vm.runInContext(fs.readFileSync(path.join(root,'data/word-visuals.js'),'utf8'),ctx);
-const manifest={version:'1.10.0',categories:{},readingQuestions:0,kanjiChinese:0},allIds=new Set();
+const manifest={version:'1.11.0',categories:{},readingQuestions:0,kanjiChinese:0},allIds=new Set();
 for(const name of [...names,'topics','usage']){
  const a=ctx.window[name.toUpperCase()];manifest.categories[name]={count:a.length,levels:{}};
  for(const x of a){assert(!allIds.has(x.id),'Duplicate ID: '+x.id);allIds.add(x.id);manifest.categories[name].levels[x.level]=(manifest.categories[name].levels[x.level]||0)+1;}
