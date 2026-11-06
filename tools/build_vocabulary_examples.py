@@ -19,7 +19,7 @@ def canonical(text):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--batch', choices=['18', '19', '110', '111', '112', '113'], default='113')
+    parser.add_argument('--batch', choices=['18', '19', '110', '111', '112', '113', '114'], default='114')
     batch = parser.parse_args().batch
     source = ROOT / f'data/authoring/vocabulary-examples-v{batch}.tsv'
     output = ROOT / f'data/expansion-v1.{batch[1:]}-examples.js'

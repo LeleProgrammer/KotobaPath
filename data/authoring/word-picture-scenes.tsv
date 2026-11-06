@@ -1614,3 +1614,505 @@ v113-action-8697	twin-sheets@1,2,57 printer-sheet@33,24,31
 v113-action-8879	fill-shape@0,0,64
 v113-quality-9073	visible-rays@0,0,64
 v113-time-9337	alternating-weeks@0,0,64
+
+# Original artwork added in 1.14.0.
+v114-action-760	door@-1,9,48 suitcase@25,0,40 exit@35,35,28
+v114-object-764	boots@-1,8,53 foot@31,12,34
+v114-object-765	pants@-1,8,53 stand@31,12,34
+v114-object-1061	canvas@-1,5,48 mountain@27,0,37 pencil@23,31,35
+v114-object-1257	fashion-rack@-1,8,53 pattern-swatch@31,12,34
+v114-object-1287	eye@-1,8,53 stationery-pen@31,12,34
+v114-object-1370	house@-1,8,53 key@31,12,34
+v114-nature-1493	fan@11,5,54 wind@-1,9,31
+v114-object-1518	branch@1,32,52 bird@8,2,47 voice-waves@42,4,22
+v114-nature-1617	wave@1,32,62 hand@10,-2,49 warning@43,4,21
+v114-object-1640	television@-1,8,53 school-grid@31,12,34
+v114-object-1687	buildings@7,-1,50 road@1,18,62
+v114-object-1716	plate@-1,8,53 grains@31,12,34
+v114-object-1790	house@0,15,28 relief-house@19,14,29 address@39,15,25
+v114-nature-1833	snow@-1,5,48 cow@27,0,37 mountain@23,31,35
+v114-action-1992	shop@0,1,57 open@35,28,29
+v114-action-2040	store-sign@0,1,57 close@35,28,29
+v114-action-2046	train@-1,9,48 station@25,0,40 stop@35,35,28
+v114-object-2115	page-corner@-1,8,53 paper-stack@31,12,34
+v114-object-2119	table@-1,8,53 warning@31,12,34
+v114-action-2123	pot@-1,9,48 carrot@25,0,40 turn@35,35,28
+v114-object-2141	bread@-1,8,53 jam-jar@31,12,34
+v114-object-2159	traffic@-1,5,48 car@27,0,37 van@23,31,35
+v114-object-2161	house@-1,5,48 stove@27,0,37 wavy-steam@23,31,35
+v114-object-2163	shop@-1,8,53 japanese-meal@31,12,34
+v114-object-2179	house@-1,5,48 tag@27,0,37 agreement@23,31,35
+v114-nature-2181	cloud@3,-3,58 rain@14,21,42
+v114-nature-2183	mountain@-1,5,48 climb@27,0,37 bag@23,31,35
+v114-nature-2186	rain@-1,8,53 week-grid@31,12,34
+v114-object-2187	bed@-1,5,48 window@27,0,37 door@23,31,35
+v114-action-2190	house@-1,9,48 key@25,0,40 give@35,35,28
+v114-object-2217	road@-1,5,48 distance-line@27,0,37 metering@23,31,35
+v114-object-2290	phone-screen@-1,8,53 letter-envelope@31,12,34
+v114-object-2293	chalkboard@-1,8,53 poster@31,12,34
+v114-object-2329	gate@-1,5,48 ticket@27,0,37 stage@23,31,35
+v114-action-2338	car@-1,9,48 road@25,0,40 stop@35,35,28
+v114-nature-2388	rain@-1,5,48 umbrella@27,0,37 water@23,31,35
+v114-action-2396	video-tape@-1,5,48 repeat@27,0,37 film@23,31,35
+v114-action-2402	ticket-gate@-1,9,48 ticket@25,0,40 exit@35,35,28
+v114-object-2584	eye@-1,8,53 target@31,12,34
+v114-object-2591	japan-sword@0,0,64
+v114-object-2727	art-museum@-1,8,53 canvas@31,12,34
+v114-object-2882	line-geometry@-1,8,53 ruler-triangle@31,12,34
+v114-color109-3039	mountain@2,0,60 snow@20,21,44
+v114-action-3129	bridge@-1,5,48 build@27,0,37 hammer@23,31,35
+v114-nature-3241	mountain@-1,9,48 metering@25,0,40 up@35,35,28
+v114-nature-3294	wave@3,-8,58 swim@8,20,43 down@42,30,23
+v114-object-3328	character-sheet@-1,8,53 pencil@31,12,34
+v114-object-3349	engine@-1,8,53 flame@31,12,34
+v114-object-3422	film@-1,8,53 cartoon@31,12,34
+v114-object-3465	phone-keypad@-1,8,53 talk@31,12,34
+v114-object-3477	pendant-light@-1,8,53 table@31,12,34
+v114-object-3482	factory@-1,5,48 work@27,0,37 tools@23,31,35
+v114-object-3498	gaze-line@-1,8,53 pin@31,12,34
+v114-object-3561	canvas@-1,8,53 face@31,12,34
+v114-object-3618	cutting-board@-1,8,53 pot@31,12,34
+v114-nature-3634	tree@-1,8,53 branch@31,12,34
+v114-object-3643	flashlight@-1,8,53 light@31,12,34
+v114-object-3748	sand@20,28,43 coast@0,10,58 wave@26,1,38
+v114-nature-3813	leaf@-1,8,53 water@31,12,34
+v114-nature-3837	mountain@0,5,64 flag@26,-3,29
+v114-object-3849	farm-row@-1,8,53 river@31,12,34
+v114-object-3946	ship@-1,5,48 coast@27,0,37 distance-line@23,31,35
+v114-object-3974	house@-1,8,53 garden@31,12,34
+v114-object-4006	camera@-1,8,53 shutter@31,12,34
+v114-object-4033	chair@-1,8,53 woodgrain@31,12,34
+v114-object-4035	train@-1,8,53 subway@31,12,34
+v114-object-4036	letter-envelope@-1,8,53 lock@31,12,34
+v114-nature-4043	bird@1,12,31 bird@26,8,37 digits@17,40,30
+v114-object-4052	shirt@-1,5,48 pants@27,0,37 sleep@23,31,35
+v114-object-4061	glass-bottle@-1,8,53 spray@31,12,34
+v114-nature-4083	grass@-1,8,53 brick@31,12,34
+v114-object-4135	street-corner@-1,8,53 buildings@31,12,34
+v114-object-4169	rice@-1,8,53 japanese-meal@31,12,34
+v114-object-4194	cinema@0,16,48 canvas@28,1,36
+v114-object-4212	glass-tumbler@-1,5,48 mouth@27,0,37 water@23,31,35
+v114-object-4254	box@-1,8,53 bed-sheet@31,12,34
+v114-object-4255	ship@-1,8,53 wave@31,12,34
+v114-object-4257	relief-house@-1,8,53 farm-row@31,12,34
+v114-nature-4264	wave@-1,4,56 salt@35,25,29
+v114-object-4266	woodgrain@-1,8,53 tools@31,12,34
+v114-action-4371	radio@-1,9,48 signal@25,0,40 enter@35,35,28
+v114-object-4382	tofu@-1,8,53 plate@31,12,34
+v114-object-4401	nose@-1,8,53 water@31,12,34
+v114-object-4406	tire@-1,8,53 car@31,12,34
+v114-object-4416	wine@-1,8,53 tag@31,12,34
+v114-object-4447	train-engine@-1,8,53 wavy-steam@31,12,34
+v114-object-4449	house@-1,8,53 woodgrain@31,12,34
+v114-object-4469	shogi@0,0,64
+v114-nature-4515	water@-1,8,53 ruler-triangle@31,12,34
+v114-nature-4518	mountain@0,5,64 pin@20,-3,26 up@46,4,18
+v114-object-4553	driver-view@-1,8,53 foot@31,12,34
+v114-object-4557	miso-bowl@-1,8,53 woodgrain@31,12,34
+v114-object-4565	battery@-1,8,53 electric@31,12,34
+v114-object-4596	target@0,17,41 target@22,8,43 arrow@4,20,53
+v114-object-4602	branch-blossom@-1,8,53 flower@31,12,34
+v114-object-4604	character-sheet@-1,8,53 stationery-pen@31,12,34
+v114-object-4612	station@-1,8,53 shop@31,12,34
+v114-object-4618	roof@-1,8,53 signal@31,12,34
+v114-object-4619	laptop@0,0,64
+v114-nature-4627	wind@-1,8,53 branch@31,12,34
+v114-nature-4650	river@0,1,57 merge@35,28,29
+v114-object-4651	thread@-1,8,53 hand@31,12,34
+v114-action-4691	shoe@0,1,57 run@35,28,29
+v114-object-4694	goat@-1,8,53 hill@31,12,34
+v114-action-4714	note@0,1,57 break@35,28,29
+v114-action-4715	bed@-1,9,48 clockfast@25,0,40 up@35,35,28
+v114-object-4720	woodgrain@-1,8,53 metering@31,12,34
+v114-object-4724	flower@-1,8,53 grass@31,12,34
+v114-object-4725	electric@-1,8,53 network@31,12,34
+v114-object-4726	letter-envelope@-1,8,53 note@31,12,34
+v114-object-4737	croquette@0,0,64
+v114-object-4743	plate@-1,5,48 money@27,0,37 planner@23,31,35
+v114-object-4748	station@-1,5,48 train@27,0,37 arrow@23,31,35
+v114-object-4754	film-roll@0,0,64
+v114-nature-4774	water@-1,8,53 ice-cubes@31,12,34
+v114-action-4801	knife@-1,9,48 branch@25,0,40 cut@35,35,28
+v114-action-4802	electric@-1,9,48 battery@25,0,40 up@35,35,28
+v114-object-4803	coal@0,23,42 train-engine@27,2,39
+v114-object-4839	menu@-1,8,53 japanese-meal@31,12,34
+v114-object-4865	air-conditioner@-1,5,48 snow@27,0,37 wind@23,31,35
+v114-object-4884	tea@-1,8,53 leaf@31,12,34
+v114-action-4885	swim@-1,5,48 coast@27,0,37 sun@23,31,35
+v114-object-4896	chicken-skewer@0,0,64
+v114-object-4921	ball-throw@-1,8,53 baseball@31,12,34
+v114-object-4928	notebook-rings@-1,8,53 paperclip@31,12,34
+v114-object-4930	computer@-1,8,53 network@31,12,34
+v114-object-4932	line-table@-1,8,53 page-corner@31,12,34
+v114-nature-4942	dead-tree@0,0,64
+v114-object-4946	yarn@-1,8,53 sewing-needle@31,12,34
+v114-action-4988	sauce-boat@-1,9,48 bread@25,0,40 down@35,35,28
+v114-object-4993	hair-strands@-1,8,53 hair@31,12,34
+v114-action-5010	house@-1,5,48 build@27,0,37 new@23,31,35
+v114-object-5029	jam-jar@-1,5,48 cucumber@27,0,37 salt@23,31,35
+v114-nature-5034	owl@-1,8,53 moon@31,12,34
+v114-object-5053	bus-stop@-1,8,53 bus@31,12,34
+v114-object-5055	silk-roll@-1,8,53 square@31,12,34
+v114-object-5076	dam@-1,5,48 gearwork@27,0,37 electric@23,31,35
+v114-object-5080	curry@-1,8,53 rice@31,12,34
+v114-object-5083	soy-pod@0,0,64
+v114-object-5091	screw@0,0,64
+v114-object-5092	bath-sink@-1,8,53 thermo@31,12,34
+v114-object-5096	fridge@-1,5,48 microwave@27,0,37 television@23,31,35
+v114-object-5108	rice@-1,5,48 plate@27,0,37 fork@23,31,35
+v114-object-5120	color@-1,8,53 paper-stack@31,12,34
+v114-object-5123	engine@-1,5,48 battery@27,0,37 gearwork@23,31,35
+v114-object-5130	socket@0,0,64
+v114-object-5135	television@-1,8,53 signal@31,12,34
+v114-nature-5144	sunrise@1,9,39 cloud@21,0,43 rain@26,20,37
+v114-object-5167	door@-1,8,53 note@31,12,34
+v114-action-5174	computer@-1,5,48 enter@27,0,37 stationery-pen@23,31,35
+v114-object-5191	spinach@0,0,64
+v114-object-5201	go-board@-1,8,53 hand@31,12,34
+v114-object-5205	go-board@-1,8,53 pair@31,12,34
+v114-object-5218	three-bikes@-1,8,53 road@31,12,34
+v114-object-5221	lunchbox@-1,8,53 japanese-meal@31,12,34
+v114-object-5222	soil-section@0,3,64 water@20,35,33
+v114-object-5235	ice-skate@-1,8,53 ice-cubes@31,12,34
+v114-object-5237	station@-1,8,53 station-clockboard@31,12,34
+v114-object-5245	paper-stack@-1,8,53 art@31,12,34
+v114-object-5246	washi@0,0,64
+v114-object-5251	road@-1,8,53 grass@31,12,34
+v114-action-5265	car@-1,5,48 break@27,0,37 warning@23,31,35
+v114-object-5266	pencil@-1,5,48 canvas@27,0,37 eraser@23,31,35
+v114-object-5281	media@-1,8,53 line-table@31,12,34
+v114-nature-5286	forest@-1,5,48 bird@27,0,37 telescope@23,31,35
+v114-object-5289	street-crossing@-1,29,49 traffic-lights@21,-3,45
+v114-object-5298	tennis@-1,8,53 running-track@31,12,34
+v114-object-5306	soap@-1,8,53 soap-bubbles@31,12,34
+v114-object-5311	phone-keypad@-1,8,53 network@31,12,34
+v114-object-5332	car@-1,5,48 tag@27,0,37 new@23,31,35
+v114-object-5340	bus@-1,5,48 ticket@27,0,37 money@23,31,35
+v114-object-5350	soup@-1,8,53 water@31,12,34
+v114-nature-5357	water@-1,5,48 liquid-flask@27,0,37 lab@23,31,35
+v114-object-5371	electric@-1,5,48 gas@27,0,37 receipt@23,31,35
+v114-object-5389	engine@-1,8,53 electric@31,12,34
+v114-action-5401	bus@-1,9,48 enter@25,0,40 exit@35,35,28
+v114-nature-5412	forest@-1,5,48 woodgrain@27,0,37 tools@23,31,35
+v114-object-5421	pot@1,-2,61 fire@18,34,31
+v114-object-5425	farm-row@-1,8,53 tree@31,12,34
+v114-object-5432	shredder@0,0,64
+v114-nature-5434	leaf@-1,8,53 tree@31,12,34
+v114-action-5435	computer@-1,5,48 exit@27,0,37 print@23,31,35
+v114-action-5436	track@-1,9,48 street-crossing@25,0,40 stop@35,35,28
+v114-action-5440	light@0,3,50 toggle-switch@38,19,26 down@40,40,21
+v114-object-5472	water-sprinkle@-1,8,53 road@31,12,34
+v114-object-5491	glass-pane@-1,8,53 fashion-rack@31,12,34
+v114-object-5494	dictionary@-1,8,53 phone-screen@31,12,34
+v114-object-5495	branch@-1,8,53 flower@31,12,34
+v114-nature-5497	dolphin@-1,8,53 wave@31,12,34
+v114-object-5498	rice@-1,5,48 japanese-meal@27,0,37 chopsticks@23,31,35
+v114-object-5504	paper-stack@-1,8,53 gearwork@31,12,34
+v114-object-5512	art@-1,5,48 flower@27,0,37 character-sheet@23,31,35
+v114-object-5627	pattern-swatch@-1,8,53 silk-roll@31,12,34
+v114-object-5637	house@-1,5,48 wall@27,0,37 gate@23,31,35
+v114-object-5665	shirt@-1,8,53 undergarment@31,12,34
+v114-object-5697	map@-1,8,53 distance-line@31,12,34
+v114-object-5797	eye@-1,8,53 gaze-line@31,12,34
+v114-object-5810	window@0,3,57 sun@38,1,25
+v114-object-5820	road@-1,8,53 line-geometry@31,12,34
+v114-action-5843	sun@9,-7,49 grass@4,33,56 down@42,19,21
+v114-object-5851	door@-1,8,53 lock@31,12,34
+v114-action-5856	woodgrain@0,1,57 cut@35,28,29
+v114-action-5947	silk-roll@-1,9,48 break@25,0,40 pull@35,35,28
+v114-object-5974	mouth@-1,8,53 water@31,12,34
+v114-object-6011	straight-route@0,0,64
+v114-action-6197	knife@-1,9,48 cut@25,0,40 stop@35,35,28
+v114-object-6243	futon@-1,8,53 pillow@31,12,34
+v114-object-6409	ship@-1,5,48 coast@27,0,37 arrow@23,31,35
+v114-object-6467	swimsuit@-1,8,53 pool@31,12,34
+v114-object-6484	hospital@-1,5,48 bed@27,0,37 medical@23,31,35
+v114-nature-6493	grass@-1,5,48 hill@27,0,37 sun@23,31,35
+v114-object-6497	oil-lamp@-1,8,53 flame@31,12,34
+v114-object-6523	bookshelf@-1,5,48 table@27,0,37 lamp-shade@23,31,35
+v114-object-6527	gate@-1,8,53 wall@31,12,34
+v114-nature-6532	fish@-1,5,48 wave@27,0,37 soap-bubbles@23,31,35
+v114-object-6534	relief-house@-1,5,48 door@27,0,37 rear@23,31,35
+v114-nature-6652	mountain@-3,19,35 mountain@25,16,43 mountain@7,-1,51
+v114-action-6698	map@-1,5,48 split@27,0,37 arrow@23,31,35
+v114-nature-6699	forest@-1,8,53 tree@31,12,34
+v114-nature-6705	cedar@0,0,64
+v114-object-6722	streetlamp@-1,8,53 road@31,12,34
+v114-nature-6747	mountain@-1,5,48 road-tunnel@27,0,37 rock@23,31,35
+v114-object-6849	wall@-1,5,48 pencil@27,0,37 art@23,31,35
+v114-object-6888	big-tree@-1,8,53 stand@31,12,34
+v114-nature-6900	river@-1,8,53 rock@31,12,34
+v114-nature-6959	forest@28,25,36 mountain@-2,1,57 distance-line@7,36,47
+v114-nature-6969	leaf@-1,5,48 water@27,0,37 sunrise@23,31,35
+v114-object-6977	coal@-1,8,53 flame@31,12,34
+v114-object-6985	relief-house@-1,8,53 tool-case@31,12,34
+v114-object-7026	house@-1,8,53 relief-house@31,12,34
+v114-object-7034	apartment@-1,5,48 tag@27,0,37 key@23,31,35
+v114-object-7048	paper-stack@-1,8,53 sewing-needle@31,12,34
+v114-object-7088	track@-1,5,48 map@27,0,37 station@23,31,35
+v114-object-7136	circuit@-1,8,53 wire@31,12,34
+v114-object-7145	canvas@-1,5,48 light@27,0,37 film@23,31,35
+v114-nature-7146	grass@1,12,44 grass@24,19,40
+v114-action-7166	light@0,1,57 repeat@35,28,29
+v114-object-7197	mouth@-1,5,48 water@27,0,37 pillow@23,31,35
+v114-object-7231	camera@-1,8,53 video-tape@31,12,34
+v114-object-7234	window@-1,5,48 curtain@27,0,37 sit@23,31,35
+v114-object-7245	money@-1,8,53 bin@31,12,34
+v114-action-7285	coast@0,1,57 walk@35,28,29
+v114-object-7313	nest@2,25,60 chick@10,-1,45
+v114-nature-7318	leaf@-1,9,48 autumn-leaf@25,0,40 switch@35,35,28
+v114-object-7328	ham@-1,8,53 cutting-board@31,12,34
+v114-nature-7350	cloud@7,-5,50 water@7,25,26 water@33,28,28
+v114-object-7353	art-museum@-1,5,48 canvas@27,0,37 canvas@23,31,35
+v114-object-7359	go-endgame@0,0,64
+v114-object-7381	woodgrain@-1,5,48 tools@27,0,37 hammer@23,31,35
+v114-object-7401	bed@-1,5,48 house@27,0,37 key@23,31,35
+v114-object-7418	foot@0,17,37 foot@27,25,38 baseball@21,-3,26
+v114-object-7427	paint-roller@-1,8,53 wall@31,12,34
+v114-nature-7428	wave@3,-10,59 fish@0,20,38 fish@27,28,36
+v114-object-7451	rice@-1,5,48 patty@27,0,37 plate@23,31,35
+v114-object-7510	castle@-1,5,48 gate@27,0,37 shield@23,31,35
+v114-object-7517	hand@-1,8,53 tool-case@31,12,34
+v114-object-7542	weave@0,0,63 thread@42,33,23
+v114-object-7598	blueprint@-1,8,53 ruler-triangle@31,12,34
+v114-object-7632	rice@-1,5,48 lunchbox@27,0,37 group@23,31,35
+v114-object-7640	camera@-1,8,53 lightning@31,12,34
+v114-object-7651	bench-planks@-1,8,53 station-clockboard@31,12,34
+v114-object-7669	house@-1,8,53 armor@31,12,34
+v114-object-7680	shop@-1,8,53 street-corner@31,12,34
+v114-object-7687	horse@-1,8,53 fast@31,12,34
+v114-object-7712	manju@0,0,64
+v114-object-7788	knife@-1,8,53 whetstone@31,12,34
+v114-object-7794	tool-case@-1,8,53 gearwork@31,12,34
+v114-object-7849	buildings@-1,5,48 river@27,0,37 mountain@23,31,35
+v114-object-7860	bookshelf@-1,8,53 book@31,12,34
+v114-object-7903	ship@-1,8,53 sailor@31,12,34
+v114-object-7953	hanger@-1,8,53 shirt@31,12,34
+v114-object-7970	bike@-1,8,53 tire@31,12,34
+v114-object-7986	stage@-1,8,53 spotlight@31,12,34
+v114-object-7987	thick-sheets@-1,8,53 towel@31,12,34
+v114-nature-7990	sunflower@0,0,64
+v114-object-7996	roof@0,-3,59 door@7,23,37 rain@29,19,37
+v114-action-8001	pot@-1,9,48 water@25,0,40 down@35,35,28
+v114-nature-8008	pond@-1,8,53 grass@31,12,34
+v114-object-8016	scroll@0,0,64
+v114-object-8019	hall-floorplan@-1,8,53 bed@31,12,34
+v114-object-8023	train-window@-1,8,53 mountain@31,12,34
+v114-object-8125	shrimp@-1,8,53 chopsticks@31,12,34
+v114-object-8128	ball-throw@-1,5,48 baseball@27,0,37 mound@23,31,35
+v114-nature-8145	mountain@-1,5,48 rock@27,0,37 hill@23,31,35
+v114-nature-8190	wind@-1,8,53 rain@31,12,34
+v114-object-8193	shirt@-1,5,48 rice@27,0,37 house@23,31,35
+v114-object-8214	woodgrain@-1,8,53 board@31,12,34
+v114-nature-8224	tree@-1,8,53 garden@31,12,34
+v114-object-8244	window@-1,12,33 window@32,12,33 wind@14,21,35
+v114-object-8249	meat@-1,8,53 grill@31,12,34
+v114-nature-8261	rain@-1,8,53 bucket@31,12,34
+v114-object-8300	peach@-1,8,53 water@31,12,34
+v114-object-8302	stand@-1,5,48 canvas@27,0,37 paint-tubes@23,31,35
+v114-nature-8309	fish@-1,10,51 fish@40,22,24 arrow@28,34,29
+v114-object-8319	senbei@0,0,64
+v114-object-8331	character-sheet@-1,8,53 page-corner@31,12,34
+v114-nature-8338	wave@-1,5,48 mountain@27,0,37 ruler-triangle@23,31,35
+v114-object-8349	drain@-1,8,53 wave@31,12,34
+v114-nature-8357	mountain@0,-1,61 relief-house@26,22,38 bag@11,41,23
+v114-action-8359	drain@-1,9,48 water@25,0,40 exit@35,35,28
+v114-object-8367	garden@-1,5,48 flower@27,0,37 tools@23,31,35
+v114-action-8376	house@-1,9,48 wave@25,0,40 enter@35,35,28
+v114-object-8389	car@-1,5,48 road@27,0,37 left@23,31,35
+v114-object-8399	silk-roll@-1,8,53 thread@31,12,34
+v114-nature-8406	tree@-1,5,48 cut@27,0,37 liquid-flask@23,31,35
+v114-object-8416	hammer@-1,8,53 nail@31,12,34
+v114-action-8426	flag@0,1,57 up@35,28,29
+v114-object-8427	engine@-1,5,48 gearwork@27,0,37 battery@23,31,35
+v114-nature-8433	river@-1,8,53 hill@31,12,34
+v114-object-8470	dam@-1,8,53 river@31,12,34
+v114-object-8488	relief-house@-1,8,53 medical@31,12,34
+v114-object-8504	diver@0,-1,61 fish@35,29,30
+v114-action-8509	bridge@-1,9,48 river@25,0,40 build@35,35,28
+v114-action-8512	store-sign@-1,5,48 exit@27,0,37 shop@23,31,35
+v114-nature-8517	mountain@-1,5,48 forest@27,0,37 tree@23,31,35
+v114-object-8519	insert-drawing@-1,5,48 canvas@27,0,37 pencil@23,31,35
+v114-nature-8522	bird@-1,5,48 branch@27,0,37 music@23,31,35
+v114-nature-8535	mountain@-1,5,48 rock@27,0,37 soil-section@23,31,35
+v114-nature-8552	ginkgo@-1,8,53 branch@31,12,34
+v114-object-8555	train-engine@-1,5,48 light@27,0,37 track@23,31,35
+v114-object-8558	liquid-flask@-1,8,53 ruler-triangle@31,12,34
+v114-object-8589	folding-screen@0,0,64
+v114-object-8605	train-window@-1,8,53 sit@31,12,34
+v114-nature-8619	hyena@0,0,64
+v114-object-8621	sun@-1,5,48 ray@27,0,37 glasses@23,31,35
+v114-object-8625	garden@-1,5,48 tree@27,0,37 fence@23,31,35
+v114-object-8696	house@-1,8,53 wind@31,12,34
+v114-nature-8717	relief-house@0,17,53 branch@33,31,29 snow@24,0,35
+v114-nature-8730	map@4,14,58 bird@1,-2,33 bird@30,5,36
+v114-object-8738	rugby@0,0,64
+v114-nature-8754	koala@-1,8,53 tree@31,12,34
+v114-object-8762	ball-throw@-1,8,53 hand@31,12,34
+v114-object-8774	coast@-1,5,48 ship@27,0,37 fish@23,31,35
+v114-object-8789	medical@-1,5,48 bed@27,0,37 stand@23,31,35
+v114-object-8790	village-roofs@-1,8,53 mountain@31,12,34
+v114-object-8791	spoon@-1,8,53 soup@31,12,34
+v114-object-8820	river@0,23,64 rope-bridge@0,1,64
+v114-object-8829	paper-ball@-1,8,53 bin@31,12,34
+v114-object-8833	sapling@-1,8,53 soil-bed@31,12,34
+v114-nature-8839	water@-1,8,53 drain@31,12,34
+v114-nature-8849	pond@-1,8,53 thermo@31,12,34
+v114-object-8878	canvas@-1,8,53 print@31,12,34
+v114-object-8908	canvas@-1,8,53 art@31,12,34
+v114-nature-8913	mountain@-1,8,53 road@31,12,34
+v114-object-8920	diving-board@-1,8,53 pool@31,12,34
+v114-object-8921	scooter@0,0,64
+v114-object-8933	box@3,29,37 box@28,29,38 box@13,3,37
+v114-object-8938	weave@-1,8,53 bed-sheet@31,12,34
+v114-action-8956	suitcase@-1,9,48 passport-stamp@25,0,40 search@35,35,28
+v114-nature-8986	wave@-1,9,48 soil-bed@25,0,40 build@35,35,28
+v114-object-8992	computer@-1,5,48 compare@27,0,37 pixel-grid@23,31,35
+v114-object-9023	gas-cylinder@0,0,64
+v114-nature-9027	savanna@-2,4,62 giraffe@28,4,38
+v114-object-9069	autograph@-1,8,53 letter-envelope@31,12,34
+v114-nature-9078	forest@-1,5,48 dead-tree@27,0,37 sapling@23,31,35
+v114-object-9109	paper-stack@-1,5,48 gearwork@27,0,37 water@23,31,35
+v114-object-9130	circuit@-1,8,53 car@31,12,34
+v114-object-9158	farm-row@-1,8,53 forest@31,12,34
+v114-nature-9175	wave@1,28,62 seagull@5,0,54
+v114-object-9197	media@-1,5,48 television@27,0,37 radio@23,31,35
+v114-nature-9199	dead-tree@-1,8,53 snow@31,12,34
+v114-object-9206	south-globe@0,0,64
+v114-object-9220	mountain@1,2,54 ink-brush@26,26,39
+v114-object-9221	weave@-1,8,53 fingers@31,12,34
+v114-action-9227	bag@-1,9,48 mountain@25,0,40 walk@35,35,28
+v114-nature-9302	wind@-1,9,48 calendar@25,0,40 switch@35,35,28
+v114-object-9303	rice@-1,5,48 pot@27,0,37 wavy-steam@23,31,35
+v114-nature-9329	buildings@2,23,59 cloud@18,-7,36 rain@15,1,41
+v114-object-9333	shirt@-1,5,48 pants@27,0,37 sport@23,31,35
+v114-nature-9340	leaf@-1,5,48 tea@27,0,37 farm-row@23,31,35
+v114-object-9350	soil-bed@-1,5,48 tools@27,0,37 farm-row@23,31,35
+v114-nature-9354	leaf@-1,8,53 ginkgo@31,12,34
+v114-object-9355	hill@2,4,61 village-roofs@2,33,36
+v114-nature-9384	bird@-1,5,48 grain@27,0,37 farm-row@23,31,35
+v114-action-9405	window@0,1,57 open@35,28,29
+v114-object-9407	compass-tool@-1,5,48 ruler-triangle@27,0,37 line-geometry@23,31,35
+v114-nature-9408	rain@-1,5,48 metering@27,0,37 liquid-flask@23,31,35
+v114-action-9441	baseball@-1,9,48 ball-throw@25,0,40 run@35,35,28
+v114-object-9462	phone-keypad@-1,8,53 phone-call@31,12,34
+v114-action-9495	line-geometry@0,1,57 split@35,28,29
+v114-object-9507	computer@-1,5,48 monitor@27,0,37 link@23,31,35
+v114-object-9511	pencil@-1,5,48 archive@27,0,37 note@23,31,35
+v114-object-9557	sink@-1,8,53 water-flask@31,12,34
+v114-object-238	glass-tumbler@5,0,56 ice-cubes@31,17,33 hand@-2,33,28
+v114-object-268	glass-bottle@0,14,29 glass-bottle@18,7,30 glass-bottle@36,13,29
+v114-object-269	page-corner@-1,5,48 note@27,0,37 paper-stack@23,31,35
+v114-action-427	shoe@0,1,57 clean@35,28,29
+v114-object-755	pencil@-1,8,53 target@31,12,34
+v114-action-839	station-clockboard@-1,5,48 run@27,0,37 clockfast@23,31,35
+v114-nature-1064	dog@0,1,57 walk@35,28,29
+v114-action-1344	loop-knot@0,1,57 split@35,28,29
+v114-object-1478	clock@-1,8,53 target@31,12,34
+v114-action-1500	bed@-1,9,48 upper-body-cut@25,0,40 up@35,35,28
+v114-nature-1665	island@-1,5,48 wave@27,0,37 map@23,31,35
+v114-nature-1779	grass@-1,5,48 wind@27,0,37 voice-waves@23,31,35
+v114-action-1798	scissors@-1,9,48 ribbon@25,0,40 cut@35,35,28
+v114-object-1799	line-table@-1,8,53 digits@31,12,34
+v114-object-2052	hotel@-1,5,48 moon@27,0,37 bed@23,31,35
+v114-action-2214	sun@-2,12,37 moon@29,13,37 repeat@17,36,32
+v114-object-2277	bread@-1,5,48 fork@27,0,37 plate@23,31,35
+v114-object-2278	toothbrush@-1,8,53 teeth@31,12,34
+v114-object-2281	cigarette@-1,8,53 ban@31,12,34
+v114-action-2351	art-museum@0,1,57 close@35,28,29
+v114-action-2580	chair@-1,9,48 stand@25,0,40 up@35,35,28
+v114-object-2760	cutting-board@-1,5,48 onion@27,0,37 knife@23,31,35
+v114-action-3003	footsteps@0,1,57 stop@35,28,29
+v114-object-3009	anvil@-1,5,48 hammer@27,0,37 flame@23,31,35
+v114-object-3417	pocket@-1,5,48 wallet@27,0,37 hand@23,31,35
+v114-object-3459	page-corner@-1,5,48 chart@27,0,37 pencil@23,31,35
+v114-object-3676	lamp-shade@-1,5,48 moon@27,0,37 sunrise@23,31,35
+v114-object-3711	branch@-1,8,53 apple@31,12,34
+v114-nature-3751	bamboo@0,0,64
+v114-nature-4014	flower@-2,26,42 butterfly@21,-2,44
+v114-object-4038	lake@-1,8,53 ice-cubes@31,12,34
+v114-object-4100	sculpture@-1,8,53 pedestal@31,12,34
+v114-object-4203	bread@-1,8,53 cloud@31,12,34
+v114-action-4240	towel@0,20,54 water@22,-2,39 down@39,24,22
+v114-nature-4277	moon@-1,8,53 streetlamp@31,12,34
+v114-object-4311	soil-bed@-1,8,53 footsteps@31,12,34
+v114-object-4359	woodgrain@-1,8,53 carving-tool@31,12,34
+v114-object-4367	shop@-1,5,48 red-lantern@27,0,37 beer-foam@23,31,35
+v114-object-4451	honeycomb@0,2,56 water@34,27,29
+v114-object-4577	lock@-1,8,53 net@31,12,34
+v114-object-4611	donburi@0,0,64
+v114-object-4616	dough-ball@-1,8,53 clay-pot@31,12,34
+v114-action-4729	child@-1,9,48 family@25,0,40 walk@35,35,28
+v114-object-4746	warning@-1,5,48 flashlight@27,0,37 medical@23,31,35
+v114-action-4806	bank@-1,5,48 open@27,0,37 none@23,31,35
+v114-object-4977	mouse@0,0,64
+v114-nature-4997	moon@-1,5,48 monitor@27,0,37 work@23,31,35
+v114-object-5003	print@-1,5,48 stamp@27,0,37 note@23,31,35
+v114-object-5133	cigarette@-1,8,53 smoke-curls@31,12,34
+v114-object-5179	carbon-dioxide@0,0,64
+v114-object-5199	satellite@-1,8,53 world@31,12,34
+v114-object-5200	autumn-leaf@-1,8,53 voice-waves@31,12,34
+v114-action-5210	letter-envelope@-1,5,48 enter@27,0,37 paper-stack@23,31,35
+v114-action-5213	branch-blossom@-1,9,48 apple@25,0,40 switch@35,35,28
+v114-object-5268	camera@-1,5,48 flower@27,0,37 target@23,31,35
+v114-object-5310	bucket@-1,5,48 spoon@27,0,37 water@23,31,35
+v114-object-5416	garden@-1,5,48 water-sprinkle@27,0,37 flower@23,31,35
+v114-object-5439	condor@-1,8,53 mountain@31,12,34
+v114-object-5462	sport-field@-1,5,48 spotlight@27,0,37 moon@23,31,35
+v114-object-5465	clear-tape@0,0,64
+v114-nature-5593	fish@-1,8,53 net@31,12,34
+v114-action-5800	screw@-1,9,48 tools@25,0,40 turn@35,35,28
+v114-nature-6149	sand@-1,8,53 shovel@31,12,34
+v114-object-6252	bench-planks@-1,8,53 sit@31,12,34
+v114-object-6502	clay-pot@-1,8,53 jar-lid@31,12,34
+v114-object-6600	clock@-1,5,48 moon@27,0,37 window@23,31,35
+v114-object-6659	stand@-1,5,48 foot@27,0,37 foot@23,31,35
+v114-object-6685	scissors@-1,8,53 branch@31,12,34
+v114-object-6690	sapling@-1,5,48 distance-line@27,0,37 tree@23,31,35
+v114-action-6692	glass-bottle@-1,9,48 water@25,0,40 down@35,35,28
+v114-nature-6783	rock@-1,8,53 carving-tool@31,12,34
+v114-object-6808	safe@0,0,64
+v114-object-6919	grain@-1,8,53 ribbon@31,12,34
+v114-object-7064	sickle@-1,8,53 grain@31,12,34
+v114-object-7295	radar@-1,8,53 monitor@31,12,34
+v114-object-7334	buildings@-1,5,48 moon@27,0,37 star@23,31,35
+v114-action-7654	teeth@1,11,53 repeat@36,36,29
+v114-object-7682	arch-front@-1,8,53 garden@31,12,34
+v114-nature-7733	island@-1,8,53 none@31,12,34
+v114-object-7813	sun@1,6,36 moon@27,25,37 contrast@24,13,26
+v114-object-7837	meteor@4,4,55 moon@0,32,28
+v114-object-7916	plate@-1,8,53 towel@31,12,34
+v114-object-7980	award@-1,8,53 shirt@31,12,34
+v114-object-8024	pillow@-1,5,48 blanket@27,0,37 futon@23,31,35
+v114-object-8067	hose@0,0,64
+v114-object-8069	swallow@-1,8,53 branch@31,12,34
+v114-object-8076	curtain@-1,8,53 wind@31,12,34
+v114-object-8173	village-roofs@-1,8,53 light@31,12,34
+v114-object-8175	juice@-1,8,53 sugar@31,12,34
+v114-object-8179	compact@0,0,64
+v114-object-8187	smoke-curls@-1,8,53 fire@31,12,34
+v114-object-8201	arch-front@-1,8,53 chair@31,12,34
+v114-nature-8227	sand@-1,8,53 wind@31,12,34
+v114-object-8231	kotatsu@0,0,64
+v114-object-8255	big-tree@-1,8,53 bird@31,12,34
+v114-object-8361	cross-legged@0,0,64
+v114-object-8455	hall-floorplan@-1,8,53 group@31,12,34
+v114-nature-8516	island@0,0,39 island@25,15,40 island@3,34,32
+v114-nature-8539	dead-tree@-1,5,48 autumn-leaf@27,0,37 hand@23,31,35
+v114-object-8576	scarf@-1,8,53 body-shoulder@31,12,34
+v114-action-8692	station@-1,5,48 stop@27,0,37 track@23,31,35
+v114-object-8745	wall-cabinet@-1,8,53 glass-pane@31,12,34
+v114-object-8799	red-lantern@-1,5,48 dance@27,0,37 group@23,31,35
+v114-action-8828	heart@-1,9,48 blood@25,0,40 repeat@35,35,28
+v114-object-8896	plate@-1,5,48 carrot@27,0,37 fish@23,31,35
+v114-object-8989	dark-lenses@-1,8,53 sun@31,12,34
+v114-nature-9068	grass@-1,5,48 sapling@27,0,37 forest@23,31,35
+v114-object-9081	contact-lens@-1,8,53 fingers@31,12,34
+v114-nature-9104	map@1,1,62 island@13,4,33 island@30,29,29
+v114-object-9107	brick@-1,8,53 wall@31,12,34
+v114-object-9191	pump@-1,8,53 water@31,12,34
+v114-action-9291	passport@0,1,57 give@35,28,29
+v114-object-9397	ice-cubes@2,9,57 snow@32,0,30
+v114-object-9403	print@-1,5,48 color@27,0,37 page-corner@23,31,35
+v114-object-9555	bag@-1,5,48 flashlight@27,0,37 water-flask@23,31,35
+v114-object-9571	print@-1,5,48 character-sheet@27,0,37 pencil@23,31,35
