@@ -70,8 +70,11 @@ def draw_motif(parts, pale, highlight):
             yield f'<path d="{shape}" fill="{fill if shape.lower().endswith("z") else "none"}"/> '
 
 
-def draw_picture(word, sense, design, motifs):
-    bg, ink, pale, highlight = palette(design)
+def draw_picture(word, sense, design, motifs, scenes):
+    if design.startswith(('v110-', 'v111-')):
+        bg, ink, pale, highlight = PALETTES[design.split('-', 2)[1]]
+    else:
+        bg, ink, pale, highlight = palette(design)
     if design.startswith('number-'):
         number = int(design[7:])
         if 1 <= number <= 10:
@@ -90,6 +93,14 @@ def draw_picture(word, sense, design, motifs):
         color = design[7:]
         assert re.fullmatch(r'#[a-fA-F0-9]{6}', color)
         art = f'<circle cx="32" cy="32" r="23" fill="{color}"/><path d="M19 28q4-9 13-9" opacity=".55"/>'
+    elif design in scenes:
+        elements = []
+        for item in scenes[design].split():
+            motif, placement = item.split('@')
+            x, y, size = map(int, placement.split(','))
+            shapes = ''.join(draw_motif(motifs[motif], pale, highlight))
+            elements.append(f'<g transform="translate({x} {y}) scale({size / 64:g})">{shapes}</g>')
+        art = ''.join(elements)
     else:
         art = ''.join(draw_motif(motifs[design], pale, highlight))
     title = escape(word['word'] + ' · ' + sense)
@@ -111,6 +122,9 @@ def main():
     for word in words:
         by_term.setdefault(lemma(word['word']), []).append(word)
     motifs = load_motifs()
+    scenes = dict(line.split("\t") for line in
+                  (DATA / "authoring/word-picture-scenes.tsv").read_text(encoding="utf-8").splitlines()
+                  if line and not line.startswith("#"))
     ASSETS.mkdir(parents=True, exist_ok=True)
     output, drawings = {}, {}
     signatures = set()
@@ -118,15 +132,16 @@ def main():
     for line in selection.read_text(encoding='utf-8').splitlines():
         if not line or line.startswith('#'):
             continue
-        label, design = line.split('\t')
+        label, design, *illustrated_sense = line.split('\t')
         term, reading, gloss = (label.split('|') + ['', ''])[:3]
         matches = [w for w in by_term.get(term, [])
                    if (not reading or reading == w['reading']) and (not gloss or gloss in w['meaning'])]
         assert len(matches) == 1, (label, [(w['word'], w['reading'], w['meaning']) for w in matches])
         word = matches[0]
-        wid, sense = word['id'], sense_for(word)
+        wid = word['id']
+        sense = illustrated_sense[0] if illustrated_sense else sense_for(word)
         assert re.fullmatch('[a-zA-Z0-9-]+', wid)
-        svg, art = draw_picture(word, sense, design, motifs)
+        svg, art = draw_picture(word, sense, design, motifs, scenes)
         assert wid not in output and art not in signatures, (label, design)
         output[wid] = {'sense': sense}
         drawings[wid + '.svg'] = svg

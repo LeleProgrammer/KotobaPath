@@ -15,6 +15,8 @@ const sentences = new Set();
 const clean = text => text.normalize('NFKC').replace(/\[[^\]]*\]|\s|[。．.!！?？、，,「」『』]/g, '');
 let withExamples = 0;
 let exampleCount = 0;
+let atLeastTwo = 0;
+let missingForTwo = 0;
 
 for (const word of words) {
  const visual = visuals[word.id];
@@ -27,10 +29,11 @@ for (const word of words) {
   assert(drawing && !pictures.has(drawing), word.id + ' missing or duplicate artwork');
   pictures.add(drawing);
   assert.doesNotMatch(image, /<image|<script|href=|\.webp/);
-  assert(word.examples.length, word.id + ' illustrated word lacks an example');
+  assert(word.examples.length >= 2, word.id + ' illustrated word lacks two examples');
  }
  if (word.examples.length) withExamples++;
- assert(word.examples.length <= 2, word.id);
+ if (word.examples.length >= 2) atLeastTwo++;
+ missingForTwo += Math.max(0, 2 - word.examples.length);
  for (const [ja, zh] of word.examples) {
   const key = clean(ja);
   assert(key && zh.trim(), word.id);
@@ -46,9 +49,9 @@ for (const word of words) {
 assert.equal(pictures.size, inventory.wordVisuals.count);
 assert.equal(pictures.size, fs.readdirSync(assetDir).length);
 assert.equal(pictures.size, Object.keys(visuals).length);
-assert.deepEqual({count: exampleCount, words: withExamples}, inventory.vocabularyExamples);
+assert.deepEqual({count: exampleCount, words: withExamples, atLeastTwo, missingForTwo}, inventory.vocabularyExamples);
 assert(pictures.size > 0 && pictures.size < words.length);
-assert(withExamples > 0 && withExamples < words.length);
+assert(withExamples >= pictures.size && withExamples <= words.length);
 
 run("only='illustrated'; var illustratedWord = filtered(V)[0];");
 assert.equal(run('filtered(V).length'), pictures.size);

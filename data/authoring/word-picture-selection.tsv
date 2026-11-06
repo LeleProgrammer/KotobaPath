@@ -328,3 +328,874 @@
 百	number-100
 千	number-1000
 万	number-10000
+ソファー	sofa
+エレベーター	elevator
+エスカレーター	escalator
+おもちゃ	toyblocks
+クッキー	cookie
+テニス	tennis
+ピアノ	piano
+ギター	guitar
+ピザ	pizza
+おにぎり	riceball
+カレー	curry
+ジュース	juice
+弁当	lunchbox
+ラジオ	radio
+テレビ	television
+ストーブ	stove
+しょうゆ	soysauce
+すいか	watermelon
+チョコレート	chocolate
+リボン	ribbon
+ナイフ	knife
+プール	pool
+バス停	bus-stop
+鼻	nose
+髪	hair
+公園	park
+川	river
+森	forest
+薬	pill
+紅茶	tea
+砂糖	sugar
+辞書	dictionary
+ボールペン	stationery-pen
+誕生日	calendar-birthday
+トイレ	toilet
+ホテル	hotel-city
+クレジットカード	creditcard
+スーツケース	suitcase
+パトカー	policecar
+ネックレス	necklace
+ネクタイ	necktie
+チーズ	cheese
+ハンカチ	handkerchief
+電子レンジ	microwave
+象	elephant
+雷	lightning
+野球	baseball
+折り紙	origami
+瓶	glass-bottle
+封筒	letter-envelope
+救急車	ambulance
+新幹線	shinkansen
+ロボット	robot
+納豆	natto
+バスケットボール	basketball-hoop	篮球运动
+サッカー	football-goal	足球运动
+卓球	table-tennis	乒乓球运动
+バレーボール	volleyball-net	排球运动
+郵便局	post-office
+映画館	cinema
+美術館	art-museum
+温泉	hot-spring
+風呂	bathtub	浴缸
+レインコート	raincoat
+着物	kimono
+マフラー	scarf
+花瓶	vase
+水筒	water-flask
+ドーナツ	donut
+扇子	folding-fan
+柿	persimmon
+なす	eggplant
+唐辛子	chili
+きゅうり	cucumber
+牡蠣	oyster
+チャーハン	fried-rice
+ホチキス	stapler
+滝	waterfall
+虹	rainbow
+懐中電灯	flashlight
+ろうそく	candle
+ハンバーガー	hamburger
+梨	pear
+ダム	dam
+灯台	lighthouse
+アイロン	clothes-iron
+パイナップル	pineapple
+渦	whirlpool
+パンチ||打孔机	hole-punch	打孔机
+リモコン	remote-control
+蟹	crab
+ドライヤー	hair-dryer
+歯ブラシ	toothbrush
+炊飯器	rice-cooker
+ゆりかご	cradle
+しいたけ	shiitake
+望遠鏡	telescope
+クリップ	paperclip	回形针
+のり	glue
+指輪	ring
+バイオリン	violin
+改札口	station-gate
+引き出し	drawer-single
+ロッカー	storage-locker
+押し入れ	wall-cabinet
+乗車券	ticket-gate
+蒸気機関車	train-engine
+横断歩道	street-crossing
+水族館	aquarium-window
+通訳	interpreter-pair	口译
+三脚	camera-tripod	相机三脚架
+ワイパー	windshield-wiper
+洗面台	bath-sink
+平屋	relief-house
+甲虫	beetle-shell
+金魚	goldfish-bowl
+ノート	notebook-rings
+ベンチ	bench-planks
+破片	broken-fragment
+缶詰	canned-food
+ゼリー	gelatin-mold
+発酵	ferment-bubbles
+水蒸気	wavy-steam
+時刻表	station-clockboard
+トンネル	road-tunnel
+絹	silk-roll
+針	sewing-needle
+乗る	scene-1	搭乘
+降りる	scene-2	下车
+見る	scene-3	用眼睛看
+聞く	scene-4	听声音
+言う	scene-5
+書く	scene-6
+食べる	scene-7	进食
+飲む	scene-8
+買う	scene-9	购买
+売る	scene-10
+使う	scene-11	使用工具
+作る	scene-12	制作物品
+起きる	scene-13	起床
+寝る	scene-14	睡觉
+洗濯	scene-15
+もらう	scene-16	收到礼物
+あげる	scene-17	给别人礼物
+料理	scene-18	做菜
+見せる	scene-19	展示给别人看
+曲がる	scene-20	转弯
+浴びる	scene-21	淋浴
+上がる	scene-22	走上楼梯
+通う	scene-23	经常往返学校
+始める	scene-24
+教える	scene-25
+勉強	scene-26
+住む	scene-27
+消す	scene-28	擦掉字迹
+笑う	scene-29
+渡る	scene-30	过桥
+貸す	scene-31	借出
+脱ぐ	scene-32	脱鞋
+置く	scene-33
+着く	scene-34
+取る	scene-35	拿取
+持つ	scene-36	拿着
+歌う	scene-37
+休む	scene-38
+止まる	scene-39	停下来
+借りる	scene-40	借书
+呼ぶ	scene-41
+降る	scene-42	下雨
+飛ぶ	scene-43	飞翔
+並べる	scene-44
+入れる	scene-45	放进盒子
+作文	scene-46
+散歩	scene-47
+旅行	scene-48
+留学	scene-49
+試験	scene-50
+返事	scene-51
+買い物	scene-52
+質問	scene-53
+授業	scene-54
+汚れる	scene-55
+育てる	scene-56
+壊れる	scene-57	设备坏掉
+起こす	scene-58	叫醒
+包む	scene-59
+届く	scene-60	包裹送到
+届ける	scene-61	递送到户
+落とす	scene-62	失手掉落
+拾う	scene-63	拾起
+捨てる	scene-64
+集める	scene-65
+倒れる	scene-66
+運ぶ	scene-67
+貼る	scene-68	贴上邮票
+送る	scene-69	寄信
+弾く	scene-70	弹琴
+撮る	scene-71	拍照
+冷やす	scene-72
+干す	scene-73
+結ぶ	scene-74
+混ぜる	scene-75
+温める	scene-76
+溶ける	scene-77
+滑る	scene-78	打滑
+燃える	scene-79
+注ぐ|そそぐ|	scene-80	往杯里倒水
+拭く	scene-81
+塗る	scene-82	涂漆
+咲く	scene-83	开花
+着替え	scene-84
+飼う	scene-85
+贈る	scene-86
+配る	scene-87
+凍る	scene-88
+持ち帰る	scene-89
+沸く	scene-90	水烧开
+拭き取る	scene-91
+
+# Original artwork added in 1.10.0.
+テーブル	v110-object-1	食卓
+コート	v110-object-2	冬大衣
+ワイシャツ	v110-object-3	有领衬衫
+セーター	v110-object-4	毛衣
+スカート	v110-object-5	裙子
+スキー	v110-action-6	滑雪
+テキスト	v110-object-7	课本
+デパート	v110-object-8	百货商场
+ダンス	v110-action-9	跳舞
+チケット	v110-object-10	门票
+ページ	v110-object-11	书页
+足	v110-object-12	脚
+顔	v110-object-13	脸
+風邪	v110-object-14	感冒
+秋	v110-nature-15	秋叶
+春	v110-nature-16	春日花开
+冬	v110-nature-17	冬季
+夏	v110-nature-18	盛夏
+店	v110-object-19	店铺
+道	v110-object-20	道路
+曇り	v110-nature-21	阴天
+町|まち	v110-object-22	街区
+歌	v110-object-23	歌曲
+絵	v110-object-24	画作
+レストラン	v110-object-25	餐馆
+円|えん|圆	v110-quality-26	圆形
+皿	v110-quality-27	盘子
+池	v110-nature-28	池塘
+空|そら	v110-nature-29	天空
+紙|かみ	v110-object-30	纸张
+動物	v110-nature-31	动物
+雑誌	v110-object-32	杂志
+荷物	v110-object-33	行李
+建物	v110-object-34	建筑物
+葉書	v110-object-35	明信片
+洋服	v110-object-36	西式衣服
+玄関	v110-object-37	入户玄关
+教室	v110-object-38	教室
+上着	v110-object-39	上衣
+部屋	v110-object-40	房间
+台所	v110-object-41	厨房
+朝ご飯	v110-time-42	早餐
+昼ご飯	v110-time-43	午饭
+晩ご飯	v110-time-44	晚饭
+写真	v110-object-45	照片
+菓子	v110-object-46	点心
+本屋	v110-object-47	书店
+宿題	v110-object-48	作业
+郵便	v110-object-49	邮件投递
+出口	v110-object-50	出口
+八百屋	v110-object-51	蔬果店
+喫茶店	v110-object-52	咖啡馆
+電話番号	v110-object-53	电话号码
+駅員	v110-object-54	站务人员
+道具	v110-object-55	工具
+ハンバーグ	v110-object-56	汉堡肉饼
+スイッチ	v110-object-57	开关
+ソース	v110-object-58	调味酱
+ビデオ	v110-object-59	录像机
+デート	v110-action-60	约会
+グループ	v110-relation-61	小组
+サイン	v110-object-62	签名
+ゲーム	v110-object-63	游戏
+ごみ	v110-object-64	垃圾
+コンサート	v110-object-65	音乐会
+コンピューター	v110-object-66	电脑
+サラダ	v110-object-67	沙拉
+ジャム	v110-object-68	果酱
+インターネット	v110-object-69	互联网
+アナウンサー	v110-object-70	播音员
+オフィス	v110-object-71	办公室
+スーパーマーケット	v110-object-72	超市
+レジ	v110-object-73	收银机
+ポスト	v110-object-74	投信邮筒
+ポスター	v110-object-75	海报
+コンビニ	v110-object-76	便利店
+ファクス	v110-object-77	传真机
+ペット	v110-object-78	宠物
+肩	v110-object-79	肩膀
+腰	v110-object-80	腰部
+腕	v110-object-81	手臂
+唇	v110-object-82	嘴唇
+腹	v110-object-83	腹部
+頬	v110-object-84	脸颊
+肌	v110-object-85	皮肤
+指	v110-object-86	手指
+桜	v110-object-87	樱花
+門	v110-object-88	大门
+王	v110-object-89	国王
+文	v110-object-90	句子
+土	v110-nature-91	泥土
+飴	v110-object-92	糖果
+字	v110-object-93	文字
+けが	v110-object-94	受伤
+痛み	v110-object-95	疼痛
+熱	v110-object-96	发烧
+病気	v110-object-97	生病
+葉っぱ	v110-nature-98	叶子
+石	v110-nature-99	石头
+線	v110-quality-100	线
+袋	v110-object-101	袋子
+席	v110-object-102	座位
+首	v110-object-103	脖子
+街|まち	v110-object-104	街道
+角|かど	v110-object-105	拐角
+天ぷら	v110-object-106	天妇罗
+みそ汁	v110-object-107	味噌汤
+体育館	v110-object-108	体育馆
+港	v110-nature-109	港口
+湖	v110-nature-110	湖泊
+動物園	v110-nature-111	动物园
+涙	v110-object-112	眼泪
+枝	v110-nature-113	枝条
+和食	v110-object-114	日式饭菜
+蕎麦	v110-object-115	荞麦面
+食料	v110-object-116	食粮
+受付	v110-object-117	接待窗口
+手帳	v110-object-118	随身记事本
+昼寝	v110-time-119	午睡
+体育	v110-object-120	体育课
+会議	v110-relation-121	会议
+絵本	v110-object-122	绘本
+機械	v110-object-123	机械
+夕食	v110-time-124	晚餐
+品物	v110-object-125	商品
+贈り物	v110-object-126	礼物
+資料	v110-object-127	资料
+特急	v110-object-128	特快列车
+急行	v110-object-129	快速列车
+漫画	v110-object-130	漫画
+海岸	v110-nature-131	海岸
+手洗い	v110-action-132	洗手
+水泳	v110-action-133	游泳
+神社	v110-object-134	神社
+旅館	v110-object-135	日式旅馆
+運動会	v110-object-136	运动会
+時間割	v110-time-137	课程表
+教科書	v110-object-138	教科书
+運動場	v110-object-139	运动场
+大使館	v110-object-140	大使馆
+歯医者	v110-object-141	牙医
+事務所	v110-object-142	事务所
+会議室	v110-object-143	会议室
+携帯電話	v110-object-144	手机
+鳥肉	v110-object-145	禽肉
+背中	v110-object-146	背部
+地面	v110-nature-147	地面
+城	v110-object-148	城堡
+舌	v110-object-149	舌头
+膝	v110-object-150	膝盖
+人形	v110-object-151	人偶
+天井	v110-object-152	天花板
+制服	v110-object-153	制服
+喉	v110-object-154	咽喉
+呼吸	v110-object-155	呼吸
+氷	v110-object-156	冰块
+糸	v110-object-157	线团
+鉄	v110-object-158	铁制材料
+書類	v110-object-159	文书
+屋根	v110-object-160	屋顶
+根	v110-nature-161	植物的根
+数字	v110-quality-162	数字
+顎	v110-object-163	下巴
+布団	v110-object-164	日式被褥
+袖	v110-object-165	袖子
+ガラス	v110-object-166	玻璃
+砂	v110-nature-167	沙子
+髪の毛	v110-object-168	头发
+広場	v110-object-169	广场
+液体	v110-object-170	液体
+グラス	v110-object-171	玻璃杯
+畑	v110-nature-172	旱地田垄
+丘	v110-nature-173	小丘
+胃	v110-object-174	胃
+蓋	v110-object-175	容器盖子
+花火	v110-nature-176	烟火
+キッチン	v110-object-177	厨房
+居間	v110-object-178	客厅
+アニメ	v110-object-179	动画
+エンジン	v110-object-180	引擎
+ワイン	v110-object-181	葡萄酒
+包丁	v110-object-182	菜刀
+食器	v110-object-183	餐具
+シーツ	v110-object-184	床单
+帯|おび	v110-object-185	腰带
+自動車	v110-object-186	汽车
+楽器	v110-object-187	乐器
+絵画	v110-object-188	绘画
+カバー	v110-object-189	护套
+乾燥	v110-nature-190	干燥
+バイク	v110-object-191	摩托车
+アイス	v110-object-192	冰淇淋
+エプロン	v110-object-193	围裙
+図書室	v110-object-194	图书室
+研究室	v110-object-195	研究室
+駐車場	v110-object-196	停车场
+浴衣	v110-object-197	浴衣
+羊	v110-nature-198	绵羊
+レシピ	v110-object-199	食谱
+遊園地	v110-object-200	游乐园
+ロビー	v110-object-201	大厅
+おやつ	v110-object-202	零食
+部品	v110-object-203	零件
+プリント	v110-object-204	印出来的讲义
+人体	v110-object-205	人体
+編む	v110-action-206	编织
+ジャケット	v110-object-207	夹克
+ゴム	v110-object-208	橡胶弹力带
+山道	v110-nature-209	山路
+スピーカー	v110-object-210	扬声器
+四角い	v110-quality-211	方形
+花束	v110-object-212	花束
+診察	v110-action-213	看诊
+校庭	v110-object-214	学校操场
+バター	v110-object-215	黄油
+容器	v110-object-216	容器
+芝生	v110-nature-217	草坪
+坂道	v110-object-218	坡道
+ハンドル	v110-object-219	方向盘
+ライオン	v110-nature-220	狮子
+サングラス	v110-object-221	太阳镜
+花壇	v110-nature-222	花坛
+農業	v110-nature-223	农业
+茶 碗	v110-object-224	饭碗
+調味料	v110-object-225	调味料
+歩道	v110-object-226	人行道
+ベランダ	v110-object-227	阳台
+インク	v110-object-228	墨水
+用紙	v110-object-229	纸张
+ブレーキ	v110-object-230	刹车
+キーボード	v110-object-231	键盘
+近道	v110-object-232	近路
+アルバム	v110-object-233	相册
+フライパン	v110-object-234	平底锅
+ロケット	v110-object-235	火箭
+衣類	v110-object-236	衣服
+雑巾	v110-object-237	抹布
+木の葉	v110-nature-238	树叶
+ウイルス	v110-object-239	病毒
+コーラ	v110-object-240	可乐
+交通事故	v110-relation-241	交通事故
+パンフレット	v110-object-242	宣传册
+遠足	v110-object-243	郊游
+ステーキ	v110-object-244	牛排
+大雨	v110-nature-245	大雨
+電灯	v110-object-246	电灯
+焼きそば	v110-object-247	炒面
+段ボール	v110-object-248	纸箱
+冷凍	v110-action-249	冷冻
+ジーンズ	v110-object-250	牛仔裤
+博物館	v110-object-251	博物馆
+取っ手	v110-object-252	把手
+音量	v110-quality-253	音量
+ピクニック	v110-object-254	野餐
+車椅子	v110-object-255	轮椅
+小麦	v110-nature-256	小麦
+プラスチック	v110-object-257	塑料
+からす	v110-nature-258	乌鸦
+蛍光灯	v110-object-259	荧光灯
+洗濯機	v110-object-260	洗衣机
+絵の具	v110-object-261	颜料
+空き地	v110-object-262	空地
+刺身	v110-object-263	生鱼片
+柔道	v110-action-264	柔道
+目覚まし	v110-time-265	闹钟
+定食	v110-object-266	套餐
+ペンキ	v110-object-267	油漆
+ガソリン	v110-object-268	汽油
+パンダ	v110-nature-269	熊猫
+ソーセージ	v110-object-270	香肠
+マット	v110-object-271	垫子
+洗剤	v110-object-272	洗涤剂
+腹痛	v110-object-273	肚子痛
+ポテト	v110-object-274	土豆
+ブラシ	v110-object-275	刷子
+掃除機	v110-object-276	吸尘器
+新聞紙	v110-object-277	报纸
+レタス	v110-nature-278	生菜
+ファスナー	v110-object-279	拉链
+ピーマン	v110-object-280	青椒
+和菓子	v110-object-281	和式点心
+美容院	v110-object-282	理发美容店
+薬局	v110-object-283	药房
+海苔	v110-object-284	海苔
+虫歯	v110-object-285	龋齿
+リュックサック	v110-object-286	双肩背包
+ビデオカメラ	v110-object-287	摄像机
+おむつ	v110-object-288	尿布
+ラケット	v110-object-289	球拍
+レシート	v110-object-290	收据
+ドレッシング	v110-object-291	沙拉调味汁
+車庫	v110-object-292	车库
+球場	v110-object-293	棒球场
+換気扇	v110-object-294	换气扇
+電卓	v110-object-295	计算器
+判子	v110-object-296	印章
+絵葉書	v110-object-297	图画明信片
+スパゲッティ	v110-object-298	意大利面
+ヒーター	v110-object-299	电暖器
+カセットテープ	v110-object-300	盒式磁带
+こしょう	v110-object-301	胡椒粉
+生け花	v110-object-302	插花
+網棚	v110-object-303	车上行李架
+避難経路	v110-relation-304	疏散路线
+避難所	v110-relation-305	避难所
+迂回路	v110-relation-306	绕行路线
+サイクリング	v110-action-307	骑行
+緑地	v110-object-308	城市绿地
+領収書	v110-object-309	正式收据
+カタログ	v110-object-310	商品目录
+高速道路	v110-object-311	高速公路
+通帳	v110-object-312	银行存折
+暗証番号	v110-object-313	密码数字
+郵送	v110-action-314	邮寄信件
+鳥類	v110-nature-315	鸟类
+花粉	v110-nature-316	花粉
+ヘッドライト	v110-object-317	汽车前灯
+太もも	v110-object-318	大腿
+尻尾	v110-nature-319	动物尾巴
+白紙	v110-object-320	空白纸页
+水槽	v110-nature-321	水族箱
+三日月	v110-nature-322	新月
+隕石	v110-nature-323	陨石
+火山	v110-nature-324	火山
+水たまり	v110-nature-325	水坑
+恐竜	v110-nature-326	恐龙
+羽毛	v110-nature-327	羽毛
+煙突	v110-object-328	烟囱
+化石	v110-nature-329	化石
+楽譜	v110-object-330	乐谱
+扇風機	v110-object-331	电风扇
+彗星	v110-nature-332	彗星
+クレーン	v110-object-333	起重机
+珊瑚	v110-nature-334	珊瑚
+のこぎり	v110-object-335	锯子
+植木鉢	v110-nature-336	花盆
+幼虫	v110-nature-337	昆虫幼虫
+受け皿	v110-object-338	杯碟
+ヨット	v110-object-339	帆船
+球根	v110-nature-340	球根
+ベビーカー	v110-object-341	婴儿车
+盲導犬	v110-nature-342	导盲犬
+航空券	v110-object-343	机票
+星座	v110-nature-344	星座
+リレー	v110-action-345	接力赛
+長方形	v110-quality-346	长方形
+タブレット	v110-object-347	平板电脑
+蟻	v110-nature-348	蚂蚁
+
+# Original artwork added in 1.11.0.
+交番	v111-object-1	警亭
+交差点	v111-object-2	十字路口
+両手	v111-object-3	双手
+服	v111-object-4	衣服
+曜日	v111-object-5	星期几
+左手	v111-object-6	左手
+右手	v111-object-7	右手
+横	v111-object-8	横向
+長い	v111-object-9	长度较长
+厚い	v111-quality-10	厚度较大
+半分	v111-object-11	一半
+天気	v111-nature-12	天气
+平仮名	v111-object-13	平假名
+片仮名	v111-object-14	片假名
+着る	v111-action-15	穿上衣服
+掛ける	v111-action-16	挂上衣架
+缶	v111-object-17	金属罐
+空き缶	v111-object-18	空罐
+両替機	v111-object-19	零钱兑换机
+ガム	v111-object-20	口香糖
+カラオケ	v111-object-21	卡拉 OK
+センチ	v111-object-22	厘米
+メートル	v111-object-23	米
+グラム	v111-object-24	克
+湯	v111-object-25	热水
+正月	v111-object-26	新年门松
+花見	v111-object-27	赏樱
+祭り	v111-object-28	庆典提灯
+結婚	v111-action-29	结婚
+パーティー	v111-object-30	派对
+ジョギング	v111-action-31	慢跑
+ニュース	v111-object-32	新闻节目
+光	v111-object-33	光束
+胸	v111-object-34	胸部
+床|ゆか	v111-object-35	地板
+傷	v111-object-36	伤口
+裏	v111-object-37	背面
+寺	v111-object-38	佛寺
+案内	v111-action-39	指引
+廊下	v111-object-40	走廊
+駅前	v111-object-41	站前广场
+入り口	v111-object-42	入口
+値段	v111-object-43	价格
+予約	v111-action-44	预订
+距離	v111-quality-45	两点间距离
+運転手	v111-object-46	驾驶员
+食料品	v111-object-47	食品杂货
+忘れ物窓口	v111-object-48	失物招领处
+留守番電話	v111-object-49	电话留言
+回数券	v111-object-50	多次乘车票
+整理券	v111-object-51	排队号码牌
+取り置き	v111-object-52	留货
+棚	v111-object-53	置物架
+皮|かわ	v111-object-54	果皮
+柄|がら	v111-object-55	花纹
+餌	v111-object-56	动物饲料
+骨	v111-object-57	骨头
+足音	v111-object-58	脚步声
+穴	v111-object-59	孔洞
+汚れ	v111-object-60	污渍
+汗	v111-object-61	汗水
+棒	v111-object-62	杆棒
+明かり	v111-object-63	亮着的灯
+看板	v111-object-64	店铺招牌
+列	v111-object-65	队列
+斜め	v111-object-66	斜向
+段	v111-object-67	台阶
+泡	v111-object-68	泡沫
+紐	v111-object-69	细绳
+芯	v111-object-70	铅芯
+束	v111-object-71	一捆
+青空	v111-object-72	蓝天
+夕日	v111-object-73	夕阳
+夕焼け	v111-nature-74	晚霞
+畳	v111-object-75	榻榻米
+襟	v111-object-76	衣领
+ガス	v111-object-77	燃气
+現金	v111-object-78	现金
+支払い	v111-object-79	付款
+葬式	v111-object-80	葬礼
+線路	v111-object-81	铁轨
+ロープ	v111-object-82	粗绳
+梅	v111-object-83	梅花
+ばら|ばら	v111-object-84	玫瑰
+オレンジ	v111-object-85	橙子
+正門	v111-object-86	正门
+塾	v111-object-87	补习班
+掲示板	v111-object-88	告示板
+鉄道	v111-object-89	铁路
+文房具	v111-object-90	文具
+ラジカセ	v111-object-91	收录机
+古本	v111-object-92	旧书
+スマホ	v111-object-93	智能手机
+表紙	v111-object-94	封面
+座席	v111-object-95	座椅
+窓際	v111-object-96	窗边窗台
+行列	v111-action-97	排队等候
+電源	v111-object-98	电源插座
+白衣	v111-object-99	白大褂
+機器	v111-object-100	设备
+巣	v111-object-101	巢
+幕	v111-object-102	幕布
+枠	v111-object-103	框架
+ボックス	v111-object-104	收纳盒
+巣箱	v111-object-105	鸟巢箱
+風呂敷	v111-object-106	包袱皮
+土俵	v111-object-107	相扑场
+貝	v111-nature-108	贝壳
+酸素	v111-object-109	氧气
+芽	v111-nature-110	嫩芽
+並木	v111-object-111	林荫路
+キャンプ	v111-action-112	露营
+日光	v111-nature-113	阳光
+空洞	v111-object-114	内部空腔
+直径	v111-quality-115	直径
+回路	v111-object-116	电路
+土台	v111-object-117	地基
+管	v111-object-118	管道
+曲線	v111-quality-119	曲线
+垂直	v111-object-120	垂直
+紅葉	v111-action-121	红叶
+根っこ	v111-nature-122	树根
+ポット	v111-object-123	保温壶
+パネル	v111-object-124	控制面板
+レール	v111-object-125	轨道
+衛星	v111-object-126	人造卫星
+山頂	v111-object-127	山顶
+爪	v111-object-128	指甲
+宿	v111-object-129	旅宿
+宝石	v111-object-130	宝石
+仮面	v111-object-131	面具
+食材	v111-object-132	食材
+敷地	v111-object-133	用地范围
+崖	v111-nature-134	悬崖
+柵	v111-object-135	栅栏
+屋台	v111-object-136	小摊
+遺跡	v111-object-137	遗址
+髭	v111-object-138	胡须
+工房	v111-object-139	工坊
+目玉	v111-object-140	眼球
+殻	v111-object-141	外壳
+くぎ	v111-object-142	钉子
+斜面	v111-object-143	斜坡
+迷路	v111-object-144	迷宫
+満月	v111-nature-145	满月
+惑星	v111-nature-146	行星
+杭	v111-object-147	木桩
+鶴	v111-nature-148	鹤
+障子	v111-object-149	日式拉门
+木陰	v111-nature-150	树荫
+車体	v111-object-151	车身
+蛙	v111-nature-152	青蛙
+直線	v111-quality-153	直线
+半径	v111-quality-154	半径
+蚊	v111-nature-155	蚊子
+蒸気	v111-object-156	蒸汽
+海底	v111-nature-157	海底
+タンク	v111-object-158	储液罐
+浜辺	v111-nature-159	沙滩
+串	v111-object-160	竹签串
+石段	v111-object-161	石阶
+狸	v111-object-162	狸
+重心	v111-quality-163	重心
+琴	v111-object-164	琴
+雀	v111-nature-165	麻雀
+一軒家	v111-object-166	独栋住宅
+挿絵	v111-object-167	插图
+キャップ	v111-object-168	棒球帽
+巨木	v111-object-169	大树
+熱湯	v111-object-170	沸水
+漁場	v111-object-171	捕鱼水域
+ひよこ	v111-nature-172	小鸡
+積み木	v111-object-173	积木
+老木	v111-object-174	老树
+まぐろ	v111-nature-175	金枪鱼
+石器	v111-object-176	石器
+冬山	v111-object-177	雪山
+防水	v111-action-178	防水
+スーパーコンピューター	v111-object-179	超级计算机
+遺物	v111-object-180	出土遗物
+キャラクター	v111-quality-181	虚构角色
+テント	v111-object-182	帐篷
+星空	v111-nature-183	星空
+亀	v111-nature-184	龟
+鶏	v111-object-185	鸡
+網	v111-object-186	网
+罠	v111-object-187	陷阱
+尻	v111-object-188	臀部
+関節	v111-object-189	关节
+医者	v111-object-190	医生
+会社員	v111-object-191	公司职员
+学生	v111-object-192	学生
+店員	v111-object-193	店员
+工事	v111-action-194	施工
+警察官	v111-object-195	警察
+見舞い	v111-object-196	探望病人
+入院	v111-action-197	住院
+退院	v111-action-198	出院
+入学	v111-action-199	入学
+通学	v111-action-200	上学
+乗り換える	v111-action-201	换乘
+出発	v111-action-202	出发
+運転	v111-action-203	开车
+ドライブ	v111-action-204	驾车兜风
+配達	v111-action-205	配送
+乗車	v111-action-206	乘车
+隠す	v111-action-207	藏起来
+振る	v111-action-208	挥动旗帜
+投げる	v111-action-209	投球
+投げ捨てる	v111-action-210	把东西扔进垃圾桶
+握る	v111-action-211	握住
+叩く	v111-action-212	敲击
+踏む	v111-action-213	踩下
+つかむ	v111-action-214	抓住
+押さえる	v111-action-215	按住纸张
+回す	v111-action-216	转动旋钮
+引っ張る	v111-action-217	拉绳子
+外す	v111-action-218	取下挂件
+閉じる	v111-action-219	合上书
+空く	v111-action-220	座位空出
+開く|ひらく	v111-action-221	打开书
+開く|あく	v111-action-222	门打开
+閉まる	v111-action-223	门关上
+分ける	v111-action-224	分成两份
+動かす	v111-action-225	移动箱子
+流す	v111-action-226	放水
+流れる	v111-nature-227	河水流动
+注ぐ|つぐ	v111-action-228	倒水
+こぼす	v111-action-229	洒出液体
+こぼれる	v111-action-230	液体溢出
+あふれる	v111-action-231	漫溢
+焼く	v111-action-232	烤面包
+焼ける	v111-action-233	烤出焦痕
+腐る	v111-action-234	食物变质
+乾く	v111-action-235	自然变干
+乾かす	v111-action-236	用吹风机吹干
+温度	v111-object-237	温度数值
+気温	v111-object-238	室外气温
+濡れる	v111-nature-239	被雨淋湿
+冷える	v111-action-240	物体变凉
+冷ます	v111-action-241	让热汤降温
+冷蔵	v111-action-242	冷藏
+火事	v111-object-243	失火
+消える	v111-action-244	火熄灭
+点ける	v111-action-245	开灯
+曇る	v111-action-246	眼镜起雾
+晴れる	v111-action-247	天转晴
+雨天	v111-nature-248	雨天
+天候	v111-nature-249	天气状况
+吹く	v111-action-250	刮风
+天気予報	v111-nature-251	天气预报
+日陰	v111-object-252	阴凉处
+映る	v111-action-253	镜中映出
+写る	v111-action-254	照片里拍到
+写す	v111-action-255	照样抄写
+印刷	v111-action-256	印出纸页
+複製	v111-action-257	复制品
+掲げる	v111-action-258	高举旗帜
+下ろす	v111-action-259	从高处拿下
+上げる	v111-action-260	把东西举高
+押し込む	v111-action-261	推入狭窄空位
+詰める	v111-action-262	装满盒子
+包み	v111-object-263	包裹
+組み立てる	v111-action-264	组装
+折れる	v111-action-265	杆断了
+切れる	v111-action-266	绳断了
+破れる	v111-action-267	纸破了
+直す	v111-action-268	修理
+壊す	v111-action-269	把物件打坏
+跳ねる	v111-action-270	球弹跳
+浮く	v111-action-271	漂在水面
+沈む	v111-action-272	沉入水中
+ぶつかる	v111-action-273	碰撞
+曲げる	v111-action-274	弯折铁丝
+伸ばす	v111-action-275	拉长弹簧
+縮む	v111-action-276	衣服缩水
+増える	v111-action-277	数量增加
+減る	v111-action-278	数量减少
+重なる	v111-action-279	互相叠放
+押し出す	v111-action-280	向外推出
+停電	v111-action-281	停电
+断水	v111-action-282	停水
+霧	v111-object-283	雾
+真っ暗	v111-object-284	一片漆黑
+落下	v111-action-285	向下掉落
+成長	v111-action-286	植株长高
+花びら	v111-object-287	花瓣
+生える	v111-action-288	长出新芽
+育つ	v111-action-289	植物长大
+植える	v111-action-290	栽种
+実る	v111-action-291	枝头结实
+咲き誇る	v111-action-292	花开繁盛
+山並み	v111-nature-293	连绵山峰
+麓	v111-nature-294	山脚
+丘陵	v111-object-295	丘陵
+石垣	v111-object-296	石墙
+並行	v111-quality-297	沿平行方向
+平行	v111-quality-298	平行线
+直進	v111-action-299	直行
+水深	v111-object-300	水深
+寸法	v111-quality-301	尺寸

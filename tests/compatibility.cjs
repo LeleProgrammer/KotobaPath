@@ -9,7 +9,7 @@ function runtime(seed){
  return {run:s=>vm.runInContext(s,ctx),storage,ctx};
 }
 const r=runtime(),run=r.run;let count=0;
-assert.equal(run('state.contentVersion'),'1.7.0');count++;
+assert.equal(run('state.contentVersion'),'1.11.0');count++;
 function check(s,e){assert.deepEqual(JSON.parse(JSON.stringify(run(s))),e,s);count++;}
 const legacy=run("({schema:1,profile:{level:'N2',daily:30,font:22,light:true,ruby:false},learned:{g000:true},stars:{f0:true},completed:{r0:true},notes:{g000:'旧版语法笔记 <b>原样保留</b>'},drafts:{w0:'私は学生です。'},reviews:{g000:{due:1,interval:3,ease:2.5,seen:4,correct:3}},wrong:{g000:{count:1,last:1730000000000}},history:[{id:'g000',time:1730000000000,ok:false,mode:'grammar'}],days:{'2025-01-01':{total:12,correct:7}}})");
 const loaded=runtime(legacy);assert.equal(loaded.run("state.notes.g000"),legacy.notes.g000);assert.equal(loaded.run('state.profile.font'),22);assert.equal(loaded.run('state.reviews.g000.interval'),3);assert.deepEqual(JSON.parse(loaded.storage.get('kotobapath.backup.before.1.2.0')),legacy);assert.equal(JSON.parse(loaded.storage.get('kotobapath.save.v1')).appVersion,'1.2.0');count+=5;
@@ -33,11 +33,11 @@ const identities=JSON.parse(fs.readFileSync(path.join(__dirname,'expansion-ident
 for(const [id,x]of Object.entries(identities)){const now=expanded[x.category].find(a=>a.id===id);assert(now,'Missing stable ID '+id);const identity=x.category==='usage'?now.question:now.word||now.pattern||now.title||now.sentence||(now.tokens||[]).join('');assert.equal(identity,x.identity,'ID reused or reassigned: '+id);count++;}
 assert.equal(run('ALL.length'),run('new Set(ALL.map(x=>x.id)).size'));count++;
 const phrases=run("V.filter(x=>x.source==='KotobaPath')");for(const x of phrases){assert.equal(run('V.filter(v=>v.word==='+JSON.stringify(x.word)+'&&v.reading==='+JSON.stringify(x.reading)+').length'),1);count++;}
-for(const version of ['1.2.0','1.3.0','1.4.0','1.4.1','1.5.0','1.5.1','1.6.0']){
+for(const version of ['1.2.0','1.3.0','1.4.0','1.4.1','1.5.0','1.5.1','1.6.0','1.7.0','1.8.0','1.9.0','1.10.0']){
  const fixture=JSON.parse(JSON.stringify(legacy));fixture.appVersion='1.2.0';fixture.contentVersion=version;
  fixture.learned['v-ext11-001']=true;fixture.notes['g-ext11-004']='定时拓展语法笔记';fixture.stars['t14-0']=true;fixture.completed['r14-8']=true;
  fixture.reviews['rq:r14-8:0']={due:1,interval:3,ease:2.5,seen:4,correct:3};
- const next=runtime(fixture);assert.equal(next.run('state.contentVersion'),'1.7.0');assert.equal(JSON.parse(next.storage.get('kotobapath.save.v1')).contentVersion,'1.7.0');
+ const next=runtime(fixture);assert.equal(next.run('state.contentVersion'),'1.11.0');assert.equal(JSON.parse(next.storage.get('kotobapath.save.v1')).contentVersion,'1.11.0');
  assert.equal(next.run("state.notes['g-ext11-004']"),'定时拓展语法笔记');assert(next.run("state.completed['r14-8']"));assert.equal(next.run("state.reviews['rq:r14-8:0'].interval"),3);count+=5;
 }
 run("modal(V.find(x=>x.id==='v-ext11-001'))");assert(!run("$('#modal-body').innerHTML").includes('基础词条：egg rolls'));count++;
