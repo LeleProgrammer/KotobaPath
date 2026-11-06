@@ -742,3 +742,566 @@ v111-quality-298	parallel-lines@0,0,64
 v111-action-299	straight-ahead@0,0,64
 v111-object-300	depth-gauge@0,0,64
 v111-quality-301	dimensions@0,0,64
+
+# Original artwork added in 1.12.0.
+v112-time-11	day-sweep@0,0,64
+v112-time-23	single-camp@0,0,64
+v112-time-24	tandem-paddle@0,0,64
+v112-object-47	phone-call@0,0,64
+v112-object-48	thanks-bow@0,0,64
+v112-object-51	ask-counter@0,0,64
+v112-object-53	sunrise@0,2,35 waving-person@24,18,45
+v112-object-55	night-door@0,0,64
+v112-object-56	farewell@0,0,64
+v112-object-57	greeting-cards@0,0,64
+v112-object-58	awning-entry@0,0,64
+v112-object-59	celebrate@0,0,64
+v112-object-63	near-speaker@0,0,64
+v112-object-64	near-listener@0,0,64
+v112-object-66	far-both@0,0,64
+v112-object-75	unknown-pin@0,0,64
+v112-object-79	fork-question@0,0,64
+v112-object-98	unknown-calendar@0,0,64
+v112-object-99	unknown-price@0,0,64
+v112-object-103	unknown-people@0,0,64
+v112-color107-107	red-lantern@0,0,64
+v112-color108-108	blue-sea@0,0,64
+v112-color109-109	white-origami@0,0,64
+v112-color110-110	black-ink@0,0,64
+v112-color111-111	yellow-banana@0,0,64
+v112-color112-112	brown-acorn@0,0,64
+v112-object-119	both-parents@0,0,64
+v112-object-144	school@0,0,45 backpack@31,26,34
+v112-object-145	school@0,0,45 jersey@32,26,33
+v112-object-146	school@0,0,45 lab-bench@29,27,34
+v112-object-147	university@0,0,64
+v112-object-161	compass-east@0,0,64
+v112-object-162	compass-west@0,0,64
+v112-object-163	compass-south@0,0,64
+v112-object-164	compass-north@0,0,64
+v112-object-165	neighboring-houses@0,0,64
+v112-object-167	left-seat@0,0,64
+v112-object-168	right-seat@0,0,64
+v112-object-266	three-fish@0,0,64
+v112-nature-309	vegetable-crate@0,0,64
+v112-object-503	two-cups@0,0,64
+v112-object-604	two-carriages@0,0,64
+v112-object-624	three-bikes@0,0,64
+v112-object-754	voice-waves@0,0,64
+v112-nature-1284	living-pond@0,0,64
+v112-object-1375	outfit-mirror@0,0,64
+v112-object-1639	folded-clothes@0,0,64
+v112-object-1666	three-cattle@0,0,64
+v112-object-1749	fishing-bank@0,0,64
+v112-object-1889	mainline-train@0,0,64
+v112-object-2315	used-clothes@0,0,64
+v112-action-2318	hotel-counter@0,0,64
+v112-object-2363	pilot-controls@0,0,64
+v112-object-3033	stage-costume@0,0,64
+v112-object-3054	coat-hem@0,0,64
+v112-nature-3061	flock-formation@0,0,64
+v112-nature-3157	plant-parts@0,0,64
+v112-action-3808	germination@0,0,64
+v112-object-4357	instruction-sheet@0,0,64
+v112-object-4405	fruit-basket@0,0,64
+v112-action-4561	road-motion@0,0,64
+v112-object-4683	downhill-route@0,0,64
+v112-nature-4842	salmon-run@0,0,64
+v112-object-4936	aircraft-profile@0,0,64
+v112-object-5039	passenger-car@0,0,64
+v112-nature-5215	moon@1,0,40 owl-perch@17,14,49
+v112-object-5276	pipe-organ@0,0,64
+v112-object-5468	fabric-rolls@0,0,64
+v112-nature-5478	spanish-mackerel@0,0,64
+v112-action-5579	clothes-change@0,0,64
+v112-object-5688	spine-back@0,0,64
+v112-object-5905	chime-tubes@0,0,64
+v112-object-6000	battered-cross-section@0,0,64
+v112-action-6397	fasten-jacket@0,0,64
+v112-object-6481	fuselage-side@0,0,64
+v112-object-6517	torso-outline@0,0,64
+v112-object-6543	airframe-top@0,0,64
+v112-action-6677	growing-beard@0,0,64
+v112-object-6777	workshop-equipment@0,0,64
+v112-action-6924	conveyor-running@0,0,64
+v112-nature-7154	squirrel-hoard@0,0,64
+v112-object-7532	adjust-collar@0,0,64
+v112-object-7754	uphill-route@0,0,64
+v112-nature-7951	lizard-tail@0,0,64
+v112-nature-8015	migration-map@0,0,64
+v112-action-8285	feed-birds@0,0,64
+v112-nature-8422	seedling-height@0,0,64
+v112-nature-8429	monstera-leaf@0,0,64
+v112-object-8451	fish-counter@0,0,64
+v112-nature-8711	fish-anatomy@0,0,64
+v112-nature-8977	mollusk-snail@0,0,64
+v112-object-9031	dashboard-map@0,0,64
+v112-action-9194	canceled-ferry@0,0,64
+v112-object-9310	net-catch@0,0,64
+v112-nature-9381	nursing-mammal@0,0,64
+v112-nature-9414	seed-tray@0,0,64
+v112-object-9437	sushi-topping@0,0,64
+v112-object-134	older@3,2,57 cane@39,21,22
+v112-object-140	child@15,3,46 person@0,0,33
+v112-object-141	person@17,0,48 child@3,24,33
+v112-object-148	child@13,1,47 backpack@35,29,29
+v112-object-149	student-desk@0,10,55 jersey@37,1,27
+v112-object-150	uniform@2,0,56 textbook@37,33,25
+v112-object-151	university@0,8,56 graduation@36,1,27
+v112-object-152	passport@1,6,47 graduation@32,23,31
+v112-time-171	calendar@1,5,56 sun@38,1,24
+v112-time-172	calendar-tear@15,4,49 look-back@0,33,27
+v112-time-173	calendar-tear@0,7,49 future@38,28,25
+v112-time-174	calendar@13,5,47 two-before@0,23,29
+v112-time-175	calendar@0,5,47 two-after@34,23,29
+v112-time-176	clock@9,12,42 moon@36,0,26
+v112-time-177	moon@12,0,48 look-back@1,31,33
+v112-time-178	sunrise@3,10,49 clock@38,0,25
+v112-time-179	sunrise@1,1,51 teapot@32,33,30
+v112-time-180	lunchbox@8,22,50 sun@25,0,27
+v112-time-181	sun@16,0,35 tree-shade@3,27,55
+v112-time-182	sunset@0,0,57 house@34,34,28
+v112-time-183	starry-sky@3,0,59 detached-house@15,34,34
+v112-time-184	sunset-sky@0,1,57 road@25,29,35
+v112-time-185	clock@2,6,50 bento-break@34,28,29
+v112-time-186	clock@0,8,45 am-arc@19,7,44
+v112-time-187	clock@16,8,45 pm-arc@0,8,44
+v112-time-188	week-grid@1,2,61 marker-pin@23,0,21
+v112-time-189	week-grid@1,2,57 right@37,36,26
+v112-time-190	week-grid@1,4,54 two-after@32,33,31
+v112-time-191	week-grid@6,4,57 left@0,38,26
+v112-time-192	calendar@14,0,48 left@1,33,25
+v112-time-193	calendar@4,4,56 marker-pin@33,33,25
+v112-time-194	calendar@2,2,47 right@36,30,27
+v112-time-195	year-wheel@0,0,64
+v112-time-196	year-wheel@10,0,54 left@1,34,27
+v112-time-197	year-wheel@0,1,54 right@36,34,27
+v112-time-198	year-wheel@9,2,54 two-before@0,33,29
+v112-time-199	clock@10,1,52 point-now@16,24,36
+v112-object-207	chalkboard@1,7,52 person@34,27,29
+v112-object-256	stamp@1,11,37 three-stamps@27,23,36
+v112-object-267	clock@3,1,53 minute-hand@17,14,29
+v112-object-282	school-grid@1,1,60 group@31,29,33
+v112-object-285	apartment@4,0,56 elevator@38,27,25
+v112-object-298	apartment@4,1,56 key@34,31,27
+v112-object-301	cup@4,4,57 handle-profile@39,26,22
+v112-object-305	body-belly@4,1,57 hand@38,33,26
+v112-object-310	glass-tumbler@5,1,55 straw@25,1,26
+v112-object-311	teapot@5,4,56 tea@39,32,24
+v112-object-312	cup@5,6,56 coffee-beans@35,31,27
+v112-object-313	plate@6,4,54 ingredients@35,34,29
+v112-object-318	mailbox@1,4,54 laptop-mail@30,27,33
+v112-object-324	sport-field@1,6,56 tennis@40,31,24
+v112-object-325	miso-bowl@4,4,55 soysauce@39,32,25
+v112-object-329	stationery-pen@5,1,55 note@33,37,28
+v112-object-346	soba-tray@5,6,55 chopsticks@36,31,27
+v112-object-347	face@4,2,56 hair-strands@33,22,30
+v112-object-376	clear-sky@0,2,61 sunray@29,30,34
+v112-object-386	map@1,8,55 marker-pin@27,8,32
+v112-object-397	body-full@7,1,57 body-arm@43,24,21
+v112-object-411	wave@1,7,62 lighthouse@35,5,29
+v112-object-433	talk@3,4,54 voice-waves@28,17,34
+v112-object-435	year-wheel@2,1,62 calendar-tear@40,34,22
+v112-object-439	pair@3,3,54 share-snack@27,31,35
+v112-object-441	label-name@0,0,64
+v112-object-442	buildings@3,0,56 work@35,30,29
+v112-object-444	character-sheet@4,2,52 calligraphy@35,28,29
+v112-object-448	sun@3,3,42 calendar@26,19,38
+v112-object-457	student-desk@2,5,56 textbook@38,33,24
+v112-object-459	calendar@7,6,51 snow@36,1,28
+v112-object-462	queue-ticket@5,2,58 digits@33,31,29
+v112-object-464	suit@4,2,51 name-badge@37,24,27
+v112-object-471	sandclock@5,2,59 stopwatch@33,35,29
+v112-object-476	tray-meal@0,0,64
+v112-object-479	family@4,0,56 baby@40,32,22
+v112-object-480	person@0,0,57 child@37,22,26
+v112-object-481	university@1,1,55 lab-bench@35,31,28
+v112-object-482	seat@2,8,59 forgotten-bag@33,22,27
+v112-object-514	footsteps@1,1,62 three-stamps@32,34,30
+v112-object-524	melon-cut@0,0,64
+v112-object-537	station-gate@3,1,54 railway@29,29,34
+v112-object-541	group@2,3,58 tennis@35,29,28
+v112-object-543	creditcard@3,6,57 label-name@31,35,32
+v112-object-566	rice-grains@0,0,64
+v112-object-567	wine@4,4,54 bottle-cap@36,32,24
+v112-object-568	milk-carton@2,3,54 glass-tumbler@36,33,27
+v112-object-576	pants@1,2,58 pocket@35,31,27
+v112-object-579	food-stall@0,5,56 vegetable-crate@34,25,30
+v112-object-580	slippers-pair@0,0,64
+v112-object-584	cigarette@0,0,64
+v112-object-623	thermo@3,3,53 digits@37,25,27
+v112-object-626	last-pieces@0,0,64
+v112-object-647	around-tree@0,0,64
+v112-object-659	nose@8,2,54 scent-curls@29,21,34
+v112-object-664	line-table@0,0,64
+v112-object-673	difference-bars@0,0,64
+v112-object-679	corridor@1,3,60 lamp-shade@34,11,24
+v112-object-683	thanks-bow@3,2,54 gift@37,33,26
+v112-object-703	motion-arcs@0,0,64
+v112-object-707	crowd-line@0,0,64
+v112-object-712	child@8,1,54 ball@38,29,25
+v112-object-718	name-badge@3,1,56 pencil@32,31,29
+v112-object-725	old-book@5,2,52 sandclock@36,30,28
+v112-object-729	street-crossing@1,1,56 shop@36,15,27
+v112-object-745	bulletin@3,0,58 letter@37,34,24
+v112-object-753	count-grow@3,3,56 digits@34,29,26
+v112-object-763	village-roofs@0,0,64
+v112-object-773	speaker@0,4,54 voice-waves@27,16,36
+v112-object-779	beetle-shell@1,0,54 leaf@31,31,31
+v112-object-783	family@4,1,57 ribbon@36,30,25
+v112-object-786	sleep-bed@5,18,57 dream-cloud@21,0,41
+v112-object-791	spine-back@9,0,54 coat@0,32,27
+v112-object-796	gem@5,3,55 check@38,35,25
+v112-object-802	week-grid@2,3,59 work@34,33,28
+v112-object-808	pair@5,1,54 greeting-cards@19,26,44
+v112-object-812	map@3,1,56 neighboring-houses@18,20,45
+v112-object-823	child@15,1,49 baseball@1,29,31
+v112-object-824	child@11,1,51 backpack@38,29,25
+v112-object-835	electron-track@0,0,64
+v112-object-845	letter-envelope@1,4,59 address@34,31,28
+v112-object-846	hiragana-sheet@2,0,55 katakana-sheet@29,17,34
+v112-object-850	outfit-mirror@2,5,56 coat@36,31,27
+v112-object-851	furoshiki@3,3,56 gift@36,29,26
+v112-object-852	kimono@3,1,55 obi@32,29,32
+v112-object-864	stage@1,2,60 entry-gate@38,32,26
+v112-object-871	smile@5,2,54 cheek@36,35,24
+v112-object-872	workbench@0,6,56 gearwork@36,27,27
+v112-object-876	season-tree@0,0,64
+v112-object-890	shelving@2,1,57 shopping-cart@33,27,31
+v112-object-893	family@2,2,58 cap-boy@35,31,26
+v112-object-897	compass-tool@2,2,59 orientation@35,30,28
+v112-object-900	plaza@3,1,59 crowd-line@33,32,29
+v112-object-905	line-sentence@5,1,55 page-corner@34,30,28
+v112-object-908	sport-field@1,1,57 scoreboard@30,28,33
+v112-object-910	notebook-rings@2,4,57 calendar-tear@40,29,23
+v112-object-912	target-center@0,0,64
+v112-object-918	book-jacket@1,2,59 open-book@35,31,29
+v112-object-931	school@1,1,52 school-grid@32,23,32
+v112-object-950	check@5,3,54 chart@30,33,34
+v112-object-956	week-grid@4,2,55 picnic@35,29,28
+v112-object-959	starry-sky@1,2,59 clock@39,36,25
+v112-object-966	apartment@1,1,55 crowd-line@25,23,39
+v112-object-973	world@2,1,60 globe-stand@36,32,28
+v112-object-975	empty-home@0,0,64
+v112-object-978	pencil@2,2,59 character-sheet@30,29,34
+v112-object-986	receipt@0,1,56 coins@36,35,26
+v112-object-987	rolling-hills@3,4,56 photo-print@33,29,31
+v112-object-1026	group-check@0,0,64
+v112-object-1046	part-ring@0,0,64
+v112-object-1072	bulletin@1,3,58 checklist-case@26,26,37
+v112-object-1099	gelatin-mold@1,3,58 star-mold@31,30,32
+v112-object-1105	kitchen-scale@1,8,52 glass-tumbler@34,14,29
+v112-object-1106	stream-flow@2,4,56 bridge@35,20,28
+v112-object-1160	open-box@0,6,59 fruit-basket@17,4,36
+v112-object-1173	character-sheet@1,2,57 calligraphy@28,28,35
+v112-object-1177	paper-stack@1,1,59 stack-sheets@28,26,35
+v112-object-1185	suitcase@2,1,57 trail-sign@31,25,32
+v112-object-1199	glass-tumbler@2,1,57 base-cap@31,29,33
+v112-object-1204	poison-bottle@0,0,64
+v112-object-1215	open-book@2,2,56 dream-cloud@29,3,34
+v112-object-1227	ground-cutaway@0,0,64
+v112-object-1239	plot@0,3,62 soil-section@36,29,27
+v112-object-1240	body-full@7,0,55 posture-line@20,5,30
+v112-object-1242	scent-curls@22,0,42 flower@3,20,43
+v112-object-1244	crash@0,8,61 warning@34,0,29
+v112-object-1260	stopwatch@0,0,64
+v112-object-1261	chalkboard@1,4,57 open-book@33,34,30
+v112-object-1264	sunrise@0,5,53 right@32,28,31
+v112-object-1276	river@0,5,60 big-tree@33,21,30
+v112-object-1293	two-person-signs@0,0,64
+v112-object-1299	detached-house@5,2,56 old-tree@37,28,27
+v112-object-1302	crowd-line@0,2,60 count-board@33,33,30
+v112-object-1306	front@1,3,61 face@21,14,31
+v112-object-1310	nested-shell@0,0,64
+v112-object-1321	line-table@2,2,60 chart@29,28,35
+v112-object-1326	fruit-branch@2,0,58 apple@34,25,30
+v112-object-1331	sun@9,3,43 grass@21,29,41
+v112-object-1362	speed-gauge@0,0,64
+v112-object-1365	price-tag@32,16,30 open-box@1,6,55
+v112-object-1368	target-center@2,3,54 layout-point@25,27,37
+v112-object-1371	choice-board@0,0,64
+v112-object-1374	scoreboard@1,4,59 trophy@35,31,28
+v112-object-1388	soil-section@3,1,59 surface-mark@11,15,41
+v112-object-1390	family@4,4,55 house@35,1,29
+v112-object-1391	sleep-bed@2,15,53 sweat@37,6,25
+v112-object-1405	both-parents@1,0,59 baby@24,30,23
+v112-object-1411	score-sheet@0,0,64
+v112-object-1428	case-shell@0,0,64
+v112-object-1441	moon@8,0,49 alarm@33,32,29
+v112-object-1457	tape-measure@2,2,57 shirt@31,29,30
+v112-object-1458	breakfast-tray@0,0,64
+v112-object-1462	room-cutaway@0,0,64
+v112-object-1464	rear@2,2,59 car-body@24,23,35
+v112-object-1468	whisper@0,0,64
+v112-object-1473	rooftop-deck@0,0,64
+v112-object-1476	front@1,2,60 straight-ahead@27,17,34
+v112-object-1481	running-person@4,4,56 jersey@37,31,26
+v112-object-1483	voicemail@3,3,56 smartphone@35,27,28
+v112-object-1494	leading-group@0,0,64
+v112-object-1496	scoreboard@1,3,55 decline@36,28,27
+v112-object-1498	rice-field@2,9,59 village-roofs@30,0,33
+v112-object-1503	height-mark@0,0,64
+v112-object-1504	warehouse-stack@0,0,64
+v112-object-1510	ward-bed@1,9,62 medical@39,1,24
+v112-object-1511	hair-strands@3,3,55 comb-teeth@35,29,28
+v112-object-1519	plane@3,1,50 village-roofs@18,29,40
+v112-object-1521	word-card@0,0,64
+v112-object-1535	lab-coat@2,2,56 stethoscope@36,28,27
+v112-object-1538	lunchbox@4,7,54 chopsticks@32,23,31
+v112-object-1542	newspaper@5,2,54 photo-print@29,32,34
+v112-object-1543	family-tree@0,0,64
+v112-object-1547	large@4,4,59 passenger-car@35,30,27
+v112-object-1549	index-point@0,0,64
+v112-object-1553	workbench@1,3,55 plane-wood@34,32,27
+v112-object-1554	soup@3,3,59 spoon@36,28,27
+v112-object-1566	tray-meal@4,8,56 sunset@28,0,33
+v112-object-1582	oil-pour@0,0,64
+v112-object-1595	moon@1,2,41 sleep-bed@12,21,50
+v112-object-1603	sleep-bed@0,2,61 dream-cloud@30,0,33
+v112-object-1614	applause-stage@5,3,56 crowd-line@34,27,28
+v112-object-1621	monkey-branch@0,0,64
+v112-object-1635	handbag@3,2,57 wallet@35,33,27
+v112-object-1650	pay-envelope@0,0,64
+v112-object-1652	blood@3,1,54 pulse@23,25,39
+v112-object-1656	trail-sign@2,2,56 map@34,30,30
+v112-object-1658	ribbon@3,4,58 lantern@37,19,27
+v112-object-1667	checklist-case@0,0,64
+v112-object-1669	pain-sign@28,7,33 face@1,6,51
+v112-object-1672	instruction-sheet@4,2,55 ruler-triangle@33,30,29
+v112-object-1682	flour-sack@0,0,64
+v112-object-1690	opposite-doors@0,0,64
+v112-object-1693	television@2,2,58 film@37,28,27
+v112-object-1699	reverse-card@4,2,57 rear@34,29,27
+v112-object-1710	destination-pin@0,0,64
+v112-object-1717	lab-bench@3,1,55 lab@31,29,32
+v112-object-1718	bird@1,2,59 nest@35,29,29
+v112-object-1723	broth-ladle@0,0,64
+v112-object-1725	planner@2,2,57 time@34,28,29
+v112-object-1747	geometry-page@0,0,64
+v112-object-1756	yawn-face@0,0,64
+v112-object-1782	pudding@1,6,55 spoon@35,25,29
+v112-object-1785	driver-view@0,0,57 seat@38,29,25
+v112-object-1787	corner-shelf@0,0,64
+v112-object-1789	dance@3,2,59 sheet-music@39,31,25
+v112-object-1802	celebrate@1,4,57 greeting-cards@35,28,28
+v112-object-1808	sizes-side-by-side@0,0,64
+v112-object-1819	part-ring@0,0,53 difference-bars@35,27,29
+v112-object-977	calendar@2,4,53 plum-blossom@34,24,28
+v112-action-1685	wilted-flower@0,0,64
+v112-object-1852	midpoint-span@0,0,64
+v112-object-1853	tray-meal@0,0,52 clock@34,29,30
+v112-object-1858	spacing-posts@0,0,64
+v112-object-1872	archive@2,5,52 line-sentence@36,29,29
+v112-object-1878	calendar@4,4,56 checklist-case@34,27,30
+v112-object-1879	sofa@3,6,56 coffee-table@30,29,34
+v112-object-1882	twins-cradle@0,0,64
+v112-object-1886	shop@0,5,57 coffee-beans@35,27,31
+v112-object-1893	percent-grid@0,0,64
+v112-object-1894	medical@35,1,27 ward-bed@0,10,55 name-badge@37,33,24
+v112-object-1897	two-way-door@0,0,64
+v112-object-1899	liquid-flask@4,5,55 spill-cup@34,27,29
+v112-object-1903	guitar@0,1,55 speaker@34,28,31
+v112-object-1910	cough-sleeve@0,0,64
+v112-object-1911	child@0,5,52 fork-question@29,13,36
+v112-object-1912	little-finger@0,0,64
+v112-object-1917	greeting-cards@0,4,56 name-badge@33,27,31
+v112-object-1920	bag@3,4,55 checklist-case@33,26,30
+v112-action-1924	boil-pot@2,5,60 thermo@36,5,30
+v112-object-1926	bowl-cream@0,0,64
+v112-object-1927	drying-cloth@1,2,60 laundry-basket@28,32,34
+v112-object-1935	stain@1,2,58 shirt@32,29,32
+v112-object-1938	dog@1,12,58 person@32,0,35
+v112-object-1941	tray-meal@1,10,57 sun@33,2,25
+v112-object-1950	ruler-mm@0,0,64
+v112-object-1953	bread@1,4,56 bread-slice@30,26,32
+v112-object-1958	lens-rays@0,0,64
+v112-object-1959	pet-bottle@0,0,64
+v112-object-1964	canvas@1,4,55 paint-tubes@28,28,35
+v112-object-1968	middle-finger@0,0,64
+v112-object-1972	key@2,5,55 pay-envelope@32,31,29
+v112-object-1979	sneeze-tissue@0,0,64
+v112-object-1983	venn-shared@0,0,64
+v112-object-1985	binocular-view@0,0,64
+v112-object-1991	cassette@1,4,56 tape-reel@35,30,28
+v112-object-1993	winners-podium@0,0,64
+v112-object-1994	cash-register@3,4,55 receipt@34,31,28
+v112-object-1996	farm-row@2,3,57 grains@35,29,27
+v112-object-2001	tram-bike@0,0,64
+v112-object-2004	top-shelf@0,0,64
+v112-object-2007	forest@2,2,62 tree-shade@26,30,32
+v112-object-2008	dollar-note@0,0,64
+v112-object-2011	banknotes@1,3,59 wallet@34,28,29
+v112-object-2014	lawn@4,4,57 grass@33,29,30
+v112-object-2017	room-cutaway@4,1,57 table@30,20,28
+v112-object-2018	tap-flow@1,4,56 pipe@33,30,30
+v112-object-2026	fishing-bank@1,0,57 fishing-net@35,29,29
+v112-object-2027	shop@1,2,57 set-meal@35,29,30
+v112-object-2028	empty-grid@0,0,64
+v112-object-2043	house@4,5,56 flame@30,3,37
+v112-object-2049	coins@2,3,56 coin-purse@31,31,32
+v112-object-2050	service-window@0,0,64
+v112-object-2053	compass-east@1,1,51 map@33,29,31
+v112-object-2057	brown-acorn@2,3,57 fruit-branch@34,29,30
+v112-object-2060	one-of-tiles@0,0,64
+v112-object-2066	ticket-strip@1,7,58 week-grid@31,24,31
+v112-object-2071	clear-sky@2,5,60 bird@30,0,33
+v112-object-2079	ring-finger@0,0,64
+v112-object-2080	camera-tripod@2,1,59 person@35,29,28
+v112-object-2081	wheat@2,1,56 flour-sack@33,28,29
+v112-object-2085	thermo@3,6,51 humidity-droplets@23,7,40
+v112-object-2087	traffic@0,4,60 road-motion@30,28,32
+v112-action-2105	ticket-gate@0,5,57 ticket-strip@32,30,32
+v112-object-2109	closing-calendar@0,0,64
+v112-object-2111	cloudless-sun@0,0,64
+v112-object-2113	ticket@1,5,56 cut-ticket@30,27,34
+v112-object-2114	bookshelf@2,2,56 open-book@29,30,33
+v112-object-2117	pressure-cuff@0,0,64
+v112-object-2127	farm-row@1,3,53 ingredients@29,28,35
+v112-object-2128	body-text@0,0,64
+v112-object-2132	lab-bench@0,8,55 electron-track@29,3,36
+v112-object-2138	mic@0,1,53 voice-waves@31,15,33
+v112-object-2145	road@0,5,58 passenger-car@30,27,33
+v112-object-2157	end-platform@0,0,64
+v112-object-2162	magazine@2,3,54 week-grid@30,30,33
+v112-object-2167	tatami@2,2,56 shoji@32,26,31
+v112-object-2168	vacant-chair@1,2,57 ticket-strip@35,30,27
+v112-object-2180	rain@1,2,55 calendar-tear@34,30,29
+v112-object-2182	season-tree@5,2,58 year-wheel@36,32,27
+v112-object-2185	pig@1,1,54 meat@31,30,33
+v112-object-2193	boil-pot@0,5,54 ingredients@32,28,32
+v112-object-2203	running-person@2,2,58 trail-sign@34,29,29
+v112-object-2207	vinegar-bottle@0,0,64
+v112-object-2208	battered-cross-section@1,1,59 frying-pan@31,30,34
+v112-object-2209	golf-green@0,0,64
+v112-object-2210	microwave@2,2,58 soup@34,29,28
+v112-object-2223	oil-barrel@0,0,64
+v112-object-2230	empty-home@4,3,58 padlock-gate@33,32,29
+v112-object-2235	capacity-bus@0,0,64
+v112-object-2238	dry-clean-coat@0,0,64
+v112-object-2240	payment@4,1,56 coins@32,28,33
+v112-object-2241	count-board@2,3,56 calculator@30,28,33
+v112-object-2252	week-grid@0,1,56 magazine@33,31,29
+v112-object-2257	one-way-ticket@0,0,64
+v112-object-2260	sale-tags@0,0,64
+v112-object-2267	chart@1,2,57 line-table@37,27,25
+v112-object-2270	map@0,2,58 trail-sign@35,25,30
+v112-object-2271	assemble@1,0,62 tools@33,32,29
+v112-object-2279	art-museum@1,5,53 frame@35,24,29
+v112-object-2283	empty-shelf@0,0,64
+v112-object-2285	winter-mountain@0,3,61 snow@29,6,39
+v112-object-2289	music-player@0,0,64
+v112-object-2296	mountain@1,0,57 village-roofs@24,24,40
+v112-object-2300	new-year@2,2,56 pay-envelope@31,30,33
+v112-object-2304	ballet-slippers@0,0,64
+v112-object-2307	sunrise@4,2,59 mountain@27,30,36
+v112-object-2309	cake-slice@0,0,64
+v112-object-2310	mountain-trail@1,5,58 backpack@36,25,27
+v112-object-2313	open-book@1,3,53 trail-sign@34,26,31
+v112-object-2317	transfer-rail@3,3,60 platform-change@28,31,36
+v112-object-2321	newspaper@1,5,57 sunrise@32,27,32
+v112-object-2326	time-zones@0,0,64
+v112-object-2330	baby@1,3,55 calendar-birthday@33,28,30
+v112-object-2335	cabbage@3,2,60 plant-parts@36,29,27
+v112-object-2336	gift@1,1,57 photo-print@35,28,30
+v112-object-2340	street-crossing@1,4,54 walking-shoes@30,29,33
+v112-object-2343	left-hand@1,4,57 stationery-pen@31,24,34
+v112-object-2346	mold-patch@0,0,64
+v112-object-2353	kg-scale@0,0,64
+v112-object-2355	shrimp-tail@0,0,64
+v112-object-2359	sorbet-bowl@0,0,64
+v112-object-2365	fluorescent@1,1,61 mineral-glow@34,30,28
+v112-object-2368	carry-home@4,2,56 food-box@33,30,28
+v112-object-2382	food-stall@0,6,58 sunrise@31,1,32
+v112-object-2392	creditcard@0,6,52 railway@34,28,29
+v112-object-2397	local-stops@0,0,64
+v112-object-2401	ask-counter@0,2,57 station-gate@34,26,29
+v112-object-2407	underline-page@0,0,64
+v112-object-2573	open-door@4,2,59 hinge-detail@37,31,26
+v112-action-2684	leaking-jug@0,0,64
+v112-action-2691	masher-pot@0,0,64
+v112-action-2716	coil-spool@0,0,64
+v112-object-2867	circle@3,2,56 compass-tool@37,32,26
+v112-object-3011	corridor@0,3,58 walkway@31,29,32
+v112-object-3013	feather@1,2,55 open-wing@23,18,41
+v112-action-3086	hand-delivery@0,0,64
+v112-object-3141	detached-house@4,4,60 woodpile@34,30,28
+v112-object-3145	dog@0,3,57 voice-waves@29,13,35
+v112-object-3155	floorboards@3,4,56 board-plank@30,29,33
+v112-action-3188	crushed-box@0,0,64
+v112-object-3223	right-angle@3,2,57 angle-arc@23,22,39
+v112-action-3462	dissolve-glass@0,0,64
+v112-action-3467	knead-dough@0,0,64
+v112-object-3543	woven-basket@0,0,64
+v112-object-3997	teddy-seam@0,0,64
+v112-action-4031	water-sprinkle@0,0,64
+v112-object-4199	trail-sign@3,2,59 marker-pin@35,25,28
+v112-object-4593	year-wheel@1,4,54 closing-calendar@36,29,26
+v112-object-5028	flowerpot@2,4,56 plant-parts@33,28,30
+v112-action-5094	sow-row@0,0,64
+v112-object-5581	one-hand-carry@0,0,64
+v112-object-5672	palm-lines@0,0,64
+v112-action-7014	broken-fragment@5,4,57 box@34,27,30
+v112-object-7545	reverse-grip@0,0,64
+v112-object-7597	hardware-bracket@0,0,64
+v112-object-7892	rain-dark@0,0,64
+v112-object-7922	cicada-wing@0,0,64
+v112-object-8130	buddha-statue@0,0,64
+v112-object-8136	geometry-page@3,1,57 circle@37,30,27
+v112-object-8284	radial-spokes@0,0,64
+v112-object-8525	sphere-grid@0,0,64
+v112-object-8554	canvas@2,2,58 oil-brush@32,28,32
+v112-object-8569	camera-angles@0,0,64
+v112-object-8579	raised-relief@0,0,64
+v112-object-8588	goose-flight@0,0,64
+v112-object-8677	microscope-slide@0,0,64
+v112-object-8765	puddle@2,13,57 clearing@28,0,36
+v112-object-8772	central-shaft@0,0,64
+v112-object-8899	clay-pot@0,0,64
+v112-object-8905	asteroid-belt@0,0,64
+v112-object-9019	paddy-planting@0,0,64
+v112-object-9089	earth-crust@0,0,64
+v112-object-9143	water-strider@0,0,64
+v112-object-9146	mirror-halves@0,0,64
+v112-object-9195	iceberg-section@0,0,64
+v112-object-9200	reef-cross-section@0,0,64
+v112-object-9279	rice-harvest@0,0,64
+v112-time-1	count-v112-1@0,0,64
+v112-time-2	count-v112-2@0,0,64
+v112-time-3	count-v112-3@0,0,64
+v112-time-4	count-v112-4@0,0,64
+v112-time-5	count-v112-5@0,0,64
+v112-time-6	count-v112-6@0,0,64
+v112-time-7	count-v112-7@0,0,64
+v112-time-8	count-v112-8@0,0,64
+v112-time-9	count-v112-9@0,0,64
+v112-time-10	count-v112-10@0,0,64
+v112-time-12	date-v112-12@0,0,64
+v112-time-13	date-v112-13@0,0,64
+v112-time-14	date-v112-14@0,0,64
+v112-time-15	date-v112-15@0,0,64
+v112-time-16	date-v112-16@0,0,64
+v112-time-17	date-v112-17@0,0,64
+v112-time-18	date-v112-18@0,0,64
+v112-time-19	date-v112-19@0,0,64
+v112-time-20	date-v112-20@0,0,64
+v112-time-21	date-v112-21@0,0,64
+v112-time-22	date-v112-22@0,0,64
+v112-time-25	date-v112-25@0,0,64
+v112-time-26	date-v112-26@0,0,64
+v112-time-27	date-v112-27@0,0,64
+v112-time-28	date-v112-28@0,0,64
+v112-time-29	date-v112-29@0,0,64
+v112-time-30	date-v112-30@0,0,64
+v112-time-31	date-v112-31@0,0,64
+v112-time-32	date-v112-32@0,0,64
+v112-time-33	date-v112-33@0,0,64
+v112-time-34	date-v112-34@0,0,64
+v112-time-35	date-v112-35@0,0,64
+v112-time-36	date-v112-36@0,0,64
+v112-time-37	date-v112-37@0,0,64
+v112-time-38	date-v112-38@0,0,64
+v112-time-39	date-v112-39@0,0,64
+v112-time-40	date-v112-40@0,0,64
+v112-time-41	date-v112-41@0,0,64
+v112-time-42	date-v112-42@0,0,64
+v112-time-43	date-v112-43@0,0,64
