@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "categories": {
     "vocab": {
       "count": 10802,
@@ -102,13 +102,13 @@
   "readingQuestions": 889,
   "kanjiChinese": 227,
   "wordVisuals": {
-    "count": 2564,
+    "count": 3280,
     "levels": {
-      "N5": 487,
-      "N4": 333,
-      "N3": 738,
-      "N2": 466,
-      "N1": 540
+      "N5": 544,
+      "N4": 379,
+      "N3": 875,
+      "N2": 726,
+      "N1": 756
     }
   },
   "vocabularyExamples": {
@@ -144,7 +144,7 @@
     "ruby-audit.json": "221b3c2e9413e4880137031f9e13b3c23f866a121748d006257698b926c3b14f",
     "ruby-data.js": "14ca78ba339bbdb9fa815ea560309239ebe67b716ff8a4e77fa0738dc1a0cf1c",
     "vocab.js": "509aab343f538ea15725f99a4a5624a5e58a5836e0051075dfc4887aa25a7fc5",
-    "word-visuals.js": "b24785fa79d6e9d292cd4f10ca52664259797f96c5cc098c49d8e1b75ad2d78e",
+    "word-visuals.js": "7218e0d08481d8b31d5db4abe05cf9612af2bc3114972e2e178434e975e8494e",
     "writing.js": "a5ce9fd14f3eb0774e03c00c2921e1064616608945b7b490ee6b8f2b72411b85"
   }
 }
